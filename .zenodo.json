@@ -15,10 +15,15 @@
     "HL7 FHIR",
     "International Patient Summary",
     "IPS",
-    "synthetic data",
-    "health timeline",
+    "virtual patients",
+    "synthetic health data",
+    "patient timeline",
+    "health data visualization",
+    "LOINC",
+    "SNOMED CT",
     "generative AI",
-    "medical education"
+    "medical education",
+    "open educational resources"
   ],
   "related_identifiers": [
     {
@@ -30,6 +35,11 @@
       "identifier": "https://ciencia-letras.github.io/",
       "relation": "isPartOf",
       "resource_type": "other"
+    },
+    {
+      "identifier": "https://zenodo.org/communities/ciencia-letras",
+      "relation": "isPartOf",
+      "resource_type": "other"
     }
   ],
   "contributors": [
@@ -38,5 +48,10 @@
       "type": "RightsHolder"
     }
   ],
-  "notes": "Copyright © 2026 Ciência e Letras — Formação Especializada, Lda.. Author: Ricardo Correia."
+  "notes": "Copyright © 2026 Ciência e Letras — Formação Especializada, Lda.. Author: Ricardo Correia.",
+  "communities": [
+    {
+      "identifier": "ciencia-letras"
+    }
+  ]
 }
