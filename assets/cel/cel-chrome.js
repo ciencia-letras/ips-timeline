@@ -11,7 +11,7 @@
     en: {
       lab: "Ciência e Letras · Research & Innovation", back: "Back to the lab", labShort: "Lab",
       side: "Use and citation", hide: "Hide panel", show: "Show panel", rail: "Cite · Licence",
-      cTitle: "Copyright", lTitle: "Free to use, with attribution",
+      authorL: "Author", authorsL: "Authors", cTitle: "Copyright", lTitle: "Free to use, with attribution",
       lText: "Any institution may use, adapt and share this tool, including in teaching and training, as long as it cites it as shown below.",
       code: "Code", content: "Content and fictitious data",
       howTitle: "How to cite", copy: "Copy", copied: "Copied",
@@ -23,7 +23,7 @@
     pt: {
       lab: "Ciência e Letras · Investigação e Inovação", back: "Voltar ao laboratório", labShort: "Laboratório",
       side: "Utilização e citação", hide: "Esconder painel", show: "Mostrar painel", rail: "Citar · Licença",
-      cTitle: "Direitos de autor", lTitle: "Uso livre, com referência",
+      authorL: "Autor", authorsL: "Autores", cTitle: "Direitos de autor", lTitle: "Uso livre, com referência",
       lText: "Qualquer instituição pode usar, adaptar e partilhar esta ferramenta, incluindo em ensino e formação, desde que a cite como indicado abaixo.",
       code: "Código", content: "Conteúdos e dados fictícios",
       howTitle: "Como citar", copy: "Copiar", copied: "Copiado",
@@ -93,7 +93,7 @@
         <button class="cel-rail" type="button" data-cel-toggle>${esc(t.rail)}</button></div>
       <div class="cel-aside-in">
         <h2>${esc(t.cTitle)}</h2>
-        <p>© ${C.year} ${authors}<br>${esc(C.authors[0].affiliation)}</p>
+        <p>© ${C.year} ${esc(C.copyright || C.publisher)}<br>${esc(C.authors.length > 1 ? t.authorsL : t.authorL)}: ${authors}</p>
         <h2>${esc(t.lTitle)}</h2>
         <p>${esc(t.lText)}</p>
         <p><span class="cel-pill">${esc(t.code)}: ${esc(C.licences.code)}</span><span class="cel-pill">${esc(t.content)}: ${esc(C.licences.content)}</span></p>

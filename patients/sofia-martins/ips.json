@@ -14,14 +14,14 @@
     ]
   },
   "identifier": {
-    "system": "https://ricardojccorreia.github.io/ips-timeline/NamingSystem/ips-bundle",
+    "system": "https://ciencia-letras.github.io/ips-timeline/NamingSystem/ips-bundle",
     "value": "sofia-martins-2026-11-08"
   },
   "type": "document",
   "timestamp": "2026-11-08T09:00:00+00:00",
   "entry": [
     {
-      "fullUrl": "urn:uuid:cba68267-3e4f-50a7-9b90-cfcd4b2b336b",
+      "fullUrl": "urn:uuid:ca5638e3-bbf7-5cf4-a6f0-08859e367686",
       "resource": {
         "resourceType": "Composition",
         "meta": {
@@ -40,16 +40,16 @@
           ]
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "date": "2026-11-08T09:00:00+00:00",
         "author": [
           {
-            "reference": "urn:uuid:33e0d88f-5d03-58bd-ac52-7ac45d189b2f"
+            "reference": "urn:uuid:d3c466cc-1333-5e8e-b69b-4ab82339d94a"
           }
         ],
         "custodian": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
         "title": "Resumo do paciente (IPS) — Sofia Martins",
         "confidentiality": "N",
@@ -71,10 +71,10 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:25ba9f3a-0043-5275-ae9d-8be8272a7f6c"
+                "reference": "urn:uuid:a7443e33-c086-5a12-b41f-5fa27ddb6303"
               },
               {
-                "reference": "urn:uuid:8b1579c8-fe94-50a4-89a2-59af0b096065"
+                "reference": "urn:uuid:e3de2ebb-9d7d-5a83-8768-211469024727"
               }
             ]
           },
@@ -95,7 +95,7 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:cc7af650-4dad-5885-8c7f-8f745829a24e"
+                "reference": "urn:uuid:04d07af9-893f-51bf-81d6-5e6956d4678c"
               }
             ]
           },
@@ -116,28 +116,28 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:2f741e4f-c4c5-5fc3-99ca-dc845444b305"
+                "reference": "urn:uuid:4c12f708-d9ea-581e-8921-ba4bc254cb9b"
               },
               {
-                "reference": "urn:uuid:dc961752-0088-53d2-84a1-d2ecc9846877"
+                "reference": "urn:uuid:d3d1358f-cee4-54bd-b95f-8dd28ad8bb9b"
               },
               {
-                "reference": "urn:uuid:15ed9736-9bdf-5c72-b3c8-2a2eb5cf3b7e"
+                "reference": "urn:uuid:4b181883-9d20-5f71-9b81-ecad65911e5c"
               },
               {
-                "reference": "urn:uuid:bcf394f2-e52b-5d38-a3ae-e06d3d736852"
+                "reference": "urn:uuid:9635d35c-b4d7-5d8a-b4a7-8bf58996c8da"
               },
               {
-                "reference": "urn:uuid:072ac96a-7df9-5d9b-a18f-f4d36d6036d9"
+                "reference": "urn:uuid:425f7272-6b03-5922-9080-824f95c64b64"
               },
               {
-                "reference": "urn:uuid:7a72f438-2e3f-56fd-aa0b-2623b4796e22"
+                "reference": "urn:uuid:3bee4cc0-136a-518d-b994-15da1fe23e87"
               },
               {
-                "reference": "urn:uuid:a580cf7b-8631-5fa8-a64e-533fd9eb034e"
+                "reference": "urn:uuid:4b123714-a53a-5726-a70a-f18869c27058"
               },
               {
-                "reference": "urn:uuid:78b6243a-683b-51e9-b49a-aa9ce697de60"
+                "reference": "urn:uuid:a28a3ffd-ea96-5e9e-ad38-97bbe644566e"
               }
             ]
           },
@@ -158,19 +158,19 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:8430f406-47ea-5161-83c8-d6c5294671c1"
+                "reference": "urn:uuid:1d7e8f64-418a-5f90-956d-8ff32f9f7ff3"
               },
               {
-                "reference": "urn:uuid:abf93869-43c4-5b91-9078-92520f255d62"
+                "reference": "urn:uuid:68082c02-637f-519e-8b9f-4f04d818789f"
               },
               {
-                "reference": "urn:uuid:9eaee14d-8309-5139-8a07-e698822395a6"
+                "reference": "urn:uuid:7052c283-da19-5da4-b335-8f336ca46bd4"
               },
               {
-                "reference": "urn:uuid:d72d6d0c-77ec-565f-85f5-20092c8a9f33"
+                "reference": "urn:uuid:e783677c-de52-53f2-a163-314b5955fefb"
               },
               {
-                "reference": "urn:uuid:6c61d5f6-ef80-5b42-924b-1b74265a643c"
+                "reference": "urn:uuid:9219aa12-b228-54de-be71-b08cd8ba9cd3"
               }
             ]
           },
@@ -191,10 +191,10 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:d0f1c3e5-8348-5605-afe3-a8acb99d7e7b"
+                "reference": "urn:uuid:bf69d004-f7b2-525a-8236-bde291e248de"
               },
               {
-                "reference": "urn:uuid:f9bf5b13-3c55-591a-b815-2970639c1882"
+                "reference": "urn:uuid:1491b314-7fbb-58be-8707-4e1487a7276a"
               }
             ]
           },
@@ -215,7 +215,7 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:3a2d3bf0-56bd-5965-aa48-fa2c58ec84e5"
+                "reference": "urn:uuid:3dc97c6a-a374-5b63-a13a-33e8a9b1797b"
               }
             ]
           },
@@ -236,202 +236,202 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:449a557c-182b-59bb-b9a8-7cd12bb93a82"
+                "reference": "urn:uuid:e62dbd51-3485-5f08-86ce-a070b1cf7e6e"
               },
               {
-                "reference": "urn:uuid:aaf7ace5-787d-59b3-bcff-451e57f4ede9"
+                "reference": "urn:uuid:902d020b-1886-5c69-af9b-82a78d2c4750"
               },
               {
-                "reference": "urn:uuid:2c8d2da6-0e0e-594e-b63f-234dcef60d76"
+                "reference": "urn:uuid:79ac2f88-50bf-50eb-9204-c9b0a660d965"
               },
               {
-                "reference": "urn:uuid:f57ee236-8788-5260-a108-882363bc640e"
+                "reference": "urn:uuid:942b71ec-0d24-50d9-b5f3-2e43ae44f2ec"
               },
               {
-                "reference": "urn:uuid:869d238a-ef07-575b-945f-57c1f238d1c6"
+                "reference": "urn:uuid:771c7a99-4386-56fb-8c23-0d0ec6133f7c"
               },
               {
-                "reference": "urn:uuid:d562775b-21f8-5f0c-8fc8-62bec293c812"
+                "reference": "urn:uuid:53a8f80a-b428-5df7-85a1-8d84a2616e6a"
               },
               {
-                "reference": "urn:uuid:c9fca4f9-6a39-530e-9833-7efcc21fcf44"
+                "reference": "urn:uuid:0d16c1c7-96c4-57f9-b7f1-45fa6a761f19"
               },
               {
-                "reference": "urn:uuid:dd3a1769-13d6-5997-9105-726773d27094"
+                "reference": "urn:uuid:401ca297-e62d-52a8-8580-cc01ecbad153"
               },
               {
-                "reference": "urn:uuid:46388f35-2e3c-5a78-b065-d5edf5feb93b"
+                "reference": "urn:uuid:56863b76-588a-5bf5-9d08-bd382f9ee214"
               },
               {
-                "reference": "urn:uuid:b5f8594a-06f8-57d7-9a32-b3c4eeebe094"
+                "reference": "urn:uuid:7ff20a8d-68f7-553e-be01-1e370c4842ef"
               },
               {
-                "reference": "urn:uuid:315ffad5-d6e8-5078-9179-ac0c054e9b33"
+                "reference": "urn:uuid:ede7ad31-835b-580d-af43-57ad6e33eee9"
               },
               {
-                "reference": "urn:uuid:ba3719b3-7b8d-596c-b9c1-6201e4fd2e24"
+                "reference": "urn:uuid:dbd7e121-88ea-5806-809e-625291929684"
               },
               {
-                "reference": "urn:uuid:44b9222b-f9ce-5ff0-839c-c0db0eaacd89"
+                "reference": "urn:uuid:e978a1f4-6f39-57cb-9865-94a0846409be"
               },
               {
-                "reference": "urn:uuid:96809c1d-87ba-5216-a95b-ef33942aa744"
+                "reference": "urn:uuid:7330734d-2b93-5347-8463-2289923a7015"
               },
               {
-                "reference": "urn:uuid:0ac5b92c-24c9-57cb-9f4a-e765de5369f5"
+                "reference": "urn:uuid:b9999d50-1ba8-5b85-8947-ba92b70c6b40"
               },
               {
-                "reference": "urn:uuid:e19cf45d-893b-5f15-b773-447adb856585"
+                "reference": "urn:uuid:3a2c43d7-d1db-54e5-9c79-99d5568a0c7b"
               },
               {
-                "reference": "urn:uuid:ac1460e9-253f-5568-b7a1-c97c1c122b0f"
+                "reference": "urn:uuid:0332b6a4-4e89-5128-9e98-d1ecc0829592"
               },
               {
-                "reference": "urn:uuid:5463e1fb-6af7-59d9-94dd-eb010f9f2c18"
+                "reference": "urn:uuid:1f40c9fc-5942-500d-a1af-b749375bdc7b"
               },
               {
-                "reference": "urn:uuid:f72a5998-2c6c-50cf-8695-75c9823dfcba"
+                "reference": "urn:uuid:a3a2758a-a32d-5bef-b656-fa41313f9470"
               },
               {
-                "reference": "urn:uuid:b17975cb-6ee4-5dad-b236-05022be9e115"
+                "reference": "urn:uuid:2fd221ff-4de3-55a6-9e93-f73086dd0eb0"
               },
               {
-                "reference": "urn:uuid:ad227903-c8b9-5e75-b348-0fec65f77f9e"
+                "reference": "urn:uuid:84a2a1eb-c3b8-562b-984c-9e0a39e5545d"
               },
               {
-                "reference": "urn:uuid:2ec52ca0-6396-5280-be68-2b517911843e"
+                "reference": "urn:uuid:40718cea-dc10-524c-a761-26322178a6bf"
               },
               {
-                "reference": "urn:uuid:854b137e-d5a1-5254-aaf5-d64cf934c68a"
+                "reference": "urn:uuid:4e66a8b4-b188-5b8f-b0b3-50f5466602d0"
               },
               {
-                "reference": "urn:uuid:561505cf-e4f8-5555-8ad5-f6650129c732"
+                "reference": "urn:uuid:f498ac24-9e53-55ef-a66c-9e6c54068d6c"
               },
               {
-                "reference": "urn:uuid:cc8419ad-9c14-5171-8259-841f36699fd8"
+                "reference": "urn:uuid:d5392492-1266-5987-bd24-1d0637009110"
               },
               {
-                "reference": "urn:uuid:3e9066ee-361b-5822-99f2-159017517a6f"
+                "reference": "urn:uuid:47a2306a-ae8d-5749-baf3-4f235964d906"
               },
               {
-                "reference": "urn:uuid:07d777e5-c384-577e-8cf3-e459756e3d3f"
+                "reference": "urn:uuid:31f0d4dc-a6dc-51d0-abce-3c1efc35da87"
               },
               {
-                "reference": "urn:uuid:64843177-9b5c-5309-bef4-70f56db579f4"
+                "reference": "urn:uuid:98c6ab94-1afe-5ded-8542-47867658d4eb"
               },
               {
-                "reference": "urn:uuid:daae726d-3da4-594c-a308-486cb59747c6"
+                "reference": "urn:uuid:579cbc4c-7872-5834-a735-a4196fa17873"
               },
               {
-                "reference": "urn:uuid:644ce2ac-c3ca-5f3b-8b05-e0db51ed47c0"
+                "reference": "urn:uuid:967c7729-88f1-5ed7-b55f-641a26d55940"
               },
               {
-                "reference": "urn:uuid:6fd6a674-5fd2-5c45-9eab-0d227cc309df"
+                "reference": "urn:uuid:fc18dac1-7318-5e4b-98c6-b76a6c72acff"
               },
               {
-                "reference": "urn:uuid:5bd96b4d-7d12-5975-b298-eccb9da59e8e"
+                "reference": "urn:uuid:9dfc6966-34ed-5ecf-8148-47866dddd50e"
               },
               {
-                "reference": "urn:uuid:11a62bb7-9033-531c-84e0-3aca67f69fd0"
+                "reference": "urn:uuid:380b6f76-ce88-562f-b2f9-a27e36f533ab"
               },
               {
-                "reference": "urn:uuid:7e80e50f-a2ac-5475-94cd-72463dd9cbe5"
+                "reference": "urn:uuid:fe011a58-55da-52e1-96b3-a12d5d1cf1e2"
               },
               {
-                "reference": "urn:uuid:c8628c55-37db-5005-be8e-5e0a6ef35bbf"
+                "reference": "urn:uuid:54a42c80-45cb-534a-97fa-199311bc7edb"
               },
               {
-                "reference": "urn:uuid:655d9bf7-0aa0-5c08-8e68-32b69f959a40"
+                "reference": "urn:uuid:b4cb4c93-d997-574a-8ee2-705aabba1dda"
               },
               {
-                "reference": "urn:uuid:fc380e2e-2adc-566b-8cfd-e56170b45369"
+                "reference": "urn:uuid:a7eae33a-6530-58c7-8d50-34225a046033"
               },
               {
-                "reference": "urn:uuid:13fee0f0-bca1-5457-b1ed-5fa24958d822"
+                "reference": "urn:uuid:5f6ace62-5718-56dc-a318-0e2deccdbcfa"
               },
               {
-                "reference": "urn:uuid:1b798693-0d3b-5681-98d2-60a88b7c4777"
+                "reference": "urn:uuid:af102ded-ff20-5891-9258-f916d6b96dd3"
               },
               {
-                "reference": "urn:uuid:88f7c4fe-55de-57f1-b3a2-47d675cfc427"
+                "reference": "urn:uuid:b33ecdb5-3269-595b-973a-531cc40c7100"
               },
               {
-                "reference": "urn:uuid:b8b5c23b-60a1-5731-8f61-ab41ad5fbee2"
+                "reference": "urn:uuid:94d52f25-55dc-57d3-9fa0-3746aaef358e"
               },
               {
-                "reference": "urn:uuid:5bbe1f71-954a-533e-a335-51264f1c469d"
+                "reference": "urn:uuid:b84f4fc5-a302-573e-9bfa-c798975052eb"
               },
               {
-                "reference": "urn:uuid:84516bab-a5aa-5666-b7da-30827bce06d6"
+                "reference": "urn:uuid:87d05a1e-ffd4-5f86-98e6-00fa41e7ca4d"
               },
               {
-                "reference": "urn:uuid:20278221-0b71-56bf-9ba8-4e21e156146c"
+                "reference": "urn:uuid:26f9096f-39e3-5b6f-a260-dda4f4259055"
               },
               {
-                "reference": "urn:uuid:d6843f4f-db45-5cef-b00f-727cc98bdfd0"
+                "reference": "urn:uuid:4afb5fd8-113b-51c3-b8cf-d977d1e1f638"
               },
               {
-                "reference": "urn:uuid:ec979fa6-9744-5a50-8734-eb3e0fe60267"
+                "reference": "urn:uuid:e3a60b58-9005-57f4-ab34-5bd7231c675e"
               },
               {
-                "reference": "urn:uuid:9ef5d513-3b5d-5acc-87b2-209f2a717278"
+                "reference": "urn:uuid:eae826c1-2e04-5cf6-8125-a01d11eea1bf"
               },
               {
-                "reference": "urn:uuid:8d681f56-0455-55f1-af54-8d1e20336a10"
+                "reference": "urn:uuid:90522563-fcef-5291-b221-fe6305105a1c"
               },
               {
-                "reference": "urn:uuid:44adb72e-5ac3-55da-979c-a5d3e87210a8"
+                "reference": "urn:uuid:5fb99c4d-6af2-5ba4-bd72-12fb5721a3da"
               },
               {
-                "reference": "urn:uuid:8c0537b2-c05c-5196-93f4-4150d4a862fe"
+                "reference": "urn:uuid:530d61e5-11bc-500b-bf13-4cfab9b8d3c8"
               },
               {
-                "reference": "urn:uuid:8ed5ac4d-68e2-5145-91ea-27527d68f273"
+                "reference": "urn:uuid:83739a4f-7e1b-573d-ac13-cb849305a022"
               },
               {
-                "reference": "urn:uuid:2f3027b9-6b75-57f8-817f-9fca7c3a0c35"
+                "reference": "urn:uuid:fbacf0c4-134f-50a8-8616-6e651733845e"
               },
               {
-                "reference": "urn:uuid:089d15e8-a2d7-5dc8-bcc9-728d410ca29d"
+                "reference": "urn:uuid:410559dc-f141-55f8-85eb-1b3c1080d769"
               },
               {
-                "reference": "urn:uuid:30ce8cb0-c551-5956-a8b2-9418292a6248"
+                "reference": "urn:uuid:4de9b6a2-c05b-5b7e-bdf8-5aef97bb75c9"
               },
               {
-                "reference": "urn:uuid:8cc0f957-091a-5185-846d-5b2a021ea380"
+                "reference": "urn:uuid:7fe56d3a-d0f7-594b-aabc-e2e3bb21cd33"
               },
               {
-                "reference": "urn:uuid:224b1ec7-463d-51f7-a198-065e174e116a"
+                "reference": "urn:uuid:c0b8f8e6-40f0-5245-aad0-65a81f84475b"
               },
               {
-                "reference": "urn:uuid:0a1f8595-4255-51d8-9a8b-a9cde1b87eba"
+                "reference": "urn:uuid:b3428e73-0cab-5e41-ad1f-202c824832f3"
               },
               {
-                "reference": "urn:uuid:d44990c4-5179-5218-af47-3658dfbb4ecf"
+                "reference": "urn:uuid:3f48b0dc-fdef-51ff-b1f1-8e20417c126a"
               },
               {
-                "reference": "urn:uuid:5ea0fba7-2ec1-5bc1-9b91-3d64e564c0e1"
+                "reference": "urn:uuid:2d4a08c9-7820-5f97-99eb-5f2795526f46"
               },
               {
-                "reference": "urn:uuid:80c38480-d1d1-576d-bde4-be5e9677212d"
+                "reference": "urn:uuid:6b5b54c5-4dee-58e9-a7ae-467a04e4c9ce"
               },
               {
-                "reference": "urn:uuid:b7f9ccfd-1959-578d-8f7c-bd64bdd0dfb8"
+                "reference": "urn:uuid:79977f26-8b8c-5d05-8ecc-f9b6b0c34261"
               },
               {
-                "reference": "urn:uuid:e0cdce8f-97ca-50fa-bd74-0bcf84f672f5"
+                "reference": "urn:uuid:c86826d9-656c-5382-ae42-1bd7792b3abe"
               },
               {
-                "reference": "urn:uuid:c0bf2eee-bed3-5e23-bf22-92cf9e541c07"
+                "reference": "urn:uuid:a4eceda5-5b99-5924-a252-04d8837b2487"
               },
               {
-                "reference": "urn:uuid:02e90c8f-c1ee-5bed-a771-0d7bf9d3549b"
+                "reference": "urn:uuid:af5b7431-64ff-55b2-8b35-1ddf4d80cfc3"
               },
               {
-                "reference": "urn:uuid:ad6da6ea-a26e-5a9e-b13a-fb088926ee71"
+                "reference": "urn:uuid:cc34c7bb-d7fa-5d62-be11-678251fe47d5"
               },
               {
-                "reference": "urn:uuid:3bbc9b57-58f2-5012-bd4d-9aba39f9d83e"
+                "reference": "urn:uuid:2b0fc9c1-ad03-5dd4-b852-cecd74b52582"
               }
             ]
           },
@@ -452,82 +452,82 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:5374ba58-4168-5e94-b1c9-8e59d5e5aed5"
+                "reference": "urn:uuid:75c6f2ca-02b0-56c5-9714-f6fcaf99eab8"
               },
               {
-                "reference": "urn:uuid:3ef7049b-ec6f-52fc-a51d-4637e2e7ea78"
+                "reference": "urn:uuid:bac40764-30c5-5989-a4d1-8c5ee60e2980"
               },
               {
-                "reference": "urn:uuid:b4f0dc65-3d5f-5476-87d6-48c4da660ab2"
+                "reference": "urn:uuid:906ead42-d852-5775-934f-d708303d37ec"
               },
               {
-                "reference": "urn:uuid:17dcb9ac-b001-5ec6-b7f1-8938f3366d91"
+                "reference": "urn:uuid:ee757b35-0e20-5792-9bcd-f1955de91811"
               },
               {
-                "reference": "urn:uuid:008bfac6-ca1d-596d-84fd-9846fb9699e7"
+                "reference": "urn:uuid:b9b495f5-dd6b-50b2-9bef-5201122b3c18"
               },
               {
-                "reference": "urn:uuid:5fd0f636-e0f3-5432-a3ec-e95e4d67d5b2"
+                "reference": "urn:uuid:b899c100-bde0-5721-b626-b29f55287596"
               },
               {
-                "reference": "urn:uuid:9f0cbf87-d518-587f-949f-265df5ab2cdc"
+                "reference": "urn:uuid:1ca58dd1-7a25-5cb7-ab7b-32dd9c0b6b2f"
               },
               {
-                "reference": "urn:uuid:1baa0984-9f3a-57d7-817a-83cf6c820414"
+                "reference": "urn:uuid:3b431045-3198-5e50-8424-2172ddf06c4e"
               },
               {
-                "reference": "urn:uuid:e4a5a6c3-c747-559f-92bf-a396f947ce47"
+                "reference": "urn:uuid:330c60a3-12d7-5c3b-b889-9c50f7c2b25b"
               },
               {
-                "reference": "urn:uuid:9fad9bc9-aa25-5547-a1bd-6de24578efb3"
+                "reference": "urn:uuid:136b6375-a38f-5d14-a163-4ff82d5dcb04"
               },
               {
-                "reference": "urn:uuid:2d5d230e-3397-5f50-a954-8dbb8955be44"
+                "reference": "urn:uuid:730c7388-b8f9-5216-aaad-7216111b2ba9"
               },
               {
-                "reference": "urn:uuid:03649dea-0a34-55fe-b6de-5dfd29abd757"
+                "reference": "urn:uuid:ec6da692-f460-5b0a-bf66-392349f603e6"
               },
               {
-                "reference": "urn:uuid:e929fe31-f53e-5e9a-aa26-9dd815b407f8"
+                "reference": "urn:uuid:15940a81-25bb-5459-a59a-6debec792fad"
               },
               {
-                "reference": "urn:uuid:40f5f87e-a8d5-5f94-93ee-5890ffeb3f81"
+                "reference": "urn:uuid:88bd64ec-980e-5242-81a4-2ef9deb57ea1"
               },
               {
-                "reference": "urn:uuid:78f5a89d-a50e-5dc4-8f26-8391c889bacf"
+                "reference": "urn:uuid:db8108d0-a3cc-5173-a66f-47b87a60695b"
               },
               {
-                "reference": "urn:uuid:fb06def0-bd5a-5126-94b2-c9b8c8e06527"
+                "reference": "urn:uuid:866e385e-72b2-5c72-bc33-017b6c18a804"
               },
               {
-                "reference": "urn:uuid:fd984c8c-1ad4-5317-8c26-b58469b738d7"
+                "reference": "urn:uuid:420b8f38-e861-5731-9a53-b2f0021a084d"
               },
               {
-                "reference": "urn:uuid:58236c91-dad7-5a0d-884c-c9d74d6597fe"
+                "reference": "urn:uuid:9af5041a-01ea-5208-a5a5-eb4c087617b2"
               },
               {
-                "reference": "urn:uuid:bb3dbcab-51d2-5d5c-be3c-6f56a7f0e98a"
+                "reference": "urn:uuid:4f8c9ce1-b945-51e1-b8ea-a4b520ace768"
               },
               {
-                "reference": "urn:uuid:e9024688-5a3c-5a03-a3b7-b9b659593fef"
+                "reference": "urn:uuid:1a389ee0-72c3-5399-93de-50a4e3a86084"
               },
               {
-                "reference": "urn:uuid:d533ed95-c253-5f97-9bd1-26ceed9ad506"
+                "reference": "urn:uuid:eb01bb97-3767-5893-8e0f-ed27ae027fa7"
               },
               {
-                "reference": "urn:uuid:06d24b8b-0ded-52a9-aee7-47b19c5b3bbd"
+                "reference": "urn:uuid:4a7dd6ae-bf50-5d2e-b0d7-9877eb5c6221"
               },
               {
-                "reference": "urn:uuid:eef7e681-c384-5eac-9d8b-cd94d8361222"
+                "reference": "urn:uuid:a34f88c5-8fcf-5442-bf32-0a02830b8ea2"
               },
               {
-                "reference": "urn:uuid:ff8f9c1b-3193-5153-97d9-d62c1d1d4430"
+                "reference": "urn:uuid:9959e57d-1210-5350-8bde-a9d0d353f728"
               },
               {
-                "reference": "urn:uuid:08f9a316-422e-5705-b93d-2f35130b9f7a"
+                "reference": "urn:uuid:43248af0-40d3-5369-a268-8e937c38cb1b"
               },
               {
-                "reference": "urn:uuid:4ce620ff-36d4-5c27-99d9-27e96014de72"
+                "reference": "urn:uuid:9efe7b97-ac03-50ab-9096-7cabd3544045"
               }
             ]
           },
@@ -548,7 +548,7 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:db3bcbc5-0ff5-5ac7-bee4-cf43b22b6765"
+                "reference": "urn:uuid:8cb5109f-3195-55f3-a1ac-e4a4ba0284f3"
               }
             ]
           },
@@ -569,133 +569,133 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:5c96ffaa-9915-58c0-8622-d63f4b91a385"
+                "reference": "urn:uuid:7aaa0664-de45-5c78-8de0-82a577aec14d"
               },
               {
-                "reference": "urn:uuid:9960773e-a5df-56f6-88c1-2bb87cc8adcb"
+                "reference": "urn:uuid:f9151acd-7828-5d12-b266-a6389ab69b1c"
               },
               {
-                "reference": "urn:uuid:713da5ca-cb2d-5a80-82af-71bc9f390671"
+                "reference": "urn:uuid:82099914-1abd-5b50-a88f-4ba2f5d0e567"
               },
               {
-                "reference": "urn:uuid:0433418d-b6b5-5255-b646-543a7c66c5d6"
+                "reference": "urn:uuid:d68ec8a4-d911-5299-bd88-61d95bcfc625"
               },
               {
-                "reference": "urn:uuid:d702e03b-03c5-52f6-b231-77ed0b7ddc6a"
+                "reference": "urn:uuid:a98d3506-7638-541d-a99d-d07ad73d52ac"
               },
               {
-                "reference": "urn:uuid:421494a5-76d2-5648-8a97-9b0b9fc39dca"
+                "reference": "urn:uuid:cf74b4bd-4e97-5087-97f4-806b161aee16"
               },
               {
-                "reference": "urn:uuid:89205649-4bee-59c3-bf66-159783d23ee1"
+                "reference": "urn:uuid:1621acce-81cc-5d77-b62b-25d941449ab3"
               },
               {
-                "reference": "urn:uuid:3c4baf12-5a7d-5594-9f2e-905b9f74f888"
+                "reference": "urn:uuid:38fde9de-2bdf-53c7-bc89-d5efceeb3606"
               },
               {
-                "reference": "urn:uuid:aed8cfab-053d-5bb0-9d86-40833e4b4130"
+                "reference": "urn:uuid:a854fcd1-b4df-56dc-a4a0-85fe051b89ed"
               },
               {
-                "reference": "urn:uuid:f6d74129-8b74-58de-ae34-46ea2246ae23"
+                "reference": "urn:uuid:ccfbceb2-f5ff-559f-92df-97fac4e2eb82"
               },
               {
-                "reference": "urn:uuid:bef004fd-cbf1-56f9-92bd-7289d636c638"
+                "reference": "urn:uuid:e64684ed-46ef-5a0f-b565-ff1af434a498"
               },
               {
-                "reference": "urn:uuid:3b873bcc-0aad-57ef-ae01-cbb9321b3ea7"
+                "reference": "urn:uuid:5a70439b-d12d-5b7c-aaa2-142c88fbebdb"
               },
               {
-                "reference": "urn:uuid:69914939-7ada-5731-96bf-22812ae7f460"
+                "reference": "urn:uuid:3a50c810-ba04-5076-a60b-f6ce4f0dea0f"
               },
               {
-                "reference": "urn:uuid:a0e9f88c-2229-5d69-b63c-3785f5500e39"
+                "reference": "urn:uuid:4e709e7f-3e45-52b9-a151-6833715aefcf"
               },
               {
-                "reference": "urn:uuid:819abc5b-9174-5e61-b0b9-9faf891c3c58"
+                "reference": "urn:uuid:0d2f48ac-97b2-5c5f-b37a-cf62fc90dd10"
               },
               {
-                "reference": "urn:uuid:efbc3c87-d334-5583-a07e-111cba6d90c4"
+                "reference": "urn:uuid:34b8dcbf-fee5-5bce-ab92-68cdfe637bd8"
               },
               {
-                "reference": "urn:uuid:c437a32f-c54e-5653-86ea-d872ef3a3563"
+                "reference": "urn:uuid:ab98afd4-9dd4-526c-ba58-f88fa32a0c06"
               },
               {
-                "reference": "urn:uuid:d012f48d-0859-5b30-8d25-737fb48c571c"
+                "reference": "urn:uuid:03a9cdd7-71b0-527a-b1f5-6e8cb9ee7c42"
               },
               {
-                "reference": "urn:uuid:052dbd5a-630d-58c0-8c0a-ff95e3f302dd"
+                "reference": "urn:uuid:292c045b-b423-56f8-8d63-00d94209d6aa"
               },
               {
-                "reference": "urn:uuid:e9394698-c761-5f5c-a56f-79ef14d74423"
+                "reference": "urn:uuid:3155858e-f042-5de0-b130-09fa18fbe635"
               },
               {
-                "reference": "urn:uuid:7e2f6a6a-e776-5176-8711-a86d0b7c4079"
+                "reference": "urn:uuid:4a761c7b-0323-52e1-bcdd-fb65eac66d1c"
               },
               {
-                "reference": "urn:uuid:32162f3c-579b-59fd-8ce7-5b0addca182c"
+                "reference": "urn:uuid:f9f4113d-8a77-5ef8-9693-6e9c5e5db52b"
               },
               {
-                "reference": "urn:uuid:f6f72e21-95a1-5d64-a82c-146e9f896413"
+                "reference": "urn:uuid:5e53de5c-081a-5ada-9d6e-50d2f27a8ad4"
               },
               {
-                "reference": "urn:uuid:ffb75b27-0c66-5cb1-a76a-a46f5a17565c"
+                "reference": "urn:uuid:9c9abb97-6784-5ce7-94f3-3d7d8ffad0bd"
               },
               {
-                "reference": "urn:uuid:f7f9c5b0-5d94-5ea5-ad2e-4abf011f0a17"
+                "reference": "urn:uuid:eef15b7b-c0c5-5605-910d-1a44b2604f96"
               },
               {
-                "reference": "urn:uuid:b78262d2-c159-5f2f-b7a2-6fe92cf33f90"
+                "reference": "urn:uuid:1965da60-a814-5a0d-8e9b-091a5b4a76f3"
               },
               {
-                "reference": "urn:uuid:5a25007d-ca3b-51e2-a381-f12123761317"
+                "reference": "urn:uuid:a58019ac-1c56-5266-80d7-4b61c583f08a"
               },
               {
-                "reference": "urn:uuid:e9b684bb-6549-55a2-b09a-ad60ac58089e"
+                "reference": "urn:uuid:72159a2e-0c94-5228-bd9d-1fc9d06e2dca"
               },
               {
-                "reference": "urn:uuid:ec727426-8057-545a-a636-2b0fa60ae6da"
+                "reference": "urn:uuid:643a0008-4ed2-5a89-acb5-cf6c4daa6650"
               },
               {
-                "reference": "urn:uuid:17f575a8-83e1-5b76-8f16-adbe66d124dc"
+                "reference": "urn:uuid:852c4b66-b7a1-5adc-8ef7-e122a8c3ce95"
               },
               {
-                "reference": "urn:uuid:d68ac4ec-0346-5040-b406-127f28a6b043"
+                "reference": "urn:uuid:bde263a1-5912-5f3e-8722-f578be79e813"
               },
               {
-                "reference": "urn:uuid:6f1d0c47-bc1e-50fd-a2b6-41153ec1d6b9"
+                "reference": "urn:uuid:ab668a95-b610-5eae-b459-001548190fb1"
               },
               {
-                "reference": "urn:uuid:7ee31895-99b4-5c34-ac98-7d090e1dbe4c"
+                "reference": "urn:uuid:d6f0822b-69e1-5343-a936-3575f34d5c51"
               },
               {
-                "reference": "urn:uuid:60d52510-7a64-54f0-98d5-c445d929a9be"
+                "reference": "urn:uuid:57271b8f-e1b9-54c5-8417-4e138d805329"
               },
               {
-                "reference": "urn:uuid:43959156-08b3-51be-af76-da427a9fb66f"
+                "reference": "urn:uuid:9760e09a-ba9b-5aa0-89e7-9206535c3972"
               },
               {
-                "reference": "urn:uuid:51be7254-c05a-5019-914a-87819f77ece3"
+                "reference": "urn:uuid:78963dd3-d472-523d-9309-70365b98a2a3"
               },
               {
-                "reference": "urn:uuid:81333b05-cf90-5410-9a0c-2ff8892564fe"
+                "reference": "urn:uuid:e3d2ef5d-0a02-5547-84c3-f5bbc7823934"
               },
               {
-                "reference": "urn:uuid:8add2e4b-7b0e-5146-87c4-829cfb08de19"
+                "reference": "urn:uuid:865a24ae-a01a-577c-9101-d211b59379ad"
               },
               {
-                "reference": "urn:uuid:49c54713-302e-5b3f-9b9e-24858466ef36"
+                "reference": "urn:uuid:cb4b9761-25d1-5077-b228-6861d7ba52a0"
               },
               {
-                "reference": "urn:uuid:5f495eec-1097-5a74-a389-65b8be775e19"
+                "reference": "urn:uuid:972b4d47-dbdf-5543-8544-deac71d95ffe"
               },
               {
-                "reference": "urn:uuid:04b33f94-57c2-5c56-a6c4-9c5cf677227b"
+                "reference": "urn:uuid:2acca8e5-5160-5ed7-9af0-8a4ed39f028d"
               },
               {
-                "reference": "urn:uuid:51cf830f-8dc6-573a-9553-63b51dcd4931"
+                "reference": "urn:uuid:0b727ecf-9ff8-5f82-90b2-6e41bba44d4c"
               },
               {
-                "reference": "urn:uuid:86c67480-969c-56e5-a23f-c1a5df0327d1"
+                "reference": "urn:uuid:0a8e54ec-b8c8-53b9-a724-72d3d90f4af6"
               }
             ]
           },
@@ -716,37 +716,37 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:c9cc5583-ad03-5763-a137-fd1bbfa59708"
+                "reference": "urn:uuid:3eca5824-5559-5746-98f3-78d5263f0470"
               },
               {
-                "reference": "urn:uuid:c625af9e-2848-5002-b40a-bcc92775e844"
+                "reference": "urn:uuid:c623b4af-126d-5ba2-951d-ba0294698a8f"
               },
               {
-                "reference": "urn:uuid:131aef77-149d-59fc-a565-9d907ebe607d"
+                "reference": "urn:uuid:cc7dccc3-605c-52e0-abea-53318710e962"
               },
               {
-                "reference": "urn:uuid:6c0d37a1-0051-5186-8385-a40a575aee87"
+                "reference": "urn:uuid:0832f0d8-3f4f-5c35-8b0e-d79fb7b12a3f"
               },
               {
-                "reference": "urn:uuid:f7a71ed5-50ec-50c0-8be5-cdc1888dfda4"
+                "reference": "urn:uuid:9bf11f81-5a31-5bad-8033-32495fc3dd30"
               },
               {
-                "reference": "urn:uuid:e3a659d0-6559-5b31-a3e2-5e2bea60afe7"
+                "reference": "urn:uuid:454d4855-23ec-59fd-82d3-92d76bafed3c"
               },
               {
-                "reference": "urn:uuid:b1464868-f4e8-5c18-bba2-6cb5afd751ff"
+                "reference": "urn:uuid:a0cc3bf7-083e-52d0-b9a8-d895e71861b6"
               },
               {
-                "reference": "urn:uuid:4cafd0ee-ea90-5ee4-a5ed-3e04c8653e39"
+                "reference": "urn:uuid:8c379b9a-bf66-5685-b636-5e82c603c6d2"
               },
               {
-                "reference": "urn:uuid:fc696826-a646-559d-a976-4740bc9ff0d2"
+                "reference": "urn:uuid:dc6b9e3d-589c-504e-9360-83c80fdec2e9"
               },
               {
-                "reference": "urn:uuid:e24f92d3-e75d-5d49-b89d-e79a97f441af"
+                "reference": "urn:uuid:da118914-1726-558b-9b31-00ad2a74e2c8"
               },
               {
-                "reference": "urn:uuid:96baefc8-ecb3-5f33-987f-00339bfbb6b9"
+                "reference": "urn:uuid:0ab6026e-2f68-5ad7-af54-b03f608bb4c5"
               }
             ]
           },
@@ -767,19 +767,19 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:6426ea0e-79fa-5365-bec1-74986171da30"
+                "reference": "urn:uuid:bbf539d9-5246-5c92-b44e-cccc4822b4c3"
               },
               {
-                "reference": "urn:uuid:00dba533-f51f-523a-a33f-de96a0a80c83"
+                "reference": "urn:uuid:fee7d15e-3c3f-5d6d-a23f-70b58b0e1551"
               }
             ]
           }
         ],
-        "id": "cba68267-3e4f-50a7-9b90-cfcd4b2b336b"
+        "id": "ca5638e3-bbf7-5cf4-a6f0-08859e367686"
       }
     },
     {
-      "fullUrl": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3",
+      "fullUrl": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc",
       "resource": {
         "resourceType": "Patient",
         "meta": {
@@ -789,7 +789,7 @@
         },
         "identifier": [
           {
-            "system": "https://ricardojccorreia.github.io/ips-timeline/NamingSystem/virtual-patient",
+            "system": "https://ciencia-letras.github.io/ips-timeline/NamingSystem/virtual-patient",
             "value": "sofia-martins"
           }
         ],
@@ -818,19 +818,19 @@
             "preferred": true
           }
         ],
-        "id": "9821f439-8a07-5798-aecf-3bf44cd978a3"
+        "id": "b100db85-db2a-58a9-922e-fb4afbdffebc"
       }
     },
     {
-      "fullUrl": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e",
+      "fullUrl": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb",
       "resource": {
         "resourceType": "Organization",
         "name": "USF Virtual do Porto (fictícia)",
-        "id": "857f5162-5811-546a-a4fc-a854eb890d4e"
+        "id": "fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
       }
     },
     {
-      "fullUrl": "urn:uuid:33e0d88f-5d03-58bd-ac52-7ac45d189b2f",
+      "fullUrl": "urn:uuid:d3c466cc-1333-5e8e-b69b-4ab82339d94a",
       "resource": {
         "resourceType": "Practitioner",
         "name": [
@@ -838,11 +838,11 @@
             "text": "Dr. Tiago Moreira (médico de família, fictício)"
           }
         ],
-        "id": "33e0d88f-5d03-58bd-ac52-7ac45d189b2f"
+        "id": "d3c466cc-1333-5e8e-b69b-4ab82339d94a"
       }
     },
     {
-      "fullUrl": "urn:uuid:c9cc5583-ad03-5763-a137-fd1bbfa59708",
+      "fullUrl": "urn:uuid:3eca5824-5559-5746-98f3-78d5263f0470",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -857,7 +857,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2019-02-12"
@@ -868,13 +868,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "c9cc5583-ad03-5763-a137-fd1bbfa59708"
+        "id": "3eca5824-5559-5746-98f3-78d5263f0470"
       }
     },
     {
-      "fullUrl": "urn:uuid:c625af9e-2848-5002-b40a-bcc92775e844",
+      "fullUrl": "urn:uuid:c623b4af-126d-5ba2-951d-ba0294698a8f",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -889,7 +889,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2025-04-10"
@@ -900,13 +900,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "c625af9e-2848-5002-b40a-bcc92775e844"
+        "id": "c623b4af-126d-5ba2-951d-ba0294698a8f"
       }
     },
     {
-      "fullUrl": "urn:uuid:131aef77-149d-59fc-a565-9d907ebe607d",
+      "fullUrl": "urn:uuid:cc7dccc3-605c-52e0-abea-53318710e962",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -921,7 +921,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2025-08-05"
@@ -932,13 +932,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "131aef77-149d-59fc-a565-9d907ebe607d"
+        "id": "cc7dccc3-605c-52e0-abea-53318710e962"
       }
     },
     {
-      "fullUrl": "urn:uuid:6c0d37a1-0051-5186-8385-a40a575aee87",
+      "fullUrl": "urn:uuid:0832f0d8-3f4f-5c35-8b0e-d79fb7b12a3f",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -953,7 +953,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2025-11-04"
@@ -964,13 +964,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "6c0d37a1-0051-5186-8385-a40a575aee87"
+        "id": "0832f0d8-3f4f-5c35-8b0e-d79fb7b12a3f"
       }
     },
     {
-      "fullUrl": "urn:uuid:f7a71ed5-50ec-50c0-8be5-cdc1888dfda4",
+      "fullUrl": "urn:uuid:9bf11f81-5a31-5bad-8033-32495fc3dd30",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -985,7 +985,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2025-11-18"
@@ -996,13 +996,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "f7a71ed5-50ec-50c0-8be5-cdc1888dfda4"
+        "id": "9bf11f81-5a31-5bad-8033-32495fc3dd30"
       }
     },
     {
-      "fullUrl": "urn:uuid:e3a659d0-6559-5b31-a3e2-5e2bea60afe7",
+      "fullUrl": "urn:uuid:454d4855-23ec-59fd-82d3-92d76bafed3c",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -1017,7 +1017,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2025-12-10"
@@ -1028,7 +1028,7 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
         "priority": {
           "coding": [
@@ -1040,11 +1040,11 @@
           ],
           "text": "Requires clinical attention"
         },
-        "id": "e3a659d0-6559-5b31-a3e2-5e2bea60afe7"
+        "id": "454d4855-23ec-59fd-82d3-92d76bafed3c"
       }
     },
     {
-      "fullUrl": "urn:uuid:b1464868-f4e8-5c18-bba2-6cb5afd751ff",
+      "fullUrl": "urn:uuid:a0cc3bf7-083e-52d0-b9a8-d895e71861b6",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -1059,7 +1059,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2026-01-13"
@@ -1070,13 +1070,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "b1464868-f4e8-5c18-bba2-6cb5afd751ff"
+        "id": "a0cc3bf7-083e-52d0-b9a8-d895e71861b6"
       }
     },
     {
-      "fullUrl": "urn:uuid:4cafd0ee-ea90-5ee4-a5ed-3e04c8653e39",
+      "fullUrl": "urn:uuid:8c379b9a-bf66-5685-b636-5e82c603c6d2",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -1091,7 +1091,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2026-03-20",
@@ -1103,13 +1103,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "4cafd0ee-ea90-5ee4-a5ed-3e04c8653e39"
+        "id": "8c379b9a-bf66-5685-b636-5e82c603c6d2"
       }
     },
     {
-      "fullUrl": "urn:uuid:fc696826-a646-559d-a976-4740bc9ff0d2",
+      "fullUrl": "urn:uuid:dc6b9e3d-589c-504e-9360-83c80fdec2e9",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -1124,7 +1124,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2026-04-28"
@@ -1135,13 +1135,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "fc696826-a646-559d-a976-4740bc9ff0d2"
+        "id": "dc6b9e3d-589c-504e-9360-83c80fdec2e9"
       }
     },
     {
-      "fullUrl": "urn:uuid:e24f92d3-e75d-5d49-b89d-e79a97f441af",
+      "fullUrl": "urn:uuid:da118914-1726-558b-9b31-00ad2a74e2c8",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -1156,7 +1156,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2026-07-07"
@@ -1167,7 +1167,7 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
         "priority": {
           "coding": [
@@ -1179,11 +1179,11 @@
           ],
           "text": "Requires clinical attention"
         },
-        "id": "e24f92d3-e75d-5d49-b89d-e79a97f441af"
+        "id": "da118914-1726-558b-9b31-00ad2a74e2c8"
       }
     },
     {
-      "fullUrl": "urn:uuid:96baefc8-ecb3-5f33-987f-00339bfbb6b9",
+      "fullUrl": "urn:uuid:0ab6026e-2f68-5ad7-af54-b03f608bb4c5",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -1198,7 +1198,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2026-10-13"
@@ -1209,13 +1209,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "96baefc8-ecb3-5f33-987f-00339bfbb6b9"
+        "id": "0ab6026e-2f68-5ad7-af54-b03f608bb4c5"
       }
     },
     {
-      "fullUrl": "urn:uuid:6426ea0e-79fa-5365-bec1-74986171da30",
+      "fullUrl": "urn:uuid:bbf539d9-5246-5c92-b44e-cccc4822b4c3",
       "resource": {
         "resourceType": "Encounter",
         "status": "planned",
@@ -1230,7 +1230,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2026-11-20"
@@ -1241,13 +1241,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "6426ea0e-79fa-5365-bec1-74986171da30"
+        "id": "bbf539d9-5246-5c92-b44e-cccc4822b4c3"
       }
     },
     {
-      "fullUrl": "urn:uuid:00dba533-f51f-523a-a33f-de96a0a80c83",
+      "fullUrl": "urn:uuid:fee7d15e-3c3f-5d6d-a23f-70b58b0e1551",
       "resource": {
         "resourceType": "Encounter",
         "status": "planned",
@@ -1262,7 +1262,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "period": {
           "start": "2027-05"
@@ -1273,13 +1273,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+          "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
         },
-        "id": "00dba533-f51f-523a-a33f-de96a0a80c83"
+        "id": "fee7d15e-3c3f-5d6d-a23f-70b58b0e1551"
       }
     },
     {
-      "fullUrl": "urn:uuid:25ba9f3a-0043-5275-ae9d-8be8272a7f6c",
+      "fullUrl": "urn:uuid:a7443e33-c086-5a12-b41f-5fa27ddb6303",
       "resource": {
         "resourceType": "Condition",
         "meta": {
@@ -1324,7 +1324,7 @@
           "text": "Enxaqueca sem aura"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "onsetDateTime": "2012",
         "note": [
@@ -1332,11 +1332,11 @@
             "text": "2 a 3 crises por mês; sem crises durante a gravidez."
           }
         ],
-        "id": "25ba9f3a-0043-5275-ae9d-8be8272a7f6c"
+        "id": "a7443e33-c086-5a12-b41f-5fa27ddb6303"
       }
     },
     {
-      "fullUrl": "urn:uuid:8b1579c8-fe94-50a4-89a2-59af0b096065",
+      "fullUrl": "urn:uuid:e3de2ebb-9d7d-5a83-8768-211469024727",
       "resource": {
         "resourceType": "Condition",
         "meta": {
@@ -1381,22 +1381,22 @@
           "text": "Hipotiroidismo (tiroidite de Hashimoto)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "onsetDateTime": "2019-02-12",
         "encounter": {
-          "reference": "urn:uuid:c9cc5583-ad03-5763-a137-fd1bbfa59708"
+          "reference": "urn:uuid:3eca5824-5559-5746-98f3-78d5263f0470"
         },
         "note": [
           {
             "text": "TSH 1,9 mUI/L com levotiroxina 50 µg em outubro de 2026."
           }
         ],
-        "id": "8b1579c8-fe94-50a4-89a2-59af0b096065"
+        "id": "e3de2ebb-9d7d-5a83-8768-211469024727"
       }
     },
     {
-      "fullUrl": "urn:uuid:d0f1c3e5-8348-5605-afe3-a8acb99d7e7b",
+      "fullUrl": "urn:uuid:bf69d004-f7b2-525a-8236-bde291e248de",
       "resource": {
         "resourceType": "Condition",
         "meta": {
@@ -1441,23 +1441,23 @@
           "text": "Diabetes gestacional"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "onsetDateTime": "2025-11-04",
         "abatementDateTime": "2026-03-20",
         "encounter": {
-          "reference": "urn:uuid:6c0d37a1-0051-5186-8385-a40a575aee87"
+          "reference": "urn:uuid:0832f0d8-3f4f-5c35-8b0e-d79fb7b12a3f"
         },
         "note": [
           {
             "text": "PTGO pós-parto normal em maio de 2026. Risco aumentado de diabetes tipo 2: rastreio anual."
           }
         ],
-        "id": "d0f1c3e5-8348-5605-afe3-a8acb99d7e7b"
+        "id": "bf69d004-f7b2-525a-8236-bde291e248de"
       }
     },
     {
-      "fullUrl": "urn:uuid:f9bf5b13-3c55-591a-b815-2970639c1882",
+      "fullUrl": "urn:uuid:1491b314-7fbb-58be-8707-4e1487a7276a",
       "resource": {
         "resourceType": "Condition",
         "meta": {
@@ -1502,15 +1502,15 @@
           "text": "Anemia ferropénica da gravidez"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "onsetDateTime": "2026-01-13",
         "abatementDateTime": "2026-06",
-        "id": "f9bf5b13-3c55-591a-b815-2970639c1882"
+        "id": "1491b314-7fbb-58be-8707-4e1487a7276a"
       }
     },
     {
-      "fullUrl": "urn:uuid:cc7af650-4dad-5885-8c7f-8f745829a24e",
+      "fullUrl": "urn:uuid:04d07af9-893f-51bf-81d6-5e6956d4678c",
       "resource": {
         "resourceType": "AllergyIntolerance",
         "meta": {
@@ -1537,13 +1537,13 @@
           "text": "Sem alergias conhecidas"
         },
         "patient": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
-        "id": "cc7af650-4dad-5885-8c7f-8f745829a24e"
+        "id": "04d07af9-893f-51bf-81d6-5e6956d4678c"
       }
     },
     {
-      "fullUrl": "urn:uuid:2f741e4f-c4c5-5fc3-99ca-dc845444b305",
+      "fullUrl": "urn:uuid:4c12f708-d9ea-581e-8921-ba4bc254cb9b",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1563,7 +1563,7 @@
           "text": "Sumatriptano 50 mg (SOS)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2015-01",
@@ -1579,11 +1579,11 @@
             "text": "Suspenso na gravidez."
           }
         ],
-        "id": "2f741e4f-c4c5-5fc3-99ca-dc845444b305"
+        "id": "4c12f708-d9ea-581e-8921-ba4bc254cb9b"
       }
     },
     {
-      "fullUrl": "urn:uuid:dc961752-0088-53d2-84a1-d2ecc9846877",
+      "fullUrl": "urn:uuid:d3d1358f-cee4-54bd-b95f-8dd28ad8bb9b",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1603,7 +1603,7 @@
           "text": "Sumatriptano 50 mg (SOS)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2026-10-13"
@@ -1613,11 +1613,11 @@
             "text": "1 comprimido na crise"
           }
         ],
-        "id": "dc961752-0088-53d2-84a1-d2ecc9846877"
+        "id": "d3d1358f-cee4-54bd-b95f-8dd28ad8bb9b"
       }
     },
     {
-      "fullUrl": "urn:uuid:15ed9736-9bdf-5c72-b3c8-2a2eb5cf3b7e",
+      "fullUrl": "urn:uuid:4b181883-9d20-5f71-9b81-ecad65911e5c",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1637,7 +1637,7 @@
           "text": "Levotiroxina 50 µg"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2019-02-12",
@@ -1648,11 +1648,11 @@
             "text": "1 comprimido em jejum"
           }
         ],
-        "id": "15ed9736-9bdf-5c72-b3c8-2a2eb5cf3b7e"
+        "id": "4b181883-9d20-5f71-9b81-ecad65911e5c"
       }
     },
     {
-      "fullUrl": "urn:uuid:bcf394f2-e52b-5d38-a3ae-e06d3d736852",
+      "fullUrl": "urn:uuid:9635d35c-b4d7-5d8a-b4a7-8bf58996c8da",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1672,7 +1672,7 @@
           "text": "Levotiroxina 75 µg"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2025-08-05",
@@ -1688,11 +1688,11 @@
             "text": "Dose aumentada na gravidez."
           }
         ],
-        "id": "bcf394f2-e52b-5d38-a3ae-e06d3d736852"
+        "id": "9635d35c-b4d7-5d8a-b4a7-8bf58996c8da"
       }
     },
     {
-      "fullUrl": "urn:uuid:072ac96a-7df9-5d9b-a18f-f4d36d6036d9",
+      "fullUrl": "urn:uuid:425f7272-6b03-5922-9080-824f95c64b64",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1712,7 +1712,7 @@
           "text": "Levotiroxina 50 µg"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2026-07-07"
@@ -1727,11 +1727,11 @@
             "text": "Dose reduzida no pós-parto."
           }
         ],
-        "id": "072ac96a-7df9-5d9b-a18f-f4d36d6036d9"
+        "id": "425f7272-6b03-5922-9080-824f95c64b64"
       }
     },
     {
-      "fullUrl": "urn:uuid:7a72f438-2e3f-56fd-aa0b-2623b4796e22",
+      "fullUrl": "urn:uuid:3bee4cc0-136a-518d-b994-15da1fe23e87",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1751,7 +1751,7 @@
           "text": "Ácido fólico 5 mg"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2025-04-10",
@@ -1762,11 +1762,11 @@
             "text": "1 comprimido/dia"
           }
         ],
-        "id": "7a72f438-2e3f-56fd-aa0b-2623b4796e22"
+        "id": "3bee4cc0-136a-518d-b994-15da1fe23e87"
       }
     },
     {
-      "fullUrl": "urn:uuid:a580cf7b-8631-5fa8-a64e-533fd9eb034e",
+      "fullUrl": "urn:uuid:4b123714-a53a-5726-a70a-f18869c27058",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1786,7 +1786,7 @@
           "text": "Insulina detemir"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2025-12-10",
@@ -1797,11 +1797,11 @@
             "text": "6 a 12 U ao deitar, ajustada à glicemia em jejum"
           }
         ],
-        "id": "a580cf7b-8631-5fa8-a64e-533fd9eb034e"
+        "id": "4b123714-a53a-5726-a70a-f18869c27058"
       }
     },
     {
-      "fullUrl": "urn:uuid:78b6243a-683b-51e9-b49a-aa9ce697de60",
+      "fullUrl": "urn:uuid:a28a3ffd-ea96-5e9e-ad38-97bbe644566e",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1821,7 +1821,7 @@
           "text": "Ferro oral (sulfato ferroso)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2026-01-13",
@@ -1832,11 +1832,11 @@
             "text": "1 comprimido/dia"
           }
         ],
-        "id": "78b6243a-683b-51e9-b49a-aa9ce697de60"
+        "id": "a28a3ffd-ea96-5e9e-ad38-97bbe644566e"
       }
     },
     {
-      "fullUrl": "urn:uuid:8430f406-47ea-5161-83c8-d6c5294671c1",
+      "fullUrl": "urn:uuid:1d7e8f64-418a-5f90-956d-8ff32f9f7ff3",
       "resource": {
         "resourceType": "Immunization",
         "meta": {
@@ -1849,14 +1849,14 @@
           "text": "COVID-19 (1.ª dose)"
         },
         "patient": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "occurrenceDateTime": "2021-06-10",
-        "id": "8430f406-47ea-5161-83c8-d6c5294671c1"
+        "id": "1d7e8f64-418a-5f90-956d-8ff32f9f7ff3"
       }
     },
     {
-      "fullUrl": "urn:uuid:abf93869-43c4-5b91-9078-92520f255d62",
+      "fullUrl": "urn:uuid:68082c02-637f-519e-8b9f-4f04d818789f",
       "resource": {
         "resourceType": "Immunization",
         "meta": {
@@ -1869,14 +1869,14 @@
           "text": "COVID-19 (2.ª dose)"
         },
         "patient": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "occurrenceDateTime": "2021-07-08",
-        "id": "abf93869-43c4-5b91-9078-92520f255d62"
+        "id": "68082c02-637f-519e-8b9f-4f04d818789f"
       }
     },
     {
-      "fullUrl": "urn:uuid:9eaee14d-8309-5139-8a07-e698822395a6",
+      "fullUrl": "urn:uuid:7052c283-da19-5da4-b335-8f336ca46bd4",
       "resource": {
         "resourceType": "Immunization",
         "meta": {
@@ -1889,14 +1889,14 @@
           "text": "Gripe sazonal (gravidez)"
         },
         "patient": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "occurrenceDateTime": "2025-10-15",
-        "id": "9eaee14d-8309-5139-8a07-e698822395a6"
+        "id": "7052c283-da19-5da4-b335-8f336ca46bd4"
       }
     },
     {
-      "fullUrl": "urn:uuid:d72d6d0c-77ec-565f-85f5-20092c8a9f33",
+      "fullUrl": "urn:uuid:e783677c-de52-53f2-a163-314b5955fefb",
       "resource": {
         "resourceType": "Immunization",
         "meta": {
@@ -1909,14 +1909,14 @@
           "text": "COVID-19 (gravidez)"
         },
         "patient": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "occurrenceDateTime": "2025-10-15",
-        "id": "d72d6d0c-77ec-565f-85f5-20092c8a9f33"
+        "id": "e783677c-de52-53f2-a163-314b5955fefb"
       }
     },
     {
-      "fullUrl": "urn:uuid:6c61d5f6-ef80-5b42-924b-1b74265a643c",
+      "fullUrl": "urn:uuid:9219aa12-b228-54de-be71-b08cd8ba9cd3",
       "resource": {
         "resourceType": "Immunization",
         "meta": {
@@ -1929,14 +1929,14 @@
           "text": "Tdpa (gravidez, 28 semanas)"
         },
         "patient": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "occurrenceDateTime": "2026-01-20",
-        "id": "6c61d5f6-ef80-5b42-924b-1b74265a643c"
+        "id": "9219aa12-b228-54de-be71-b08cd8ba9cd3"
       }
     },
     {
-      "fullUrl": "urn:uuid:3a2d3bf0-56bd-5965-aa48-fa2c58ec84e5",
+      "fullUrl": "urn:uuid:3dc97c6a-a374-5b63-a13a-33e8a9b1797b",
       "resource": {
         "resourceType": "Procedure",
         "meta": {
@@ -1966,7 +1966,7 @@
           "text": "Cesariana"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "performedDateTime": "2026-03-20",
         "note": [
@@ -1974,11 +1974,11 @@
             "text": "Sem complicações."
           }
         ],
-        "id": "3a2d3bf0-56bd-5965-aa48-fa2c58ec84e5"
+        "id": "3dc97c6a-a374-5b63-a13a-33e8a9b1797b"
       }
     },
     {
-      "fullUrl": "urn:uuid:449a557c-182b-59bb-b9a8-7cd12bb93a82",
+      "fullUrl": "urn:uuid:e62dbd51-3485-5f08-86ce-a070b1cf7e6e",
       "resource": {
         "resourceType": "DiagnosticReport",
         "meta": {
@@ -1996,15 +1996,15 @@
           "text": "Ecografia do 1.º trimestre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-09-02",
         "conclusion": "Gravidez evolutiva, 11+4 semanas. Rastreio combinado de baixo risco.",
-        "id": "449a557c-182b-59bb-b9a8-7cd12bb93a82"
+        "id": "e62dbd51-3485-5f08-86ce-a070b1cf7e6e"
       }
     },
     {
-      "fullUrl": "urn:uuid:aaf7ace5-787d-59b3-bcff-451e57f4ede9",
+      "fullUrl": "urn:uuid:902d020b-1886-5c69-af9b-82a78d2c4750",
       "resource": {
         "resourceType": "DiagnosticReport",
         "meta": {
@@ -2022,15 +2022,15 @@
           "text": "Ecografia morfológica (2.º trimestre)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-11-25",
         "conclusion": "Sem alterações morfológicas.",
-        "id": "aaf7ace5-787d-59b3-bcff-451e57f4ede9"
+        "id": "902d020b-1886-5c69-af9b-82a78d2c4750"
       }
     },
     {
-      "fullUrl": "urn:uuid:2c8d2da6-0e0e-594e-b63f-234dcef60d76",
+      "fullUrl": "urn:uuid:79ac2f88-50bf-50eb-9204-c9b0a660d965",
       "resource": {
         "resourceType": "DiagnosticReport",
         "meta": {
@@ -2048,7 +2048,7 @@
           "text": "Ecografia do 3.º trimestre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-02-24",
         "conclusion": "Feto grande para a idade gestacional (percentil 92). Apresentação pélvica.",
@@ -2064,11 +2064,11 @@
             "text": "Alterado"
           }
         ],
-        "id": "2c8d2da6-0e0e-594e-b63f-234dcef60d76"
+        "id": "79ac2f88-50bf-50eb-9204-c9b0a660d965"
       }
     },
     {
-      "fullUrl": "urn:uuid:f57ee236-8788-5260-a108-882363bc640e",
+      "fullUrl": "urn:uuid:942b71ec-0d24-50d9-b5f3-2e43ae44f2ec",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2099,7 +2099,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2019-02-12",
         "valueQuantity": {
@@ -2121,7 +2121,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2140,11 +2140,11 @@
             }
           }
         ],
-        "id": "f57ee236-8788-5260-a108-882363bc640e"
+        "id": "942b71ec-0d24-50d9-b5f3-2e43ae44f2ec"
       }
     },
     {
-      "fullUrl": "urn:uuid:869d238a-ef07-575b-945f-57c1f238d1c6",
+      "fullUrl": "urn:uuid:771c7a99-4386-56fb-8c23-0d0ec6133f7c",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2175,7 +2175,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2019-05-14",
         "valueQuantity": {
@@ -2197,7 +2197,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2216,11 +2216,11 @@
             }
           }
         ],
-        "id": "869d238a-ef07-575b-945f-57c1f238d1c6"
+        "id": "771c7a99-4386-56fb-8c23-0d0ec6133f7c"
       }
     },
     {
-      "fullUrl": "urn:uuid:d562775b-21f8-5f0c-8fc8-62bec293c812",
+      "fullUrl": "urn:uuid:53a8f80a-b428-5df7-85a1-8d84a2616e6a",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2251,7 +2251,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2021-03-10",
         "valueQuantity": {
@@ -2273,7 +2273,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2292,11 +2292,11 @@
             }
           }
         ],
-        "id": "d562775b-21f8-5f0c-8fc8-62bec293c812"
+        "id": "53a8f80a-b428-5df7-85a1-8d84a2616e6a"
       }
     },
     {
-      "fullUrl": "urn:uuid:c9fca4f9-6a39-530e-9833-7efcc21fcf44",
+      "fullUrl": "urn:uuid:0d16c1c7-96c4-57f9-b7f1-45fa6a761f19",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2327,7 +2327,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2023-06-20",
         "valueQuantity": {
@@ -2349,7 +2349,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2368,11 +2368,11 @@
             }
           }
         ],
-        "id": "c9fca4f9-6a39-530e-9833-7efcc21fcf44"
+        "id": "0d16c1c7-96c4-57f9-b7f1-45fa6a761f19"
       }
     },
     {
-      "fullUrl": "urn:uuid:dd3a1769-13d6-5997-9105-726773d27094",
+      "fullUrl": "urn:uuid:401ca297-e62d-52a8-8580-cc01ecbad153",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2403,7 +2403,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-04-10",
         "valueQuantity": {
@@ -2425,7 +2425,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2444,11 +2444,11 @@
             }
           }
         ],
-        "id": "dd3a1769-13d6-5997-9105-726773d27094"
+        "id": "401ca297-e62d-52a8-8580-cc01ecbad153"
       }
     },
     {
-      "fullUrl": "urn:uuid:46388f35-2e3c-5a78-b065-d5edf5feb93b",
+      "fullUrl": "urn:uuid:56863b76-588a-5bf5-9d08-bd382f9ee214",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2479,7 +2479,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-08-05",
         "valueQuantity": {
@@ -2501,7 +2501,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2520,11 +2520,11 @@
             }
           }
         ],
-        "id": "46388f35-2e3c-5a78-b065-d5edf5feb93b"
+        "id": "56863b76-588a-5bf5-9d08-bd382f9ee214"
       }
     },
     {
-      "fullUrl": "urn:uuid:b5f8594a-06f8-57d7-9a32-b3c4eeebe094",
+      "fullUrl": "urn:uuid:7ff20a8d-68f7-553e-be01-1e370c4842ef",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2555,7 +2555,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-11-04",
         "valueQuantity": {
@@ -2577,7 +2577,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2596,11 +2596,11 @@
             }
           }
         ],
-        "id": "b5f8594a-06f8-57d7-9a32-b3c4eeebe094"
+        "id": "7ff20a8d-68f7-553e-be01-1e370c4842ef"
       }
     },
     {
-      "fullUrl": "urn:uuid:315ffad5-d6e8-5078-9179-ac0c054e9b33",
+      "fullUrl": "urn:uuid:ede7ad31-835b-580d-af43-57ad6e33eee9",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2631,7 +2631,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-01-13",
         "valueQuantity": {
@@ -2653,7 +2653,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2672,11 +2672,11 @@
             }
           }
         ],
-        "id": "315ffad5-d6e8-5078-9179-ac0c054e9b33"
+        "id": "ede7ad31-835b-580d-af43-57ad6e33eee9"
       }
     },
     {
-      "fullUrl": "urn:uuid:ba3719b3-7b8d-596c-b9c1-6201e4fd2e24",
+      "fullUrl": "urn:uuid:dbd7e121-88ea-5806-809e-625291929684",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2707,7 +2707,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-02-24",
         "valueQuantity": {
@@ -2729,7 +2729,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2748,11 +2748,11 @@
             }
           }
         ],
-        "id": "ba3719b3-7b8d-596c-b9c1-6201e4fd2e24"
+        "id": "dbd7e121-88ea-5806-809e-625291929684"
       }
     },
     {
-      "fullUrl": "urn:uuid:44b9222b-f9ce-5ff0-839c-c0db0eaacd89",
+      "fullUrl": "urn:uuid:e978a1f4-6f39-57cb-9865-94a0846409be",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2783,7 +2783,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-05-05",
         "valueQuantity": {
@@ -2805,7 +2805,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2824,11 +2824,11 @@
             }
           }
         ],
-        "id": "44b9222b-f9ce-5ff0-839c-c0db0eaacd89"
+        "id": "e978a1f4-6f39-57cb-9865-94a0846409be"
       }
     },
     {
-      "fullUrl": "urn:uuid:96809c1d-87ba-5216-a95b-ef33942aa744",
+      "fullUrl": "urn:uuid:7330734d-2b93-5347-8463-2289923a7015",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2859,7 +2859,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-07-07",
         "valueQuantity": {
@@ -2881,7 +2881,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2900,11 +2900,11 @@
             }
           }
         ],
-        "id": "96809c1d-87ba-5216-a95b-ef33942aa744"
+        "id": "7330734d-2b93-5347-8463-2289923a7015"
       }
     },
     {
-      "fullUrl": "urn:uuid:0ac5b92c-24c9-57cb-9f4a-e765de5369f5",
+      "fullUrl": "urn:uuid:b9999d50-1ba8-5b85-8947-ba92b70c6b40",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2935,7 +2935,7 @@
           "text": "TSH"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-10-13",
         "valueQuantity": {
@@ -2957,7 +2957,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -2981,11 +2981,11 @@
             "text": "Na gravidez usa-se uma referência própria por trimestre (até 2,5 no 1.º trimestre, até 3,0 depois)."
           }
         ],
-        "id": "0ac5b92c-24c9-57cb-9f4a-e765de5369f5"
+        "id": "b9999d50-1ba8-5b85-8947-ba92b70c6b40"
       }
     },
     {
-      "fullUrl": "urn:uuid:e19cf45d-893b-5f15-b773-447adb856585",
+      "fullUrl": "urn:uuid:3a2c43d7-d1db-54e5-9c79-99d5568a0c7b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3016,7 +3016,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2019-02-12",
         "valueQuantity": {
@@ -3038,7 +3038,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3057,11 +3057,11 @@
             }
           }
         ],
-        "id": "e19cf45d-893b-5f15-b773-447adb856585"
+        "id": "3a2c43d7-d1db-54e5-9c79-99d5568a0c7b"
       }
     },
     {
-      "fullUrl": "urn:uuid:ac1460e9-253f-5568-b7a1-c97c1c122b0f",
+      "fullUrl": "urn:uuid:0332b6a4-4e89-5128-9e98-d1ecc0829592",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3092,7 +3092,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2019-05-14",
         "valueQuantity": {
@@ -3114,7 +3114,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3133,11 +3133,11 @@
             }
           }
         ],
-        "id": "ac1460e9-253f-5568-b7a1-c97c1c122b0f"
+        "id": "0332b6a4-4e89-5128-9e98-d1ecc0829592"
       }
     },
     {
-      "fullUrl": "urn:uuid:5463e1fb-6af7-59d9-94dd-eb010f9f2c18",
+      "fullUrl": "urn:uuid:1f40c9fc-5942-500d-a1af-b749375bdc7b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3168,7 +3168,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2021-03-10",
         "valueQuantity": {
@@ -3190,7 +3190,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3209,11 +3209,11 @@
             }
           }
         ],
-        "id": "5463e1fb-6af7-59d9-94dd-eb010f9f2c18"
+        "id": "1f40c9fc-5942-500d-a1af-b749375bdc7b"
       }
     },
     {
-      "fullUrl": "urn:uuid:f72a5998-2c6c-50cf-8695-75c9823dfcba",
+      "fullUrl": "urn:uuid:a3a2758a-a32d-5bef-b656-fa41313f9470",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3244,7 +3244,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2023-06-20",
         "valueQuantity": {
@@ -3266,7 +3266,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3285,11 +3285,11 @@
             }
           }
         ],
-        "id": "f72a5998-2c6c-50cf-8695-75c9823dfcba"
+        "id": "a3a2758a-a32d-5bef-b656-fa41313f9470"
       }
     },
     {
-      "fullUrl": "urn:uuid:b17975cb-6ee4-5dad-b236-05022be9e115",
+      "fullUrl": "urn:uuid:2fd221ff-4de3-55a6-9e93-f73086dd0eb0",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3320,7 +3320,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-04-10",
         "valueQuantity": {
@@ -3342,7 +3342,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3361,11 +3361,11 @@
             }
           }
         ],
-        "id": "b17975cb-6ee4-5dad-b236-05022be9e115"
+        "id": "2fd221ff-4de3-55a6-9e93-f73086dd0eb0"
       }
     },
     {
-      "fullUrl": "urn:uuid:ad227903-c8b9-5e75-b348-0fec65f77f9e",
+      "fullUrl": "urn:uuid:84a2a1eb-c3b8-562b-984c-9e0a39e5545d",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3396,7 +3396,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-08-05",
         "valueQuantity": {
@@ -3418,7 +3418,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3437,11 +3437,11 @@
             }
           }
         ],
-        "id": "ad227903-c8b9-5e75-b348-0fec65f77f9e"
+        "id": "84a2a1eb-c3b8-562b-984c-9e0a39e5545d"
       }
     },
     {
-      "fullUrl": "urn:uuid:2ec52ca0-6396-5280-be68-2b517911843e",
+      "fullUrl": "urn:uuid:40718cea-dc10-524c-a761-26322178a6bf",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3472,7 +3472,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-11-04",
         "valueQuantity": {
@@ -3494,7 +3494,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3513,11 +3513,11 @@
             }
           }
         ],
-        "id": "2ec52ca0-6396-5280-be68-2b517911843e"
+        "id": "40718cea-dc10-524c-a761-26322178a6bf"
       }
     },
     {
-      "fullUrl": "urn:uuid:854b137e-d5a1-5254-aaf5-d64cf934c68a",
+      "fullUrl": "urn:uuid:4e66a8b4-b188-5b8f-b0b3-50f5466602d0",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3548,7 +3548,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-01-13",
         "valueQuantity": {
@@ -3570,7 +3570,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3589,11 +3589,11 @@
             }
           }
         ],
-        "id": "854b137e-d5a1-5254-aaf5-d64cf934c68a"
+        "id": "4e66a8b4-b188-5b8f-b0b3-50f5466602d0"
       }
     },
     {
-      "fullUrl": "urn:uuid:561505cf-e4f8-5555-8ad5-f6650129c732",
+      "fullUrl": "urn:uuid:f498ac24-9e53-55ef-a66c-9e6c54068d6c",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3624,7 +3624,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-02-24",
         "valueQuantity": {
@@ -3646,7 +3646,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3665,11 +3665,11 @@
             }
           }
         ],
-        "id": "561505cf-e4f8-5555-8ad5-f6650129c732"
+        "id": "f498ac24-9e53-55ef-a66c-9e6c54068d6c"
       }
     },
     {
-      "fullUrl": "urn:uuid:cc8419ad-9c14-5171-8259-841f36699fd8",
+      "fullUrl": "urn:uuid:d5392492-1266-5987-bd24-1d0637009110",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3700,7 +3700,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-05-05",
         "valueQuantity": {
@@ -3722,7 +3722,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3741,11 +3741,11 @@
             }
           }
         ],
-        "id": "cc8419ad-9c14-5171-8259-841f36699fd8"
+        "id": "d5392492-1266-5987-bd24-1d0637009110"
       }
     },
     {
-      "fullUrl": "urn:uuid:3e9066ee-361b-5822-99f2-159017517a6f",
+      "fullUrl": "urn:uuid:47a2306a-ae8d-5749-baf3-4f235964d906",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3776,7 +3776,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-07-07",
         "valueQuantity": {
@@ -3798,7 +3798,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3817,11 +3817,11 @@
             }
           }
         ],
-        "id": "3e9066ee-361b-5822-99f2-159017517a6f"
+        "id": "47a2306a-ae8d-5749-baf3-4f235964d906"
       }
     },
     {
-      "fullUrl": "urn:uuid:07d777e5-c384-577e-8cf3-e459756e3d3f",
+      "fullUrl": "urn:uuid:31f0d4dc-a6dc-51d0-abce-3c1efc35da87",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3852,7 +3852,7 @@
           "text": "T4 livre"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-10-13",
         "valueQuantity": {
@@ -3874,7 +3874,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3893,11 +3893,11 @@
             }
           }
         ],
-        "id": "07d777e5-c384-577e-8cf3-e459756e3d3f"
+        "id": "31f0d4dc-a6dc-51d0-abce-3c1efc35da87"
       }
     },
     {
-      "fullUrl": "urn:uuid:64843177-9b5c-5309-bef4-70f56db579f4",
+      "fullUrl": "urn:uuid:98c6ab94-1afe-5ded-8542-47867658d4eb",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3928,7 +3928,7 @@
           "text": "Glicose em jejum"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2021-03-10",
         "valueQuantity": {
@@ -3950,7 +3950,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -3969,11 +3969,11 @@
             }
           }
         ],
-        "id": "64843177-9b5c-5309-bef4-70f56db579f4"
+        "id": "98c6ab94-1afe-5ded-8542-47867658d4eb"
       }
     },
     {
-      "fullUrl": "urn:uuid:daae726d-3da4-594c-a308-486cb59747c6",
+      "fullUrl": "urn:uuid:579cbc4c-7872-5834-a735-a4196fa17873",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4004,7 +4004,7 @@
           "text": "Glicose em jejum"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2023-06-20",
         "valueQuantity": {
@@ -4026,7 +4026,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4045,11 +4045,11 @@
             }
           }
         ],
-        "id": "daae726d-3da4-594c-a308-486cb59747c6"
+        "id": "579cbc4c-7872-5834-a735-a4196fa17873"
       }
     },
     {
-      "fullUrl": "urn:uuid:644ce2ac-c3ca-5f3b-8b05-e0db51ed47c0",
+      "fullUrl": "urn:uuid:967c7729-88f1-5ed7-b55f-641a26d55940",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4080,7 +4080,7 @@
           "text": "Glicose em jejum"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-04-10",
         "valueQuantity": {
@@ -4102,7 +4102,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4121,11 +4121,11 @@
             }
           }
         ],
-        "id": "644ce2ac-c3ca-5f3b-8b05-e0db51ed47c0"
+        "id": "967c7729-88f1-5ed7-b55f-641a26d55940"
       }
     },
     {
-      "fullUrl": "urn:uuid:6fd6a674-5fd2-5c45-9eab-0d227cc309df",
+      "fullUrl": "urn:uuid:fc18dac1-7318-5e4b-98c6-b76a6c72acff",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4156,7 +4156,7 @@
           "text": "Glicose em jejum"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-08-05",
         "valueQuantity": {
@@ -4178,7 +4178,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4197,11 +4197,11 @@
             }
           }
         ],
-        "id": "6fd6a674-5fd2-5c45-9eab-0d227cc309df"
+        "id": "fc18dac1-7318-5e4b-98c6-b76a6c72acff"
       }
     },
     {
-      "fullUrl": "urn:uuid:5bd96b4d-7d12-5975-b298-eccb9da59e8e",
+      "fullUrl": "urn:uuid:9dfc6966-34ed-5ecf-8148-47866dddd50e",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4232,7 +4232,7 @@
           "text": "Glicose em jejum"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-11-04",
         "valueQuantity": {
@@ -4254,7 +4254,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4273,11 +4273,11 @@
             }
           }
         ],
-        "id": "5bd96b4d-7d12-5975-b298-eccb9da59e8e"
+        "id": "9dfc6966-34ed-5ecf-8148-47866dddd50e"
       }
     },
     {
-      "fullUrl": "urn:uuid:11a62bb7-9033-531c-84e0-3aca67f69fd0",
+      "fullUrl": "urn:uuid:380b6f76-ce88-562f-b2f9-a27e36f533ab",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4308,7 +4308,7 @@
           "text": "Glicose em jejum"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-01-13",
         "valueQuantity": {
@@ -4330,7 +4330,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4349,11 +4349,11 @@
             }
           }
         ],
-        "id": "11a62bb7-9033-531c-84e0-3aca67f69fd0"
+        "id": "380b6f76-ce88-562f-b2f9-a27e36f533ab"
       }
     },
     {
-      "fullUrl": "urn:uuid:7e80e50f-a2ac-5475-94cd-72463dd9cbe5",
+      "fullUrl": "urn:uuid:fe011a58-55da-52e1-96b3-a12d5d1cf1e2",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4384,7 +4384,7 @@
           "text": "Glicose em jejum"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-02-24",
         "valueQuantity": {
@@ -4406,7 +4406,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4425,11 +4425,11 @@
             }
           }
         ],
-        "id": "7e80e50f-a2ac-5475-94cd-72463dd9cbe5"
+        "id": "fe011a58-55da-52e1-96b3-a12d5d1cf1e2"
       }
     },
     {
-      "fullUrl": "urn:uuid:c8628c55-37db-5005-be8e-5e0a6ef35bbf",
+      "fullUrl": "urn:uuid:54a42c80-45cb-534a-97fa-199311bc7edb",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4460,7 +4460,7 @@
           "text": "Glicose em jejum"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-05-05",
         "valueQuantity": {
@@ -4482,7 +4482,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4501,11 +4501,11 @@
             }
           }
         ],
-        "id": "c8628c55-37db-5005-be8e-5e0a6ef35bbf"
+        "id": "54a42c80-45cb-534a-97fa-199311bc7edb"
       }
     },
     {
-      "fullUrl": "urn:uuid:655d9bf7-0aa0-5c08-8e68-32b69f959a40",
+      "fullUrl": "urn:uuid:b4cb4c93-d997-574a-8ee2-705aabba1dda",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4528,7 +4528,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "ogtt-75g-2h",
               "display": "PTGO 75 g — glicose às 2 h"
             }
@@ -4536,7 +4536,7 @@
           "text": "PTGO 75 g — glicose às 2 h"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-11-04",
         "valueQuantity": {
@@ -4558,7 +4558,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4571,11 +4571,11 @@
             }
           }
         ],
-        "id": "655d9bf7-0aa0-5c08-8e68-32b69f959a40"
+        "id": "b4cb4c93-d997-574a-8ee2-705aabba1dda"
       }
     },
     {
-      "fullUrl": "urn:uuid:fc380e2e-2adc-566b-8cfd-e56170b45369",
+      "fullUrl": "urn:uuid:a7eae33a-6530-58c7-8d50-34225a046033",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4598,7 +4598,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "ogtt-75g-2h",
               "display": "PTGO 75 g — glicose às 2 h"
             }
@@ -4606,7 +4606,7 @@
           "text": "PTGO 75 g — glicose às 2 h"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-05-05",
         "valueQuantity": {
@@ -4628,7 +4628,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4646,11 +4646,11 @@
             "text": "Na gravidez (critérios IADPSG), o limite às 2 h é 153 mg/dL; fora da gravidez, 140 mg/dL."
           }
         ],
-        "id": "fc380e2e-2adc-566b-8cfd-e56170b45369"
+        "id": "a7eae33a-6530-58c7-8d50-34225a046033"
       }
     },
     {
-      "fullUrl": "urn:uuid:13fee0f0-bca1-5457-b1ed-5fa24958d822",
+      "fullUrl": "urn:uuid:5f6ace62-5718-56dc-a318-0e2deccdbcfa",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4681,7 +4681,7 @@
           "text": "HbA1c"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-04-10",
         "valueQuantity": {
@@ -4703,7 +4703,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4722,11 +4722,11 @@
             }
           }
         ],
-        "id": "13fee0f0-bca1-5457-b1ed-5fa24958d822"
+        "id": "5f6ace62-5718-56dc-a318-0e2deccdbcfa"
       }
     },
     {
-      "fullUrl": "urn:uuid:1b798693-0d3b-5681-98d2-60a88b7c4777",
+      "fullUrl": "urn:uuid:af102ded-ff20-5891-9258-f916d6b96dd3",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4757,7 +4757,7 @@
           "text": "HbA1c"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-11-04",
         "valueQuantity": {
@@ -4779,7 +4779,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4798,11 +4798,11 @@
             }
           }
         ],
-        "id": "1b798693-0d3b-5681-98d2-60a88b7c4777"
+        "id": "af102ded-ff20-5891-9258-f916d6b96dd3"
       }
     },
     {
-      "fullUrl": "urn:uuid:88f7c4fe-55de-57f1-b3a2-47d675cfc427",
+      "fullUrl": "urn:uuid:b33ecdb5-3269-595b-973a-531cc40c7100",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4833,7 +4833,7 @@
           "text": "HbA1c"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-05-05",
         "valueQuantity": {
@@ -4855,7 +4855,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4874,11 +4874,11 @@
             }
           }
         ],
-        "id": "88f7c4fe-55de-57f1-b3a2-47d675cfc427"
+        "id": "b33ecdb5-3269-595b-973a-531cc40c7100"
       }
     },
     {
-      "fullUrl": "urn:uuid:b8b5c23b-60a1-5731-8f61-ab41ad5fbee2",
+      "fullUrl": "urn:uuid:94d52f25-55dc-57d3-9fa0-3746aaef358e",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4909,7 +4909,7 @@
           "text": "HbA1c"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-10-13",
         "valueQuantity": {
@@ -4931,7 +4931,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -4950,11 +4950,11 @@
             }
           }
         ],
-        "id": "b8b5c23b-60a1-5731-8f61-ab41ad5fbee2"
+        "id": "94d52f25-55dc-57d3-9fa0-3746aaef358e"
       }
     },
     {
-      "fullUrl": "urn:uuid:5bbe1f71-954a-533e-a335-51264f1c469d",
+      "fullUrl": "urn:uuid:b84f4fc5-a302-573e-9bfa-c798975052eb",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4985,7 +4985,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2019-02-12",
         "valueQuantity": {
@@ -5007,7 +5007,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5026,11 +5026,11 @@
             }
           }
         ],
-        "id": "5bbe1f71-954a-533e-a335-51264f1c469d"
+        "id": "b84f4fc5-a302-573e-9bfa-c798975052eb"
       }
     },
     {
-      "fullUrl": "urn:uuid:84516bab-a5aa-5666-b7da-30827bce06d6",
+      "fullUrl": "urn:uuid:87d05a1e-ffd4-5f86-98e6-00fa41e7ca4d",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5061,7 +5061,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2019-05-14",
         "valueQuantity": {
@@ -5083,7 +5083,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5102,11 +5102,11 @@
             }
           }
         ],
-        "id": "84516bab-a5aa-5666-b7da-30827bce06d6"
+        "id": "87d05a1e-ffd4-5f86-98e6-00fa41e7ca4d"
       }
     },
     {
-      "fullUrl": "urn:uuid:20278221-0b71-56bf-9ba8-4e21e156146c",
+      "fullUrl": "urn:uuid:26f9096f-39e3-5b6f-a260-dda4f4259055",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5137,7 +5137,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2021-03-10",
         "valueQuantity": {
@@ -5159,7 +5159,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5178,11 +5178,11 @@
             }
           }
         ],
-        "id": "20278221-0b71-56bf-9ba8-4e21e156146c"
+        "id": "26f9096f-39e3-5b6f-a260-dda4f4259055"
       }
     },
     {
-      "fullUrl": "urn:uuid:d6843f4f-db45-5cef-b00f-727cc98bdfd0",
+      "fullUrl": "urn:uuid:4afb5fd8-113b-51c3-b8cf-d977d1e1f638",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5213,7 +5213,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2023-06-20",
         "valueQuantity": {
@@ -5235,7 +5235,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5254,11 +5254,11 @@
             }
           }
         ],
-        "id": "d6843f4f-db45-5cef-b00f-727cc98bdfd0"
+        "id": "4afb5fd8-113b-51c3-b8cf-d977d1e1f638"
       }
     },
     {
-      "fullUrl": "urn:uuid:ec979fa6-9744-5a50-8734-eb3e0fe60267",
+      "fullUrl": "urn:uuid:e3a60b58-9005-57f4-ab34-5bd7231c675e",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5289,7 +5289,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-04-10",
         "valueQuantity": {
@@ -5311,7 +5311,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5330,11 +5330,11 @@
             }
           }
         ],
-        "id": "ec979fa6-9744-5a50-8734-eb3e0fe60267"
+        "id": "e3a60b58-9005-57f4-ab34-5bd7231c675e"
       }
     },
     {
-      "fullUrl": "urn:uuid:9ef5d513-3b5d-5acc-87b2-209f2a717278",
+      "fullUrl": "urn:uuid:eae826c1-2e04-5cf6-8125-a01d11eea1bf",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5365,7 +5365,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-08-05",
         "valueQuantity": {
@@ -5387,7 +5387,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5406,11 +5406,11 @@
             }
           }
         ],
-        "id": "9ef5d513-3b5d-5acc-87b2-209f2a717278"
+        "id": "eae826c1-2e04-5cf6-8125-a01d11eea1bf"
       }
     },
     {
-      "fullUrl": "urn:uuid:8d681f56-0455-55f1-af54-8d1e20336a10",
+      "fullUrl": "urn:uuid:90522563-fcef-5291-b221-fe6305105a1c",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5441,7 +5441,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-11-04",
         "valueQuantity": {
@@ -5463,7 +5463,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5482,11 +5482,11 @@
             }
           }
         ],
-        "id": "8d681f56-0455-55f1-af54-8d1e20336a10"
+        "id": "90522563-fcef-5291-b221-fe6305105a1c"
       }
     },
     {
-      "fullUrl": "urn:uuid:44adb72e-5ac3-55da-979c-a5d3e87210a8",
+      "fullUrl": "urn:uuid:5fb99c4d-6af2-5ba4-bd72-12fb5721a3da",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5517,7 +5517,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-01-13",
         "valueQuantity": {
@@ -5539,7 +5539,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5558,11 +5558,11 @@
             }
           }
         ],
-        "id": "44adb72e-5ac3-55da-979c-a5d3e87210a8"
+        "id": "5fb99c4d-6af2-5ba4-bd72-12fb5721a3da"
       }
     },
     {
-      "fullUrl": "urn:uuid:8c0537b2-c05c-5196-93f4-4150d4a862fe",
+      "fullUrl": "urn:uuid:530d61e5-11bc-500b-bf13-4cfab9b8d3c8",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5593,7 +5593,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-02-24",
         "valueQuantity": {
@@ -5615,7 +5615,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5634,11 +5634,11 @@
             }
           }
         ],
-        "id": "8c0537b2-c05c-5196-93f4-4150d4a862fe"
+        "id": "530d61e5-11bc-500b-bf13-4cfab9b8d3c8"
       }
     },
     {
-      "fullUrl": "urn:uuid:8ed5ac4d-68e2-5145-91ea-27527d68f273",
+      "fullUrl": "urn:uuid:83739a4f-7e1b-573d-ac13-cb849305a022",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5669,7 +5669,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-05-05",
         "valueQuantity": {
@@ -5691,7 +5691,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5710,11 +5710,11 @@
             }
           }
         ],
-        "id": "8ed5ac4d-68e2-5145-91ea-27527d68f273"
+        "id": "83739a4f-7e1b-573d-ac13-cb849305a022"
       }
     },
     {
-      "fullUrl": "urn:uuid:2f3027b9-6b75-57f8-817f-9fca7c3a0c35",
+      "fullUrl": "urn:uuid:fbacf0c4-134f-50a8-8616-6e651733845e",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5745,7 +5745,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-07-07",
         "valueQuantity": {
@@ -5767,7 +5767,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5786,11 +5786,11 @@
             }
           }
         ],
-        "id": "2f3027b9-6b75-57f8-817f-9fca7c3a0c35"
+        "id": "fbacf0c4-134f-50a8-8616-6e651733845e"
       }
     },
     {
-      "fullUrl": "urn:uuid:089d15e8-a2d7-5dc8-bcc9-728d410ca29d",
+      "fullUrl": "urn:uuid:410559dc-f141-55f8-85eb-1b3c1080d769",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5821,7 +5821,7 @@
           "text": "Hemoglobina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-10-13",
         "valueQuantity": {
@@ -5843,7 +5843,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5862,11 +5862,11 @@
             }
           }
         ],
-        "id": "089d15e8-a2d7-5dc8-bcc9-728d410ca29d"
+        "id": "410559dc-f141-55f8-85eb-1b3c1080d769"
       }
     },
     {
-      "fullUrl": "urn:uuid:30ce8cb0-c551-5956-a8b2-9418292a6248",
+      "fullUrl": "urn:uuid:4de9b6a2-c05b-5b7e-bdf8-5aef97bb75c9",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5897,7 +5897,7 @@
           "text": "Ferritina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-04-10",
         "valueQuantity": {
@@ -5919,7 +5919,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -5938,11 +5938,11 @@
             }
           }
         ],
-        "id": "30ce8cb0-c551-5956-a8b2-9418292a6248"
+        "id": "4de9b6a2-c05b-5b7e-bdf8-5aef97bb75c9"
       }
     },
     {
-      "fullUrl": "urn:uuid:8cc0f957-091a-5185-846d-5b2a021ea380",
+      "fullUrl": "urn:uuid:7fe56d3a-d0f7-594b-aabc-e2e3bb21cd33",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -5973,7 +5973,7 @@
           "text": "Ferritina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-08-05",
         "valueQuantity": {
@@ -5995,7 +5995,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -6014,11 +6014,11 @@
             }
           }
         ],
-        "id": "8cc0f957-091a-5185-846d-5b2a021ea380"
+        "id": "7fe56d3a-d0f7-594b-aabc-e2e3bb21cd33"
       }
     },
     {
-      "fullUrl": "urn:uuid:224b1ec7-463d-51f7-a198-065e174e116a",
+      "fullUrl": "urn:uuid:c0b8f8e6-40f0-5245-aad0-65a81f84475b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6049,7 +6049,7 @@
           "text": "Ferritina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-11-04",
         "valueQuantity": {
@@ -6071,7 +6071,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -6090,11 +6090,11 @@
             }
           }
         ],
-        "id": "224b1ec7-463d-51f7-a198-065e174e116a"
+        "id": "c0b8f8e6-40f0-5245-aad0-65a81f84475b"
       }
     },
     {
-      "fullUrl": "urn:uuid:0a1f8595-4255-51d8-9a8b-a9cde1b87eba",
+      "fullUrl": "urn:uuid:b3428e73-0cab-5e41-ad1f-202c824832f3",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6125,7 +6125,7 @@
           "text": "Ferritina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-01-13",
         "valueQuantity": {
@@ -6147,7 +6147,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -6166,11 +6166,11 @@
             }
           }
         ],
-        "id": "0a1f8595-4255-51d8-9a8b-a9cde1b87eba"
+        "id": "b3428e73-0cab-5e41-ad1f-202c824832f3"
       }
     },
     {
-      "fullUrl": "urn:uuid:d44990c4-5179-5218-af47-3658dfbb4ecf",
+      "fullUrl": "urn:uuid:3f48b0dc-fdef-51ff-b1f1-8e20417c126a",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6201,7 +6201,7 @@
           "text": "Ferritina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-02-24",
         "valueQuantity": {
@@ -6223,7 +6223,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -6242,11 +6242,11 @@
             }
           }
         ],
-        "id": "d44990c4-5179-5218-af47-3658dfbb4ecf"
+        "id": "3f48b0dc-fdef-51ff-b1f1-8e20417c126a"
       }
     },
     {
-      "fullUrl": "urn:uuid:5ea0fba7-2ec1-5bc1-9b91-3d64e564c0e1",
+      "fullUrl": "urn:uuid:2d4a08c9-7820-5f97-99eb-5f2795526f46",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6277,7 +6277,7 @@
           "text": "Ferritina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-05-05",
         "valueQuantity": {
@@ -6299,7 +6299,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -6318,11 +6318,11 @@
             }
           }
         ],
-        "id": "5ea0fba7-2ec1-5bc1-9b91-3d64e564c0e1"
+        "id": "2d4a08c9-7820-5f97-99eb-5f2795526f46"
       }
     },
     {
-      "fullUrl": "urn:uuid:80c38480-d1d1-576d-bde4-be5e9677212d",
+      "fullUrl": "urn:uuid:6b5b54c5-4dee-58e9-a7ae-467a04e4c9ce",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6353,7 +6353,7 @@
           "text": "Ferritina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-07-07",
         "valueQuantity": {
@@ -6375,7 +6375,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -6394,11 +6394,11 @@
             }
           }
         ],
-        "id": "80c38480-d1d1-576d-bde4-be5e9677212d"
+        "id": "6b5b54c5-4dee-58e9-a7ae-467a04e4c9ce"
       }
     },
     {
-      "fullUrl": "urn:uuid:b7f9ccfd-1959-578d-8f7c-bd64bdd0dfb8",
+      "fullUrl": "urn:uuid:79977f26-8b8c-5d05-8ecc-f9b6b0c34261",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6429,7 +6429,7 @@
           "text": "Ferritina"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-10-13",
         "valueQuantity": {
@@ -6451,7 +6451,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:857f5162-5811-546a-a4fc-a854eb890d4e"
+            "reference": "urn:uuid:fb6e0983-ce1d-5276-8ae8-0bff4ad8bfbb"
           }
         ],
         "referenceRange": [
@@ -6470,11 +6470,11 @@
             }
           }
         ],
-        "id": "b7f9ccfd-1959-578d-8f7c-bd64bdd0dfb8"
+        "id": "79977f26-8b8c-5d05-8ecc-f9b6b0c34261"
       }
     },
     {
-      "fullUrl": "urn:uuid:5374ba58-4168-5e94-b1c9-8e59d5e5aed5",
+      "fullUrl": "urn:uuid:75c6f2ca-02b0-56c5-9714-f6fcaf99eab8",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6504,7 +6504,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 64.0,
@@ -6513,11 +6513,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2019-02",
-        "id": "5374ba58-4168-5e94-b1c9-8e59d5e5aed5"
+        "id": "75c6f2ca-02b0-56c5-9714-f6fcaf99eab8"
       }
     },
     {
-      "fullUrl": "urn:uuid:3ef7049b-ec6f-52fc-a51d-4637e2e7ea78",
+      "fullUrl": "urn:uuid:bac40764-30c5-5989-a4d1-8c5ee60e2980",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6547,7 +6547,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 63.0,
@@ -6556,11 +6556,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2023-06",
-        "id": "3ef7049b-ec6f-52fc-a51d-4637e2e7ea78"
+        "id": "bac40764-30c5-5989-a4d1-8c5ee60e2980"
       }
     },
     {
-      "fullUrl": "urn:uuid:b4f0dc65-3d5f-5476-87d6-48c4da660ab2",
+      "fullUrl": "urn:uuid:906ead42-d852-5775-934f-d708303d37ec",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6590,7 +6590,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 63.5,
@@ -6599,11 +6599,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2025-04",
-        "id": "b4f0dc65-3d5f-5476-87d6-48c4da660ab2"
+        "id": "906ead42-d852-5775-934f-d708303d37ec"
       }
     },
     {
-      "fullUrl": "urn:uuid:17dcb9ac-b001-5ec6-b7f1-8938f3366d91",
+      "fullUrl": "urn:uuid:ee757b35-0e20-5792-9bcd-f1955de91811",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6633,7 +6633,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 64.6,
@@ -6642,11 +6642,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2025-08",
-        "id": "17dcb9ac-b001-5ec6-b7f1-8938f3366d91"
+        "id": "ee757b35-0e20-5792-9bcd-f1955de91811"
       }
     },
     {
-      "fullUrl": "urn:uuid:008bfac6-ca1d-596d-84fd-9846fb9699e7",
+      "fullUrl": "urn:uuid:b9b495f5-dd6b-50b2-9bef-5201122b3c18",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6676,7 +6676,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 66.0,
@@ -6685,11 +6685,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2025-09",
-        "id": "008bfac6-ca1d-596d-84fd-9846fb9699e7"
+        "id": "b9b495f5-dd6b-50b2-9bef-5201122b3c18"
       }
     },
     {
-      "fullUrl": "urn:uuid:5fd0f636-e0f3-5432-a3ec-e95e4d67d5b2",
+      "fullUrl": "urn:uuid:b899c100-bde0-5721-b626-b29f55287596",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6719,7 +6719,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 67.8,
@@ -6728,11 +6728,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2025-10",
-        "id": "5fd0f636-e0f3-5432-a3ec-e95e4d67d5b2"
+        "id": "b899c100-bde0-5721-b626-b29f55287596"
       }
     },
     {
-      "fullUrl": "urn:uuid:9f0cbf87-d518-587f-949f-265df5ab2cdc",
+      "fullUrl": "urn:uuid:1ca58dd1-7a25-5cb7-ab7b-32dd9c0b6b2f",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6762,7 +6762,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 69.5,
@@ -6771,11 +6771,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2025-11",
-        "id": "9f0cbf87-d518-587f-949f-265df5ab2cdc"
+        "id": "1ca58dd1-7a25-5cb7-ab7b-32dd9c0b6b2f"
       }
     },
     {
-      "fullUrl": "urn:uuid:1baa0984-9f3a-57d7-817a-83cf6c820414",
+      "fullUrl": "urn:uuid:3b431045-3198-5e50-8424-2172ddf06c4e",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6805,7 +6805,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 71.0,
@@ -6814,11 +6814,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2025-12",
-        "id": "1baa0984-9f3a-57d7-817a-83cf6c820414"
+        "id": "3b431045-3198-5e50-8424-2172ddf06c4e"
       }
     },
     {
-      "fullUrl": "urn:uuid:e4a5a6c3-c747-559f-92bf-a396f947ce47",
+      "fullUrl": "urn:uuid:330c60a3-12d7-5c3b-b889-9c50f7c2b25b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6848,7 +6848,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 72.6,
@@ -6857,11 +6857,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2026-01",
-        "id": "e4a5a6c3-c747-559f-92bf-a396f947ce47"
+        "id": "330c60a3-12d7-5c3b-b889-9c50f7c2b25b"
       }
     },
     {
-      "fullUrl": "urn:uuid:9fad9bc9-aa25-5547-a1bd-6de24578efb3",
+      "fullUrl": "urn:uuid:136b6375-a38f-5d14-a163-4ff82d5dcb04",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6891,7 +6891,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 74.1,
@@ -6900,11 +6900,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2026-02",
-        "id": "9fad9bc9-aa25-5547-a1bd-6de24578efb3"
+        "id": "136b6375-a38f-5d14-a163-4ff82d5dcb04"
       }
     },
     {
-      "fullUrl": "urn:uuid:2d5d230e-3397-5f50-a954-8dbb8955be44",
+      "fullUrl": "urn:uuid:730c7388-b8f9-5216-aaad-7216111b2ba9",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6934,7 +6934,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 75.0,
@@ -6943,11 +6943,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2026-03",
-        "id": "2d5d230e-3397-5f50-a954-8dbb8955be44"
+        "id": "730c7388-b8f9-5216-aaad-7216111b2ba9"
       }
     },
     {
-      "fullUrl": "urn:uuid:03649dea-0a34-55fe-b6de-5dfd29abd757",
+      "fullUrl": "urn:uuid:ec6da692-f460-5b0a-bf66-392349f603e6",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -6977,7 +6977,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 68.2,
@@ -6986,11 +6986,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2026-04",
-        "id": "03649dea-0a34-55fe-b6de-5dfd29abd757"
+        "id": "ec6da692-f460-5b0a-bf66-392349f603e6"
       }
     },
     {
-      "fullUrl": "urn:uuid:e929fe31-f53e-5e9a-aa26-9dd815b407f8",
+      "fullUrl": "urn:uuid:15940a81-25bb-5459-a59a-6debec792fad",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7020,7 +7020,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 65.4,
@@ -7029,11 +7029,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2026-07",
-        "id": "e929fe31-f53e-5e9a-aa26-9dd815b407f8"
+        "id": "15940a81-25bb-5459-a59a-6debec792fad"
       }
     },
     {
-      "fullUrl": "urn:uuid:40f5f87e-a8d5-5f94-93ee-5890ffeb3f81",
+      "fullUrl": "urn:uuid:88bd64ec-980e-5242-81a4-2ef9deb57ea1",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7063,7 +7063,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 64.1,
@@ -7072,11 +7072,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2026-10",
-        "id": "40f5f87e-a8d5-5f94-93ee-5890ffeb3f81"
+        "id": "88bd64ec-980e-5242-81a4-2ef9deb57ea1"
       }
     },
     {
-      "fullUrl": "urn:uuid:78f5a89d-a50e-5dc4-8f26-8391c889bacf",
+      "fullUrl": "urn:uuid:db8108d0-a3cc-5173-a66f-47b87a60695b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7106,7 +7106,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 106,
@@ -7125,11 +7125,11 @@
             }
           }
         ],
-        "id": "78f5a89d-a50e-5dc4-8f26-8391c889bacf"
+        "id": "db8108d0-a3cc-5173-a66f-47b87a60695b"
       }
     },
     {
-      "fullUrl": "urn:uuid:fb06def0-bd5a-5126-94b2-c9b8c8e06527",
+      "fullUrl": "urn:uuid:866e385e-72b2-5c72-bc33-017b6c18a804",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7159,7 +7159,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 108,
@@ -7178,11 +7178,11 @@
             }
           }
         ],
-        "id": "fb06def0-bd5a-5126-94b2-c9b8c8e06527"
+        "id": "866e385e-72b2-5c72-bc33-017b6c18a804"
       }
     },
     {
-      "fullUrl": "urn:uuid:fd984c8c-1ad4-5317-8c26-b58469b738d7",
+      "fullUrl": "urn:uuid:420b8f38-e861-5731-9a53-b2f0021a084d",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7212,7 +7212,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 110,
@@ -7231,11 +7231,11 @@
             }
           }
         ],
-        "id": "fd984c8c-1ad4-5317-8c26-b58469b738d7"
+        "id": "420b8f38-e861-5731-9a53-b2f0021a084d"
       }
     },
     {
-      "fullUrl": "urn:uuid:58236c91-dad7-5a0d-884c-c9d74d6597fe",
+      "fullUrl": "urn:uuid:9af5041a-01ea-5208-a5a5-eb4c087617b2",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7265,7 +7265,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 112,
@@ -7284,11 +7284,11 @@
             }
           }
         ],
-        "id": "58236c91-dad7-5a0d-884c-c9d74d6597fe"
+        "id": "9af5041a-01ea-5208-a5a5-eb4c087617b2"
       }
     },
     {
-      "fullUrl": "urn:uuid:bb3dbcab-51d2-5d5c-be3c-6f56a7f0e98a",
+      "fullUrl": "urn:uuid:4f8c9ce1-b945-51e1-b8ea-a4b520ace768",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7318,7 +7318,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 114,
@@ -7337,11 +7337,11 @@
             }
           }
         ],
-        "id": "bb3dbcab-51d2-5d5c-be3c-6f56a7f0e98a"
+        "id": "4f8c9ce1-b945-51e1-b8ea-a4b520ace768"
       }
     },
     {
-      "fullUrl": "urn:uuid:e9024688-5a3c-5a03-a3b7-b9b659593fef",
+      "fullUrl": "urn:uuid:1a389ee0-72c3-5399-93de-50a4e3a86084",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7371,7 +7371,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 116,
@@ -7390,11 +7390,11 @@
             }
           }
         ],
-        "id": "e9024688-5a3c-5a03-a3b7-b9b659593fef"
+        "id": "1a389ee0-72c3-5399-93de-50a4e3a86084"
       }
     },
     {
-      "fullUrl": "urn:uuid:d533ed95-c253-5f97-9bd1-26ceed9ad506",
+      "fullUrl": "urn:uuid:eb01bb97-3767-5893-8e0f-ed27ae027fa7",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7424,7 +7424,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 118,
@@ -7443,11 +7443,11 @@
             }
           }
         ],
-        "id": "d533ed95-c253-5f97-9bd1-26ceed9ad506"
+        "id": "eb01bb97-3767-5893-8e0f-ed27ae027fa7"
       }
     },
     {
-      "fullUrl": "urn:uuid:06d24b8b-0ded-52a9-aee7-47b19c5b3bbd",
+      "fullUrl": "urn:uuid:4a7dd6ae-bf50-5d2e-b0d7-9877eb5c6221",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7477,7 +7477,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 124,
@@ -7496,11 +7496,11 @@
             }
           }
         ],
-        "id": "06d24b8b-0ded-52a9-aee7-47b19c5b3bbd"
+        "id": "4a7dd6ae-bf50-5d2e-b0d7-9877eb5c6221"
       }
     },
     {
-      "fullUrl": "urn:uuid:eef7e681-c384-5eac-9d8b-cd94d8361222",
+      "fullUrl": "urn:uuid:a34f88c5-8fcf-5442-bf32-0a02830b8ea2",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7530,7 +7530,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 128,
@@ -7549,11 +7549,11 @@
             }
           }
         ],
-        "id": "eef7e681-c384-5eac-9d8b-cd94d8361222"
+        "id": "a34f88c5-8fcf-5442-bf32-0a02830b8ea2"
       }
     },
     {
-      "fullUrl": "urn:uuid:ff8f9c1b-3193-5153-97d9-d62c1d1d4430",
+      "fullUrl": "urn:uuid:9959e57d-1210-5350-8bde-a9d0d353f728",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7583,7 +7583,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 118,
@@ -7602,11 +7602,11 @@
             }
           }
         ],
-        "id": "ff8f9c1b-3193-5153-97d9-d62c1d1d4430"
+        "id": "9959e57d-1210-5350-8bde-a9d0d353f728"
       }
     },
     {
-      "fullUrl": "urn:uuid:08f9a316-422e-5705-b93d-2f35130b9f7a",
+      "fullUrl": "urn:uuid:43248af0-40d3-5369-a268-8e937c38cb1b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7636,7 +7636,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 112,
@@ -7655,11 +7655,11 @@
             }
           }
         ],
-        "id": "08f9a316-422e-5705-b93d-2f35130b9f7a"
+        "id": "43248af0-40d3-5369-a268-8e937c38cb1b"
       }
     },
     {
-      "fullUrl": "urn:uuid:4ce620ff-36d4-5c27-99d9-27e96014de72",
+      "fullUrl": "urn:uuid:9efe7b97-ac03-50ab-9096-7cabd3544045",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7689,7 +7689,7 @@
           "text": "Pressão arterial sistólica"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 110,
@@ -7708,11 +7708,11 @@
             }
           }
         ],
-        "id": "4ce620ff-36d4-5c27-99d9-27e96014de72"
+        "id": "9efe7b97-ac03-50ab-9096-7cabd3544045"
       }
     },
     {
-      "fullUrl": "urn:uuid:e0cdce8f-97ca-50fa-bd74-0bcf84f672f5",
+      "fullUrl": "urn:uuid:c86826d9-656c-5382-ae42-1bd7792b3abe",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7734,7 +7734,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "smbg-1h-postprandial",
               "display": "Glicemia capilar 1 h pós-prandial (média mensal)"
             }
@@ -7742,7 +7742,7 @@
           "text": "Glicemia capilar 1 h pós-prandial (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 148,
@@ -7764,11 +7764,11 @@
             }
           }
         ],
-        "id": "e0cdce8f-97ca-50fa-bd74-0bcf84f672f5"
+        "id": "c86826d9-656c-5382-ae42-1bd7792b3abe"
       }
     },
     {
-      "fullUrl": "urn:uuid:c0bf2eee-bed3-5e23-bf22-92cf9e541c07",
+      "fullUrl": "urn:uuid:a4eceda5-5b99-5924-a252-04d8837b2487",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7790,7 +7790,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "smbg-1h-postprandial",
               "display": "Glicemia capilar 1 h pós-prandial (média mensal)"
             }
@@ -7798,7 +7798,7 @@
           "text": "Glicemia capilar 1 h pós-prandial (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 136,
@@ -7820,11 +7820,11 @@
             }
           }
         ],
-        "id": "c0bf2eee-bed3-5e23-bf22-92cf9e541c07"
+        "id": "a4eceda5-5b99-5924-a252-04d8837b2487"
       }
     },
     {
-      "fullUrl": "urn:uuid:02e90c8f-c1ee-5bed-a771-0d7bf9d3549b",
+      "fullUrl": "urn:uuid:af5b7431-64ff-55b2-8b35-1ddf4d80cfc3",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7846,7 +7846,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "smbg-1h-postprandial",
               "display": "Glicemia capilar 1 h pós-prandial (média mensal)"
             }
@@ -7854,7 +7854,7 @@
           "text": "Glicemia capilar 1 h pós-prandial (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 128,
@@ -7876,11 +7876,11 @@
             }
           }
         ],
-        "id": "02e90c8f-c1ee-5bed-a771-0d7bf9d3549b"
+        "id": "af5b7431-64ff-55b2-8b35-1ddf4d80cfc3"
       }
     },
     {
-      "fullUrl": "urn:uuid:ad6da6ea-a26e-5a9e-b13a-fb088926ee71",
+      "fullUrl": "urn:uuid:cc34c7bb-d7fa-5d62-be11-678251fe47d5",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7902,7 +7902,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "smbg-1h-postprandial",
               "display": "Glicemia capilar 1 h pós-prandial (média mensal)"
             }
@@ -7910,7 +7910,7 @@
           "text": "Glicemia capilar 1 h pós-prandial (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 124,
@@ -7932,11 +7932,11 @@
             }
           }
         ],
-        "id": "ad6da6ea-a26e-5a9e-b13a-fb088926ee71"
+        "id": "cc34c7bb-d7fa-5d62-be11-678251fe47d5"
       }
     },
     {
-      "fullUrl": "urn:uuid:3bbc9b57-58f2-5012-bd4d-9aba39f9d83e",
+      "fullUrl": "urn:uuid:2b0fc9c1-ad03-5dd4-b852-cecd74b52582",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -7958,7 +7958,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "smbg-1h-postprandial",
               "display": "Glicemia capilar 1 h pós-prandial (média mensal)"
             }
@@ -7966,7 +7966,7 @@
           "text": "Glicemia capilar 1 h pós-prandial (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 126,
@@ -7993,11 +7993,11 @@
             "text": "Autovigilância durante a diabetes gestacional; alvo inferior a 140 mg/dL."
           }
         ],
-        "id": "3bbc9b57-58f2-5012-bd4d-9aba39f9d83e"
+        "id": "2b0fc9c1-ad03-5dd4-b852-cecd74b52582"
       }
     },
     {
-      "fullUrl": "urn:uuid:5c96ffaa-9915-58c0-8622-d63f4b91a385",
+      "fullUrl": "urn:uuid:7aaa0664-de45-5c78-8de0-82a577aec14d",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8027,7 +8027,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 9200,
@@ -8039,11 +8039,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "5c96ffaa-9915-58c0-8622-d63f4b91a385"
+        "id": "7aaa0664-de45-5c78-8de0-82a577aec14d"
       }
     },
     {
-      "fullUrl": "urn:uuid:9960773e-a5df-56f6-88c1-2bb87cc8adcb",
+      "fullUrl": "urn:uuid:f9151acd-7828-5d12-b266-a6389ab69b1c",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8073,7 +8073,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 9500,
@@ -8085,11 +8085,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "9960773e-a5df-56f6-88c1-2bb87cc8adcb"
+        "id": "f9151acd-7828-5d12-b266-a6389ab69b1c"
       }
     },
     {
-      "fullUrl": "urn:uuid:713da5ca-cb2d-5a80-82af-71bc9f390671",
+      "fullUrl": "urn:uuid:82099914-1abd-5b50-a88f-4ba2f5d0e567",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8119,7 +8119,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 9800,
@@ -8131,11 +8131,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "713da5ca-cb2d-5a80-82af-71bc9f390671"
+        "id": "82099914-1abd-5b50-a88f-4ba2f5d0e567"
       }
     },
     {
-      "fullUrl": "urn:uuid:0433418d-b6b5-5255-b646-543a7c66c5d6",
+      "fullUrl": "urn:uuid:d68ec8a4-d911-5299-bd88-61d95bcfc625",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8165,7 +8165,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 10100,
@@ -8177,11 +8177,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "0433418d-b6b5-5255-b646-543a7c66c5d6"
+        "id": "d68ec8a4-d911-5299-bd88-61d95bcfc625"
       }
     },
     {
-      "fullUrl": "urn:uuid:d702e03b-03c5-52f6-b231-77ed0b7ddc6a",
+      "fullUrl": "urn:uuid:a98d3506-7638-541d-a99d-d07ad73d52ac",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8211,7 +8211,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 9900,
@@ -8223,11 +8223,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "d702e03b-03c5-52f6-b231-77ed0b7ddc6a"
+        "id": "a98d3506-7638-541d-a99d-d07ad73d52ac"
       }
     },
     {
-      "fullUrl": "urn:uuid:421494a5-76d2-5648-8a97-9b0b9fc39dca",
+      "fullUrl": "urn:uuid:cf74b4bd-4e97-5087-97f4-806b161aee16",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8257,7 +8257,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 10400,
@@ -8269,11 +8269,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "421494a5-76d2-5648-8a97-9b0b9fc39dca"
+        "id": "cf74b4bd-4e97-5087-97f4-806b161aee16"
       }
     },
     {
-      "fullUrl": "urn:uuid:89205649-4bee-59c3-bf66-159783d23ee1",
+      "fullUrl": "urn:uuid:1621acce-81cc-5d77-b62b-25d941449ab3",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8303,7 +8303,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 9600,
@@ -8315,11 +8315,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "89205649-4bee-59c3-bf66-159783d23ee1"
+        "id": "1621acce-81cc-5d77-b62b-25d941449ab3"
       }
     },
     {
-      "fullUrl": "urn:uuid:3c4baf12-5a7d-5594-9f2e-905b9f74f888",
+      "fullUrl": "urn:uuid:38fde9de-2bdf-53c7-bc89-d5efceeb3606",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8349,7 +8349,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 8800,
@@ -8361,11 +8361,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "3c4baf12-5a7d-5594-9f2e-905b9f74f888"
+        "id": "38fde9de-2bdf-53c7-bc89-d5efceeb3606"
       }
     },
     {
-      "fullUrl": "urn:uuid:aed8cfab-053d-5bb0-9d86-40833e4b4130",
+      "fullUrl": "urn:uuid:a854fcd1-b4df-56dc-a4a0-85fe051b89ed",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8395,7 +8395,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 8400,
@@ -8407,11 +8407,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "aed8cfab-053d-5bb0-9d86-40833e4b4130"
+        "id": "a854fcd1-b4df-56dc-a4a0-85fe051b89ed"
       }
     },
     {
-      "fullUrl": "urn:uuid:f6d74129-8b74-58de-ae34-46ea2246ae23",
+      "fullUrl": "urn:uuid:ccfbceb2-f5ff-559f-92df-97fac4e2eb82",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8441,7 +8441,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 8100,
@@ -8453,11 +8453,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "f6d74129-8b74-58de-ae34-46ea2246ae23"
+        "id": "ccfbceb2-f5ff-559f-92df-97fac4e2eb82"
       }
     },
     {
-      "fullUrl": "urn:uuid:bef004fd-cbf1-56f9-92bd-7289d636c638",
+      "fullUrl": "urn:uuid:e64684ed-46ef-5a0f-b565-ff1af434a498",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8487,7 +8487,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7600,
@@ -8499,11 +8499,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "bef004fd-cbf1-56f9-92bd-7289d636c638"
+        "id": "e64684ed-46ef-5a0f-b565-ff1af434a498"
       }
     },
     {
-      "fullUrl": "urn:uuid:3b873bcc-0aad-57ef-ae01-cbb9321b3ea7",
+      "fullUrl": "urn:uuid:5a70439b-d12d-5b7c-aaa2-142c88fbebdb",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8533,7 +8533,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7200,
@@ -8545,11 +8545,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "3b873bcc-0aad-57ef-ae01-cbb9321b3ea7"
+        "id": "5a70439b-d12d-5b7c-aaa2-142c88fbebdb"
       }
     },
     {
-      "fullUrl": "urn:uuid:69914939-7ada-5731-96bf-22812ae7f460",
+      "fullUrl": "urn:uuid:3a50c810-ba04-5076-a60b-f6ce4f0dea0f",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8579,7 +8579,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 6600,
@@ -8591,11 +8591,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "69914939-7ada-5731-96bf-22812ae7f460"
+        "id": "3a50c810-ba04-5076-a60b-f6ce4f0dea0f"
       }
     },
     {
-      "fullUrl": "urn:uuid:a0e9f88c-2229-5d69-b63c-3785f5500e39",
+      "fullUrl": "urn:uuid:4e709e7f-3e45-52b9-a151-6833715aefcf",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8625,7 +8625,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 5900,
@@ -8637,11 +8637,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "a0e9f88c-2229-5d69-b63c-3785f5500e39"
+        "id": "4e709e7f-3e45-52b9-a151-6833715aefcf"
       }
     },
     {
-      "fullUrl": "urn:uuid:819abc5b-9174-5e61-b0b9-9faf891c3c58",
+      "fullUrl": "urn:uuid:0d2f48ac-97b2-5c5f-b37a-cf62fc90dd10",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8671,7 +8671,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 3800,
@@ -8683,11 +8683,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "819abc5b-9174-5e61-b0b9-9faf891c3c58"
+        "id": "0d2f48ac-97b2-5c5f-b37a-cf62fc90dd10"
       }
     },
     {
-      "fullUrl": "urn:uuid:efbc3c87-d334-5583-a07e-111cba6d90c4",
+      "fullUrl": "urn:uuid:34b8dcbf-fee5-5bce-ab92-68cdfe637bd8",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8717,7 +8717,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 4600,
@@ -8729,11 +8729,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "efbc3c87-d334-5583-a07e-111cba6d90c4"
+        "id": "34b8dcbf-fee5-5bce-ab92-68cdfe637bd8"
       }
     },
     {
-      "fullUrl": "urn:uuid:c437a32f-c54e-5653-86ea-d872ef3a3563",
+      "fullUrl": "urn:uuid:ab98afd4-9dd4-526c-ba58-f88fa32a0c06",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8763,7 +8763,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 6200,
@@ -8775,11 +8775,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "c437a32f-c54e-5653-86ea-d872ef3a3563"
+        "id": "ab98afd4-9dd4-526c-ba58-f88fa32a0c06"
       }
     },
     {
-      "fullUrl": "urn:uuid:d012f48d-0859-5b30-8d25-737fb48c571c",
+      "fullUrl": "urn:uuid:03a9cdd7-71b0-527a-b1f5-6e8cb9ee7c42",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8809,7 +8809,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7400,
@@ -8821,11 +8821,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "d012f48d-0859-5b30-8d25-737fb48c571c"
+        "id": "03a9cdd7-71b0-527a-b1f5-6e8cb9ee7c42"
       }
     },
     {
-      "fullUrl": "urn:uuid:052dbd5a-630d-58c0-8c0a-ff95e3f302dd",
+      "fullUrl": "urn:uuid:292c045b-b423-56f8-8d63-00d94209d6aa",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8855,7 +8855,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7900,
@@ -8867,11 +8867,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "052dbd5a-630d-58c0-8c0a-ff95e3f302dd"
+        "id": "292c045b-b423-56f8-8d63-00d94209d6aa"
       }
     },
     {
-      "fullUrl": "urn:uuid:e9394698-c761-5f5c-a56f-79ef14d74423",
+      "fullUrl": "urn:uuid:3155858e-f042-5de0-b130-09fa18fbe635",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8901,7 +8901,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 8300,
@@ -8913,11 +8913,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "e9394698-c761-5f5c-a56f-79ef14d74423"
+        "id": "3155858e-f042-5de0-b130-09fa18fbe635"
       }
     },
     {
-      "fullUrl": "urn:uuid:7e2f6a6a-e776-5176-8711-a86d0b7c4079",
+      "fullUrl": "urn:uuid:4a761c7b-0323-52e1-bcdd-fb65eac66d1c",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8947,7 +8947,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 8600,
@@ -8959,11 +8959,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "7e2f6a6a-e776-5176-8711-a86d0b7c4079"
+        "id": "4a761c7b-0323-52e1-bcdd-fb65eac66d1c"
       }
     },
     {
-      "fullUrl": "urn:uuid:32162f3c-579b-59fd-8ce7-5b0addca182c",
+      "fullUrl": "urn:uuid:f9f4113d-8a77-5ef8-9693-6e9c5e5db52b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -8993,7 +8993,7 @@
           "text": "Passos por dia (mediana mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 8900,
@@ -9005,11 +9005,11 @@
         "device": {
           "display": "Telemóvel"
         },
-        "id": "32162f3c-579b-59fd-8ce7-5b0addca182c"
+        "id": "f9f4113d-8a77-5ef8-9693-6e9c5e5db52b"
       }
     },
     {
-      "fullUrl": "urn:uuid:f6f72e21-95a1-5d64-a82c-146e9f896413",
+      "fullUrl": "urn:uuid:5e53de5c-081a-5ada-9d6e-50d2f27a8ad4",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9039,7 +9039,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7.4,
@@ -9061,11 +9061,11 @@
             }
           }
         ],
-        "id": "f6f72e21-95a1-5d64-a82c-146e9f896413"
+        "id": "5e53de5c-081a-5ada-9d6e-50d2f27a8ad4"
       }
     },
     {
-      "fullUrl": "urn:uuid:ffb75b27-0c66-5cb1-a76a-a46f5a17565c",
+      "fullUrl": "urn:uuid:9c9abb97-6784-5ce7-94f3-3d7d8ffad0bd",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9095,7 +9095,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7.3,
@@ -9117,11 +9117,11 @@
             }
           }
         ],
-        "id": "ffb75b27-0c66-5cb1-a76a-a46f5a17565c"
+        "id": "9c9abb97-6784-5ce7-94f3-3d7d8ffad0bd"
       }
     },
     {
-      "fullUrl": "urn:uuid:f7f9c5b0-5d94-5ea5-ad2e-4abf011f0a17",
+      "fullUrl": "urn:uuid:eef15b7b-c0c5-5605-910d-1a44b2604f96",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9151,7 +9151,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7.5,
@@ -9173,11 +9173,11 @@
             }
           }
         ],
-        "id": "f7f9c5b0-5d94-5ea5-ad2e-4abf011f0a17"
+        "id": "eef15b7b-c0c5-5605-910d-1a44b2604f96"
       }
     },
     {
-      "fullUrl": "urn:uuid:b78262d2-c159-5f2f-b7a2-6fe92cf33f90",
+      "fullUrl": "urn:uuid:1965da60-a814-5a0d-8e9b-091a5b4a76f3",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9207,7 +9207,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7.6,
@@ -9229,11 +9229,11 @@
             }
           }
         ],
-        "id": "b78262d2-c159-5f2f-b7a2-6fe92cf33f90"
+        "id": "1965da60-a814-5a0d-8e9b-091a5b4a76f3"
       }
     },
     {
-      "fullUrl": "urn:uuid:5a25007d-ca3b-51e2-a381-f12123761317",
+      "fullUrl": "urn:uuid:a58019ac-1c56-5266-80d7-4b61c583f08a",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9263,7 +9263,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7.8,
@@ -9285,11 +9285,11 @@
             }
           }
         ],
-        "id": "5a25007d-ca3b-51e2-a381-f12123761317"
+        "id": "a58019ac-1c56-5266-80d7-4b61c583f08a"
       }
     },
     {
-      "fullUrl": "urn:uuid:e9b684bb-6549-55a2-b09a-ad60ac58089e",
+      "fullUrl": "urn:uuid:72159a2e-0c94-5228-bd9d-1fc9d06e2dca",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9319,7 +9319,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 7.2,
@@ -9341,11 +9341,11 @@
             }
           }
         ],
-        "id": "e9b684bb-6549-55a2-b09a-ad60ac58089e"
+        "id": "72159a2e-0c94-5228-bd9d-1fc9d06e2dca"
       }
     },
     {
-      "fullUrl": "urn:uuid:ec727426-8057-545a-a636-2b0fa60ae6da",
+      "fullUrl": "urn:uuid:643a0008-4ed2-5a89-acb5-cf6c4daa6650",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9375,7 +9375,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 6.8,
@@ -9397,11 +9397,11 @@
             }
           }
         ],
-        "id": "ec727426-8057-545a-a636-2b0fa60ae6da"
+        "id": "643a0008-4ed2-5a89-acb5-cf6c4daa6650"
       }
     },
     {
-      "fullUrl": "urn:uuid:17f575a8-83e1-5b76-8f16-adbe66d124dc",
+      "fullUrl": "urn:uuid:852c4b66-b7a1-5adc-8ef7-e122a8c3ce95",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9431,7 +9431,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 6.5,
@@ -9453,11 +9453,11 @@
             }
           }
         ],
-        "id": "17f575a8-83e1-5b76-8f16-adbe66d124dc"
+        "id": "852c4b66-b7a1-5adc-8ef7-e122a8c3ce95"
       }
     },
     {
-      "fullUrl": "urn:uuid:d68ac4ec-0346-5040-b406-127f28a6b043",
+      "fullUrl": "urn:uuid:bde263a1-5912-5f3e-8722-f578be79e813",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9487,7 +9487,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 5.4,
@@ -9509,11 +9509,11 @@
             }
           }
         ],
-        "id": "d68ac4ec-0346-5040-b406-127f28a6b043"
+        "id": "bde263a1-5912-5f3e-8722-f578be79e813"
       }
     },
     {
-      "fullUrl": "urn:uuid:6f1d0c47-bc1e-50fd-a2b6-41153ec1d6b9",
+      "fullUrl": "urn:uuid:ab668a95-b610-5eae-b459-001548190fb1",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9543,7 +9543,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 5.1,
@@ -9565,11 +9565,11 @@
             }
           }
         ],
-        "id": "6f1d0c47-bc1e-50fd-a2b6-41153ec1d6b9"
+        "id": "ab668a95-b610-5eae-b459-001548190fb1"
       }
     },
     {
-      "fullUrl": "urn:uuid:7ee31895-99b4-5c34-ac98-7d090e1dbe4c",
+      "fullUrl": "urn:uuid:d6f0822b-69e1-5343-a936-3575f34d5c51",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9599,7 +9599,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 5.6,
@@ -9621,11 +9621,11 @@
             }
           }
         ],
-        "id": "7ee31895-99b4-5c34-ac98-7d090e1dbe4c"
+        "id": "d6f0822b-69e1-5343-a936-3575f34d5c51"
       }
     },
     {
-      "fullUrl": "urn:uuid:60d52510-7a64-54f0-98d5-c445d929a9be",
+      "fullUrl": "urn:uuid:57271b8f-e1b9-54c5-8417-4e138d805329",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9655,7 +9655,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 5.9,
@@ -9677,11 +9677,11 @@
             }
           }
         ],
-        "id": "60d52510-7a64-54f0-98d5-c445d929a9be"
+        "id": "57271b8f-e1b9-54c5-8417-4e138d805329"
       }
     },
     {
-      "fullUrl": "urn:uuid:43959156-08b3-51be-af76-da427a9fb66f",
+      "fullUrl": "urn:uuid:9760e09a-ba9b-5aa0-89e7-9206535c3972",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9711,7 +9711,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 6.2,
@@ -9733,11 +9733,11 @@
             }
           }
         ],
-        "id": "43959156-08b3-51be-af76-da427a9fb66f"
+        "id": "9760e09a-ba9b-5aa0-89e7-9206535c3972"
       }
     },
     {
-      "fullUrl": "urn:uuid:51be7254-c05a-5019-914a-87819f77ece3",
+      "fullUrl": "urn:uuid:78963dd3-d472-523d-9309-70365b98a2a3",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9767,7 +9767,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 6.4,
@@ -9789,11 +9789,11 @@
             }
           }
         ],
-        "id": "51be7254-c05a-5019-914a-87819f77ece3"
+        "id": "78963dd3-d472-523d-9309-70365b98a2a3"
       }
     },
     {
-      "fullUrl": "urn:uuid:81333b05-cf90-5410-9a0c-2ff8892564fe",
+      "fullUrl": "urn:uuid:e3d2ef5d-0a02-5547-84c3-f5bbc7823934",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9823,7 +9823,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 6.6,
@@ -9845,11 +9845,11 @@
             }
           }
         ],
-        "id": "81333b05-cf90-5410-9a0c-2ff8892564fe"
+        "id": "e3d2ef5d-0a02-5547-84c3-f5bbc7823934"
       }
     },
     {
-      "fullUrl": "urn:uuid:8add2e4b-7b0e-5146-87c4-829cfb08de19",
+      "fullUrl": "urn:uuid:865a24ae-a01a-577c-9101-d211b59379ad",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -9879,7 +9879,7 @@
           "text": "Duração do sono (média mensal)"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "valueQuantity": {
           "value": 6.7,
@@ -9906,11 +9906,11 @@
             "text": "Sono fragmentado nos primeiros meses após o parto."
           }
         ],
-        "id": "8add2e4b-7b0e-5146-87c4-829cfb08de19"
+        "id": "865a24ae-a01a-577c-9101-d211b59379ad"
       }
     },
     {
-      "fullUrl": "urn:uuid:db3bcbc5-0ff5-5ac7-bee4-cf43b22b6765",
+      "fullUrl": "urn:uuid:8cb5109f-3195-55f3-a1ac-e4a4ba0284f3",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -9940,7 +9940,7 @@
           "text": "Gravidez"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2025-06-25",
@@ -9961,11 +9961,11 @@
             "text": "Data da última menstruação 25/06/2025; parto às 38+3 semanas."
           }
         ],
-        "id": "db3bcbc5-0ff5-5ac7-bee4-cf43b22b6765"
+        "id": "8cb5109f-3195-55f3-a1ac-e4a4ba0284f3"
       }
     },
     {
-      "fullUrl": "urn:uuid:49c54713-302e-5b3f-9b9e-24858466ef36",
+      "fullUrl": "urn:uuid:cb4b9761-25d1-5077-b228-6861d7ba52a0",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -9987,7 +9987,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "life-period",
               "display": "Período de vida"
             }
@@ -9995,7 +9995,7 @@
           "text": "Período de vida"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectivePeriod": {
           "start": "2026-03-20",
@@ -10007,11 +10007,11 @@
             "text": "Amamentação exclusiva até aos 6 meses."
           }
         ],
-        "id": "49c54713-302e-5b3f-9b9e-24858466ef36"
+        "id": "cb4b9761-25d1-5077-b228-6861d7ba52a0"
       }
     },
     {
-      "fullUrl": "urn:uuid:5f495eec-1097-5a74-a389-65b8be775e19",
+      "fullUrl": "urn:uuid:972b4d47-dbdf-5543-8544-deac71d95ffe",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -10033,7 +10033,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "life-event",
               "display": "Acontecimento de vida"
             }
@@ -10041,15 +10041,15 @@
           "text": "Acontecimento de vida"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2018-09-03",
         "valueString": "Início de funções como professora do ensino básico",
-        "id": "5f495eec-1097-5a74-a389-65b8be775e19"
+        "id": "972b4d47-dbdf-5543-8544-deac71d95ffe"
       }
     },
     {
-      "fullUrl": "urn:uuid:04b33f94-57c2-5c56-a6c4-9c5cf677227b",
+      "fullUrl": "urn:uuid:2acca8e5-5160-5ed7-9af0-8a4ed39f028d",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -10071,7 +10071,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "life-event",
               "display": "Acontecimento de vida"
             }
@@ -10079,7 +10079,7 @@
           "text": "Acontecimento de vida"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-03-20",
         "valueString": "Nascimento do filho",
@@ -10088,11 +10088,11 @@
             "text": "3,9 kg, Apgar 9/10."
           }
         ],
-        "id": "04b33f94-57c2-5c56-a6c4-9c5cf677227b"
+        "id": "2acca8e5-5160-5ed7-9af0-8a4ed39f028d"
       }
     },
     {
-      "fullUrl": "urn:uuid:51cf830f-8dc6-573a-9553-63b51dcd4931",
+      "fullUrl": "urn:uuid:0b727ecf-9ff8-5f82-90b2-6e41bba44d4c",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -10114,7 +10114,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "life-event",
               "display": "Acontecimento de vida"
             }
@@ -10122,15 +10122,15 @@
           "text": "Acontecimento de vida"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2026-09-21",
         "valueString": "Regresso ao trabalho",
-        "id": "51cf830f-8dc6-573a-9553-63b51dcd4931"
+        "id": "0b727ecf-9ff8-5f82-90b2-6e41bba44d4c"
       }
     },
     {
-      "fullUrl": "urn:uuid:86c67480-969c-56e5-a23f-c1a5df0327d1",
+      "fullUrl": "urn:uuid:0a8e54ec-b8c8-53b9-a724-72d3d90f4af6",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -10160,11 +10160,11 @@
           "text": "Tobacco smoking status"
         },
         "subject": {
-          "reference": "urn:uuid:9821f439-8a07-5798-aecf-3bf44cd978a3"
+          "reference": "urn:uuid:b100db85-db2a-58a9-922e-fb4afbdffebc"
         },
         "effectiveDateTime": "2025-06-25",
         "valueString": "Nunca fumou",
-        "id": "86c67480-969c-56e5-a23f-c1a5df0327d1"
+        "id": "0a8e54ec-b8c8-53b9-a724-72d3d90f4af6"
       }
     }
   ]

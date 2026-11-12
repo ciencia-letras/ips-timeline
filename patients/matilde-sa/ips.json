@@ -14,14 +14,14 @@
     ]
   },
   "identifier": {
-    "system": "https://ricardojccorreia.github.io/ips-timeline/NamingSystem/ips-bundle",
+    "system": "https://ciencia-letras.github.io/ips-timeline/NamingSystem/ips-bundle",
     "value": "matilde-sa-2026-11-05"
   },
   "type": "document",
   "timestamp": "2026-11-05T09:00:00+00:00",
   "entry": [
     {
-      "fullUrl": "urn:uuid:dd8ed325-4017-5bf7-be0b-e6c085ac68f7",
+      "fullUrl": "urn:uuid:f3c10ca8-ff11-5608-b754-e8440935930f",
       "resource": {
         "resourceType": "Composition",
         "meta": {
@@ -40,16 +40,16 @@
           ]
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "date": "2026-11-05T09:00:00+00:00",
         "author": [
           {
-            "reference": "urn:uuid:ccbd49cc-aa8e-5cc7-ae25-fb451892eea0"
+            "reference": "urn:uuid:fbc1dff8-9680-503e-b49f-b7a528de9cde"
           }
         ],
         "custodian": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
         "title": "Resumo do paciente (IPS) — Matilde Sá",
         "confidentiality": "N",
@@ -71,7 +71,7 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:433b631c-6431-55ff-8aa5-01d399bab3e0"
+                "reference": "urn:uuid:e8423be2-73c9-5daa-900a-15da533d84a1"
               }
             ]
           },
@@ -92,7 +92,7 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:e9452cb9-376a-5428-95f7-c6fa42fed370"
+                "reference": "urn:uuid:d31c1113-66d2-5404-a2a4-1783d33de96c"
               }
             ]
           },
@@ -113,22 +113,22 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:b9140f99-e97b-52fa-8890-f79bdb621f40"
+                "reference": "urn:uuid:f560f95f-0edd-5710-8c40-215a9ddb594e"
               },
               {
-                "reference": "urn:uuid:38194a17-33d2-5d38-9603-949f6a433bd6"
+                "reference": "urn:uuid:68bbf92b-d561-5990-af58-fcb27d327b2b"
               },
               {
-                "reference": "urn:uuid:9acd9f33-762f-58ab-9897-46546402fcae"
+                "reference": "urn:uuid:577409e6-2063-5556-a5a2-ce8001bd85c6"
               },
               {
-                "reference": "urn:uuid:806a594e-c63d-5f82-913e-082dfc28c9b4"
+                "reference": "urn:uuid:2e464a64-7a6b-5e98-b880-2ca908bc596a"
               },
               {
-                "reference": "urn:uuid:2a248176-3165-5f6d-adec-23510a33768f"
+                "reference": "urn:uuid:feca48fd-be30-579e-9f22-7a22e01034fe"
               },
               {
-                "reference": "urn:uuid:7a329ed0-a5cc-515a-891e-77c691744d6c"
+                "reference": "urn:uuid:c7034232-06f8-50ed-aabd-e38c82ab9b38"
               }
             ]
           },
@@ -149,16 +149,16 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:8fabd7e2-91d2-5412-be2d-4afc31cb579a"
+                "reference": "urn:uuid:b9523adb-f358-51cb-9911-14ca5d7f5ccb"
               },
               {
-                "reference": "urn:uuid:a9aa9994-97f1-5a6a-b611-4dcab6243af1"
+                "reference": "urn:uuid:8531542f-fc1f-566b-be09-18532bb78fed"
               },
               {
-                "reference": "urn:uuid:ca1294ee-2ddd-584d-93c1-12a7d9143e2a"
+                "reference": "urn:uuid:a4b3987a-0a98-5781-8d50-6110450575ab"
               },
               {
-                "reference": "urn:uuid:71b190e4-d1ec-5ff9-bab8-a944bcddbdd9"
+                "reference": "urn:uuid:78c19a77-e801-50fc-936d-fd20c1406d08"
               }
             ]
           },
@@ -179,7 +179,7 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:338fe8bc-f6a7-5e03-9931-e6e3a9ba7e84"
+                "reference": "urn:uuid:25cf47c2-2fff-5e18-8548-0fe51980b4de"
               }
             ]
           },
@@ -200,133 +200,133 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:78b0f956-c54b-5e31-9b8f-66e342d1dee4"
+                "reference": "urn:uuid:b8ffa7d2-9563-5b51-8e2c-3f2d24b5fecf"
               },
               {
-                "reference": "urn:uuid:d4e5d55a-7494-513b-b29c-0f8a6f34759a"
+                "reference": "urn:uuid:f67d1118-c42b-53f2-b7bf-6f69072929b5"
               },
               {
-                "reference": "urn:uuid:e54dadc1-909f-5360-98e2-b3936d874e47"
+                "reference": "urn:uuid:4a63a012-f1ef-5d51-a23f-bb2208aaecdf"
               },
               {
-                "reference": "urn:uuid:17b04e0d-4606-5810-8b38-85a96efcd183"
+                "reference": "urn:uuid:08ee9c23-cef7-5a9d-bb80-0aa11d551072"
               },
               {
-                "reference": "urn:uuid:47f34401-2e18-5d5a-b903-cb9b6d371c51"
+                "reference": "urn:uuid:342c2e47-b04b-5295-abba-7572e55e2f96"
               },
               {
-                "reference": "urn:uuid:00c773f4-91b2-55e8-9d18-17fb7c5dbda7"
+                "reference": "urn:uuid:ea701045-f571-5731-b1a7-8655173c505c"
               },
               {
-                "reference": "urn:uuid:887720be-a37e-5c3f-8d57-8c929a14ad8b"
+                "reference": "urn:uuid:ce7f5236-343d-5536-8b3d-85b857b5bf56"
               },
               {
-                "reference": "urn:uuid:38e35a01-a8d5-5179-ba2d-96badf56453f"
+                "reference": "urn:uuid:a0a6f90d-18c9-5f01-8e5e-fe36db306d3b"
               },
               {
-                "reference": "urn:uuid:245689e0-5910-5771-9281-ed138af6eec7"
+                "reference": "urn:uuid:062c05bd-46a5-5b2c-80bb-158f83ea1430"
               },
               {
-                "reference": "urn:uuid:22efc3d7-fbab-5705-bcbb-7941fb7319d0"
+                "reference": "urn:uuid:1d768957-df63-55a6-a5a6-b611dba29feb"
               },
               {
-                "reference": "urn:uuid:3b09184b-35a9-53d7-8889-9106089efdd7"
+                "reference": "urn:uuid:5810d0dc-e52b-59d7-97d7-af2f4d9fd385"
               },
               {
-                "reference": "urn:uuid:0f049022-0bd3-50cf-9e78-5e0b9bc81a4e"
+                "reference": "urn:uuid:628d844b-7f1c-5df8-a4e8-5a09e66fa8de"
               },
               {
-                "reference": "urn:uuid:e0c7d7b1-aa7c-55b0-a3ed-93be0ae914a8"
+                "reference": "urn:uuid:ebfb391b-7d79-5ffc-b056-6909e77e2f35"
               },
               {
-                "reference": "urn:uuid:0e597f2c-12b8-57b2-b9c5-cdc12feb835a"
+                "reference": "urn:uuid:c6c4f09e-d877-5f04-bd57-269dc8fe1727"
               },
               {
-                "reference": "urn:uuid:cb335a28-76e6-5762-bdf8-2f875db3499f"
+                "reference": "urn:uuid:21952d49-6f25-5858-bb9f-08adc4c86cbc"
               },
               {
-                "reference": "urn:uuid:d88ddc6a-a5b4-599a-9c8d-1904c574420c"
+                "reference": "urn:uuid:4e3414a3-8ae3-56ce-a4db-e64c79b8adb7"
               },
               {
-                "reference": "urn:uuid:d502c742-8388-5cea-9dff-96a88349251d"
+                "reference": "urn:uuid:faaf1176-f036-584b-9e3a-ccb0fe4486ff"
               },
               {
-                "reference": "urn:uuid:6aee7c1f-11fd-5f01-8125-1c911237efb5"
+                "reference": "urn:uuid:57f1c24d-be4d-517c-bf2e-839c62b33cce"
               },
               {
-                "reference": "urn:uuid:8683c712-b50b-5d64-8dd1-6ba47c7a3032"
+                "reference": "urn:uuid:2bfd3120-98d3-5d21-be61-16196e8f072d"
               },
               {
-                "reference": "urn:uuid:06b13844-089f-5777-918e-7b35e3761614"
+                "reference": "urn:uuid:61f1e02c-ea41-5c98-b952-86abff1f187d"
               },
               {
-                "reference": "urn:uuid:fb715b4f-90ad-51d7-89cb-744812bb89b0"
+                "reference": "urn:uuid:e2e561ec-9e11-509b-922e-4c7150378a51"
               },
               {
-                "reference": "urn:uuid:302371c5-71ad-5493-b902-bfbc9ac62df7"
+                "reference": "urn:uuid:de90e17c-06c3-5de6-af04-93c06e093b06"
               },
               {
-                "reference": "urn:uuid:5c4548c8-05f1-5442-80c1-5c4f350e4cc7"
+                "reference": "urn:uuid:a63991df-cc63-5435-a0ac-344a2a615af3"
               },
               {
-                "reference": "urn:uuid:c20e3f46-afbf-5d50-a83c-0c36180d5ebb"
+                "reference": "urn:uuid:3502d86c-1c51-55e4-b060-c0d2835fdeb8"
               },
               {
-                "reference": "urn:uuid:0bcbaad5-83da-53cf-a858-15a2318cdf66"
+                "reference": "urn:uuid:e5ab98bc-015f-51a5-942d-0bddb18be8a0"
               },
               {
-                "reference": "urn:uuid:aa4656ac-0480-5a52-a114-3f9364c9fee8"
+                "reference": "urn:uuid:59e72a73-ab3b-5f24-abf5-ac823e62757d"
               },
               {
-                "reference": "urn:uuid:1ce881f3-20c7-5d1f-b17b-b6c56e8f61ce"
+                "reference": "urn:uuid:ce2a7971-b86e-5226-a449-b1a210092ca9"
               },
               {
-                "reference": "urn:uuid:601719c0-2e6a-5fd9-97e4-36265d0598e2"
+                "reference": "urn:uuid:af0717af-b51d-5d3d-a188-e33bbb12c9a0"
               },
               {
-                "reference": "urn:uuid:03b57af0-a80e-55f9-8f8d-b28de2c522fa"
+                "reference": "urn:uuid:f0dbba0f-051e-5298-b475-4eb0a9d8e8d0"
               },
               {
-                "reference": "urn:uuid:cb370a4c-bea5-5c54-af3a-a382a44d332c"
+                "reference": "urn:uuid:5d26cdfb-18cf-5b7a-931f-f6cfed68c314"
               },
               {
-                "reference": "urn:uuid:67705433-5c4c-5de2-9484-0568fd3a3526"
+                "reference": "urn:uuid:ca356393-e224-5ee8-852e-1aff325efdf9"
               },
               {
-                "reference": "urn:uuid:e641d9f6-9c20-514a-9d3d-9e29c58d8d47"
+                "reference": "urn:uuid:be405931-aca8-565f-b23c-fc26a89313d4"
               },
               {
-                "reference": "urn:uuid:878d2266-b64f-53d8-92a5-88b2fa4d72ee"
+                "reference": "urn:uuid:cbfd8e13-4b6d-51ff-9f45-24590a46b38a"
               },
               {
-                "reference": "urn:uuid:6d907f07-fa30-5108-bbf2-a2484b1bac7e"
+                "reference": "urn:uuid:0f06d191-50bc-57a4-b04a-d0e6469239cc"
               },
               {
-                "reference": "urn:uuid:3fdf6c89-11c4-578c-be29-b92e2b4495f5"
+                "reference": "urn:uuid:2350538a-566d-5650-9329-a55ac9d00da8"
               },
               {
-                "reference": "urn:uuid:9ce46b18-ff98-5974-8756-815264f5da09"
+                "reference": "urn:uuid:64cfab33-a2f3-58b1-9e11-f86f2e237c47"
               },
               {
-                "reference": "urn:uuid:04ad61a9-64b6-5825-afa2-67d920ffb4de"
+                "reference": "urn:uuid:73e21db9-b409-5eb5-877c-86086964ee24"
               },
               {
-                "reference": "urn:uuid:28ad0ccb-99cd-5761-8b04-e817fca28ab7"
+                "reference": "urn:uuid:6f3b3fa4-0c4c-5584-b9b7-ad15b3bf3b7b"
               },
               {
-                "reference": "urn:uuid:cc173d13-cc2a-5113-9998-3d86e0c04573"
+                "reference": "urn:uuid:17d02aeb-c9fe-5550-aa1b-7cee39145bbd"
               },
               {
-                "reference": "urn:uuid:70183059-1240-5c97-af36-9b31582951a1"
+                "reference": "urn:uuid:bcc549b6-7b2a-5712-9779-35894de63199"
               },
               {
-                "reference": "urn:uuid:b6ba8eba-c671-5404-9853-b2a04e245ee7"
+                "reference": "urn:uuid:d79b473a-8a31-5e99-a248-3f04fa5f6ebf"
               },
               {
-                "reference": "urn:uuid:1d022397-f0de-584d-92bc-0d312accb051"
+                "reference": "urn:uuid:f72511a8-db04-5cad-837a-3b4dcdc7b6e4"
               },
               {
-                "reference": "urn:uuid:0f16d1df-6506-554c-b11a-e9c9e62c61de"
+                "reference": "urn:uuid:5ac9c444-5629-5c61-a169-dc8995bca371"
               }
             ]
           },
@@ -347,43 +347,43 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:d5d87479-7281-5b38-9627-2b48427eabcf"
+                "reference": "urn:uuid:b844bf31-63ea-5205-8542-a7ecf3f5636c"
               },
               {
-                "reference": "urn:uuid:f7683ff1-64fa-542f-b796-7b98bbeaa7b2"
+                "reference": "urn:uuid:f8165514-640a-5e36-a7e0-a7c414d382dd"
               },
               {
-                "reference": "urn:uuid:4fe19e1f-1c2a-5f7a-8ef4-99432ec2c053"
+                "reference": "urn:uuid:d2dcc2a3-8b1b-51fe-bef8-01eef548777f"
               },
               {
-                "reference": "urn:uuid:c9423916-df27-5a50-934c-b41e068fb197"
+                "reference": "urn:uuid:d6e43248-de3f-5678-b84d-220428a0e057"
               },
               {
-                "reference": "urn:uuid:1a9ea46a-f920-5964-b4ad-2cf3bbd5fada"
+                "reference": "urn:uuid:a0e77d41-8b6c-59c8-ac2d-b9ddbd68002a"
               },
               {
-                "reference": "urn:uuid:7ab65d5b-8c08-55b5-a766-96d60ba6c9d0"
+                "reference": "urn:uuid:b2ee2ff3-fefa-5db7-a495-842b7b6da580"
               },
               {
-                "reference": "urn:uuid:684bdff7-17e6-58bd-87ad-72787de72014"
+                "reference": "urn:uuid:9e9ccff4-918b-5813-94ba-7b1cbbf08d99"
               },
               {
-                "reference": "urn:uuid:dfd26370-c90f-5067-bcce-83adc1512e39"
+                "reference": "urn:uuid:d0390f17-934a-575b-8dca-7bab306fd70b"
               },
               {
-                "reference": "urn:uuid:e60b200d-2626-5667-b1e6-05d60276bc90"
+                "reference": "urn:uuid:4a2255e7-59c3-55b6-8307-3ed14f2811ee"
               },
               {
-                "reference": "urn:uuid:d749f2b5-3e4d-567b-81c2-3689b76ba145"
+                "reference": "urn:uuid:60783b14-a91d-548f-8d1c-506194ccb895"
               },
               {
-                "reference": "urn:uuid:242d5900-eb36-5270-b395-dca2607c152a"
+                "reference": "urn:uuid:dcb0c95f-9c95-5e1b-b664-b441b48a1f5a"
               },
               {
-                "reference": "urn:uuid:1dd4987b-a5bb-589a-b3d4-5397e93af20a"
+                "reference": "urn:uuid:29de53b6-71ec-5075-a66c-3d46d7241b44"
               },
               {
-                "reference": "urn:uuid:c5511c57-7f90-5233-bcbb-526d40d6e87f"
+                "reference": "urn:uuid:5c1769e1-2dec-58fb-a0fd-af051411bf70"
               }
             ]
           },
@@ -404,19 +404,19 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:d03e40f0-b883-5448-bf3b-4253941d4dbb"
+                "reference": "urn:uuid:fbad4c93-b866-5c3f-a0a2-11931763ab9a"
               },
               {
-                "reference": "urn:uuid:78048f27-2476-5a97-9082-fd56f885557d"
+                "reference": "urn:uuid:ca9df7d2-551e-5e8d-a704-f0653b93f166"
               },
               {
-                "reference": "urn:uuid:062a3169-5028-5499-b244-c6d931e28273"
+                "reference": "urn:uuid:772e1850-697d-59ab-a5bb-23e891b41f7c"
               },
               {
-                "reference": "urn:uuid:8379ca09-b2cc-5107-bcdf-8f677043b033"
+                "reference": "urn:uuid:2e2c6092-052e-5414-a79d-48b92ef12190"
               },
               {
-                "reference": "urn:uuid:b09ee667-b57a-5f80-a06b-933afa2f794c"
+                "reference": "urn:uuid:8dc18409-1faa-588a-a16d-78da5f74cf94"
               }
             ]
           },
@@ -437,49 +437,49 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:2ca82936-dfa9-561b-bb16-4ce0be8b920c"
+                "reference": "urn:uuid:c0dece03-0589-51c7-ac6e-863420ba1097"
               },
               {
-                "reference": "urn:uuid:946c8872-4c43-5265-8714-e7026042a8f1"
+                "reference": "urn:uuid:da5a7385-73d1-5d3b-b97d-52600f567891"
               },
               {
-                "reference": "urn:uuid:dcb4c767-aac5-5961-9d42-bd7118188a6b"
+                "reference": "urn:uuid:68ff86f7-70b5-5982-8e46-806e59f32364"
               },
               {
-                "reference": "urn:uuid:dcb6ffc6-007b-5a96-8a2f-78f353bd5a39"
+                "reference": "urn:uuid:0cba5505-66f6-5093-b039-2f715a20344c"
               },
               {
-                "reference": "urn:uuid:bace7f26-fa10-5564-9af4-a42a14dc9686"
+                "reference": "urn:uuid:91c4f76c-7c6f-5838-8c0a-9e7479fcafc3"
               },
               {
-                "reference": "urn:uuid:73d9fd6b-a8b0-5ed7-8cd0-b76af5f64755"
+                "reference": "urn:uuid:c5b4dfb7-3aac-5b2c-9d2e-9e5e66f18175"
               },
               {
-                "reference": "urn:uuid:362f6fdc-1057-5d4c-9d90-83e8069bd55b"
+                "reference": "urn:uuid:eb010520-a342-50a0-bb94-9d5a51f2e42a"
               },
               {
-                "reference": "urn:uuid:0f0c212d-0f8f-5352-bb58-0d5ee7512c8f"
+                "reference": "urn:uuid:40cf9475-c6ba-5758-8ce9-29138c4bf281"
               },
               {
-                "reference": "urn:uuid:e317e0ac-b904-51f0-9705-ec25e5c59784"
+                "reference": "urn:uuid:93c4abf8-1e88-5faa-b371-ade7d602d644"
               },
               {
-                "reference": "urn:uuid:cad3bc67-7a37-50aa-b74d-0b4d08ece7af"
+                "reference": "urn:uuid:ed18a32f-0d6b-5eeb-85b5-9e80841c812d"
               },
               {
-                "reference": "urn:uuid:0d64188b-4aa0-5d31-850c-f6889b62af2a"
+                "reference": "urn:uuid:9590b547-2185-5efe-a24e-9e3176317386"
               },
               {
-                "reference": "urn:uuid:0150a1d9-a8e3-5abd-b77e-e902ac93b99f"
+                "reference": "urn:uuid:89e92201-e4e0-5375-88ea-98a0be916175"
               },
               {
-                "reference": "urn:uuid:74b7252f-a56e-5c3e-a562-6f189d06e807"
+                "reference": "urn:uuid:bcaebf62-7d98-50da-9f68-1da5dc48d38b"
               },
               {
-                "reference": "urn:uuid:e012b5fd-49ef-5afa-ab0d-bfd24217806a"
+                "reference": "urn:uuid:20def31a-5907-5701-b804-a98714771d14"
               },
               {
-                "reference": "urn:uuid:3a56c4b3-6a38-56f6-9b1d-e6466ac69d92"
+                "reference": "urn:uuid:47409d51-752a-548b-b3e0-99c902214bef"
               }
             ]
           },
@@ -500,19 +500,19 @@
             },
             "entry": [
               {
-                "reference": "urn:uuid:9276f894-2b50-51b6-bf67-259b47fbcf68"
+                "reference": "urn:uuid:b0a94975-0142-5431-a775-38cbbb9a52a1"
               },
               {
-                "reference": "urn:uuid:c6aab605-4fb7-5fd1-9c67-d2743afd1169"
+                "reference": "urn:uuid:e837bbc8-6d56-5038-98ad-18673f58de3f"
               }
             ]
           }
         ],
-        "id": "dd8ed325-4017-5bf7-be0b-e6c085ac68f7"
+        "id": "f3c10ca8-ff11-5608-b754-e8440935930f"
       }
     },
     {
-      "fullUrl": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e",
+      "fullUrl": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa",
       "resource": {
         "resourceType": "Patient",
         "meta": {
@@ -522,7 +522,7 @@
         },
         "identifier": [
           {
-            "system": "https://ricardojccorreia.github.io/ips-timeline/NamingSystem/virtual-patient",
+            "system": "https://ciencia-letras.github.io/ips-timeline/NamingSystem/virtual-patient",
             "value": "matilde-sa"
           }
         ],
@@ -551,19 +551,19 @@
             "preferred": true
           }
         ],
-        "id": "4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        "id": "ffbba8c7-007c-5629-856f-b984c78ae9aa"
       }
     },
     {
-      "fullUrl": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2",
+      "fullUrl": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09",
       "resource": {
         "resourceType": "Organization",
         "name": "USF Virtual do Minho (fictícia)",
-        "id": "3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        "id": "eef42031-5362-5e09-8abd-029fb56e2b09"
       }
     },
     {
-      "fullUrl": "urn:uuid:ccbd49cc-aa8e-5cc7-ae25-fb451892eea0",
+      "fullUrl": "urn:uuid:fbc1dff8-9680-503e-b49f-b7a528de9cde",
       "resource": {
         "resourceType": "Practitioner",
         "name": [
@@ -571,11 +571,11 @@
             "text": "Dra. Inês Barros (médica de família, fictícia)"
           }
         ],
-        "id": "ccbd49cc-aa8e-5cc7-ae25-fb451892eea0"
+        "id": "fbc1dff8-9680-503e-b49f-b7a528de9cde"
       }
     },
     {
-      "fullUrl": "urn:uuid:2ca82936-dfa9-561b-bb16-4ce0be8b920c",
+      "fullUrl": "urn:uuid:c0dece03-0589-51c7-ac6e-863420ba1097",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -590,7 +590,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2020-03-20"
@@ -601,13 +601,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "2ca82936-dfa9-561b-bb16-4ce0be8b920c"
+        "id": "c0dece03-0589-51c7-ac6e-863420ba1097"
       }
     },
     {
-      "fullUrl": "urn:uuid:946c8872-4c43-5265-8714-e7026042a8f1",
+      "fullUrl": "urn:uuid:da5a7385-73d1-5d3b-b97d-52600f567891",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -622,7 +622,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2021-01-20"
@@ -633,13 +633,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "946c8872-4c43-5265-8714-e7026042a8f1"
+        "id": "da5a7385-73d1-5d3b-b97d-52600f567891"
       }
     },
     {
-      "fullUrl": "urn:uuid:dcb4c767-aac5-5961-9d42-bd7118188a6b",
+      "fullUrl": "urn:uuid:68ff86f7-70b5-5982-8e46-806e59f32364",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -654,7 +654,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2022-02-08"
@@ -665,13 +665,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "dcb4c767-aac5-5961-9d42-bd7118188a6b"
+        "id": "68ff86f7-70b5-5982-8e46-806e59f32364"
       }
     },
     {
-      "fullUrl": "urn:uuid:dcb6ffc6-007b-5a96-8a2f-78f353bd5a39",
+      "fullUrl": "urn:uuid:0cba5505-66f6-5093-b039-2f715a20344c",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -686,7 +686,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2022-11-15"
@@ -697,13 +697,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "dcb6ffc6-007b-5a96-8a2f-78f353bd5a39"
+        "id": "0cba5505-66f6-5093-b039-2f715a20344c"
       }
     },
     {
-      "fullUrl": "urn:uuid:bace7f26-fa10-5564-9af4-a42a14dc9686",
+      "fullUrl": "urn:uuid:91c4f76c-7c6f-5838-8c0a-9e7479fcafc3",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -718,7 +718,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2023-05-10"
@@ -729,13 +729,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "bace7f26-fa10-5564-9af4-a42a14dc9686"
+        "id": "91c4f76c-7c6f-5838-8c0a-9e7479fcafc3"
       }
     },
     {
-      "fullUrl": "urn:uuid:73d9fd6b-a8b0-5ed7-8cd0-b76af5f64755",
+      "fullUrl": "urn:uuid:c5b4dfb7-3aac-5b2c-9d2e-9e5e66f18175",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -750,7 +750,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2024-02-20"
@@ -761,13 +761,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "73d9fd6b-a8b0-5ed7-8cd0-b76af5f64755"
+        "id": "c5b4dfb7-3aac-5b2c-9d2e-9e5e66f18175"
       }
     },
     {
-      "fullUrl": "urn:uuid:362f6fdc-1057-5d4c-9d90-83e8069bd55b",
+      "fullUrl": "urn:uuid:eb010520-a342-50a0-bb94-9d5a51f2e42a",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -782,7 +782,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2024-10-15"
@@ -793,13 +793,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "362f6fdc-1057-5d4c-9d90-83e8069bd55b"
+        "id": "eb010520-a342-50a0-bb94-9d5a51f2e42a"
       }
     },
     {
-      "fullUrl": "urn:uuid:0f0c212d-0f8f-5352-bb58-0d5ee7512c8f",
+      "fullUrl": "urn:uuid:40cf9475-c6ba-5758-8ce9-29138c4bf281",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -814,7 +814,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2025-03-18"
@@ -825,13 +825,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "0f0c212d-0f8f-5352-bb58-0d5ee7512c8f"
+        "id": "40cf9475-c6ba-5758-8ce9-29138c4bf281"
       }
     },
     {
-      "fullUrl": "urn:uuid:e317e0ac-b904-51f0-9705-ec25e5c59784",
+      "fullUrl": "urn:uuid:93c4abf8-1e88-5faa-b371-ade7d602d644",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -846,7 +846,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2025-07-01"
@@ -857,13 +857,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "e317e0ac-b904-51f0-9705-ec25e5c59784"
+        "id": "93c4abf8-1e88-5faa-b371-ade7d602d644"
       }
     },
     {
-      "fullUrl": "urn:uuid:cad3bc67-7a37-50aa-b74d-0b4d08ece7af",
+      "fullUrl": "urn:uuid:ed18a32f-0d6b-5eeb-85b5-9e80841c812d",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -878,7 +878,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2025-10-14"
@@ -889,13 +889,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "cad3bc67-7a37-50aa-b74d-0b4d08ece7af"
+        "id": "ed18a32f-0d6b-5eeb-85b5-9e80841c812d"
       }
     },
     {
-      "fullUrl": "urn:uuid:0d64188b-4aa0-5d31-850c-f6889b62af2a",
+      "fullUrl": "urn:uuid:9590b547-2185-5efe-a24e-9e3176317386",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -910,7 +910,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2026-03-10"
@@ -921,13 +921,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "0d64188b-4aa0-5d31-850c-f6889b62af2a"
+        "id": "9590b547-2185-5efe-a24e-9e3176317386"
       }
     },
     {
-      "fullUrl": "urn:uuid:0150a1d9-a8e3-5abd-b77e-e902ac93b99f",
+      "fullUrl": "urn:uuid:89e92201-e4e0-5375-88ea-98a0be916175",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -942,7 +942,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2026-07-14"
@@ -953,13 +953,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "0150a1d9-a8e3-5abd-b77e-e902ac93b99f"
+        "id": "89e92201-e4e0-5375-88ea-98a0be916175"
       }
     },
     {
-      "fullUrl": "urn:uuid:74b7252f-a56e-5c3e-a562-6f189d06e807",
+      "fullUrl": "urn:uuid:bcaebf62-7d98-50da-9f68-1da5dc48d38b",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -974,7 +974,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2026-07-15"
@@ -985,13 +985,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "74b7252f-a56e-5c3e-a562-6f189d06e807"
+        "id": "bcaebf62-7d98-50da-9f68-1da5dc48d38b"
       }
     },
     {
-      "fullUrl": "urn:uuid:e012b5fd-49ef-5afa-ab0d-bfd24217806a",
+      "fullUrl": "urn:uuid:20def31a-5907-5701-b804-a98714771d14",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -1006,7 +1006,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2026-07-20"
@@ -1017,13 +1017,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "e012b5fd-49ef-5afa-ab0d-bfd24217806a"
+        "id": "20def31a-5907-5701-b804-a98714771d14"
       }
     },
     {
-      "fullUrl": "urn:uuid:3a56c4b3-6a38-56f6-9b1d-e6466ac69d92",
+      "fullUrl": "urn:uuid:47409d51-752a-548b-b3e0-99c902214bef",
       "resource": {
         "resourceType": "Encounter",
         "status": "finished",
@@ -1038,7 +1038,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2026-09-22"
@@ -1049,7 +1049,7 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
         "priority": {
           "coding": [
@@ -1061,11 +1061,11 @@
           ],
           "text": "Requires clinical attention"
         },
-        "id": "3a56c4b3-6a38-56f6-9b1d-e6466ac69d92"
+        "id": "47409d51-752a-548b-b3e0-99c902214bef"
       }
     },
     {
-      "fullUrl": "urn:uuid:9276f894-2b50-51b6-bf67-259b47fbcf68",
+      "fullUrl": "urn:uuid:b0a94975-0142-5431-a775-38cbbb9a52a1",
       "resource": {
         "resourceType": "Encounter",
         "status": "planned",
@@ -1080,7 +1080,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2026-11-17"
@@ -1091,13 +1091,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "9276f894-2b50-51b6-bf67-259b47fbcf68"
+        "id": "b0a94975-0142-5431-a775-38cbbb9a52a1"
       }
     },
     {
-      "fullUrl": "urn:uuid:c6aab605-4fb7-5fd1-9c67-d2743afd1169",
+      "fullUrl": "urn:uuid:e837bbc8-6d56-5038-98ad-18673f58de3f",
       "resource": {
         "resourceType": "Encounter",
         "status": "planned",
@@ -1112,7 +1112,7 @@
           }
         ],
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "period": {
           "start": "2027-04"
@@ -1123,13 +1123,13 @@
           }
         ],
         "serviceProvider": {
-          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
         },
-        "id": "c6aab605-4fb7-5fd1-9c67-d2743afd1169"
+        "id": "e837bbc8-6d56-5038-98ad-18673f58de3f"
       }
     },
     {
-      "fullUrl": "urn:uuid:433b631c-6431-55ff-8aa5-01d399bab3e0",
+      "fullUrl": "urn:uuid:e8423be2-73c9-5daa-900a-15da533d84a1",
       "resource": {
         "resourceType": "Condition",
         "meta": {
@@ -1179,22 +1179,22 @@
           "text": "Asma"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "onsetDateTime": "2023-05-10",
         "encounter": {
-          "reference": "urn:uuid:bace7f26-fa10-5564-9af4-a42a14dc9686"
+          "reference": "urn:uuid:91c4f76c-7c6f-5838-8c0a-9e7479fcafc3"
         },
         "note": [
           {
             "text": "Sibilância recorrente desde os 10 meses. C-ACT 17 em setembro de 2026 (não controlada)."
           }
         ],
-        "id": "433b631c-6431-55ff-8aa5-01d399bab3e0"
+        "id": "e8423be2-73c9-5daa-900a-15da533d84a1"
       }
     },
     {
-      "fullUrl": "urn:uuid:338fe8bc-f6a7-5e03-9931-e6e3a9ba7e84",
+      "fullUrl": "urn:uuid:25cf47c2-2fff-5e18-8548-0fe51980b4de",
       "resource": {
         "resourceType": "Condition",
         "meta": {
@@ -1239,15 +1239,15 @@
           "text": "Bronquiolite aguda"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "onsetDateTime": "2021-01-20",
         "abatementDateTime": "2021-02-05",
-        "id": "338fe8bc-f6a7-5e03-9931-e6e3a9ba7e84"
+        "id": "25cf47c2-2fff-5e18-8548-0fe51980b4de"
       }
     },
     {
-      "fullUrl": "urn:uuid:e9452cb9-376a-5428-95f7-c6fa42fed370",
+      "fullUrl": "urn:uuid:d31c1113-66d2-5404-a2a4-1783d33de96c",
       "resource": {
         "resourceType": "AllergyIntolerance",
         "meta": {
@@ -1280,7 +1280,7 @@
           "text": "Ácaros do pó doméstico"
         },
         "patient": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "onsetDateTime": "2023-05-10",
         "reaction": [
@@ -1297,11 +1297,11 @@
             "text": "IgE específica para ácaros positiva em 2023."
           }
         ],
-        "id": "e9452cb9-376a-5428-95f7-c6fa42fed370"
+        "id": "d31c1113-66d2-5404-a2a4-1783d33de96c"
       }
     },
     {
-      "fullUrl": "urn:uuid:b9140f99-e97b-52fa-8890-f79bdb621f40",
+      "fullUrl": "urn:uuid:f560f95f-0edd-5710-8c40-215a9ddb594e",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1321,7 +1321,7 @@
           "text": "Salbutamol inalado (SOS)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectivePeriod": {
           "start": "2022-02-08"
@@ -1336,11 +1336,11 @@
             "text": "Com câmara expansora."
           }
         ],
-        "id": "b9140f99-e97b-52fa-8890-f79bdb621f40"
+        "id": "f560f95f-0edd-5710-8c40-215a9ddb594e"
       }
     },
     {
-      "fullUrl": "urn:uuid:38194a17-33d2-5d38-9603-949f6a433bd6",
+      "fullUrl": "urn:uuid:68bbf92b-d561-5990-af58-fcb27d327b2b",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1360,7 +1360,7 @@
           "text": "Budesonida inalada (corticoide inalado diário)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectivePeriod": {
           "start": "2023-05-10"
@@ -1375,11 +1375,11 @@
             "text": "Prescrito pela médica de família; adesão irregular nos verões de 2024 e 2026."
           }
         ],
-        "id": "38194a17-33d2-5d38-9603-949f6a433bd6"
+        "id": "68bbf92b-d561-5990-af58-fcb27d327b2b"
       }
     },
     {
-      "fullUrl": "urn:uuid:9acd9f33-762f-58ab-9897-46546402fcae",
+      "fullUrl": "urn:uuid:577409e6-2063-5556-a5a2-ce8001bd85c6",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1399,7 +1399,7 @@
           "text": "Prednisolona oral (3 dias)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectivePeriod": {
           "start": "2022-02-08",
@@ -1415,11 +1415,11 @@
             "text": "Episódio de sibilância viral."
           }
         ],
-        "id": "9acd9f33-762f-58ab-9897-46546402fcae"
+        "id": "577409e6-2063-5556-a5a2-ce8001bd85c6"
       }
     },
     {
-      "fullUrl": "urn:uuid:806a594e-c63d-5f82-913e-082dfc28c9b4",
+      "fullUrl": "urn:uuid:2e464a64-7a6b-5e98-b880-2ca908bc596a",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1439,7 +1439,7 @@
           "text": "Prednisolona oral (3 dias)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectivePeriod": {
           "start": "2025-07-01",
@@ -1455,11 +1455,11 @@
             "text": "Exacerbação em onda de calor."
           }
         ],
-        "id": "806a594e-c63d-5f82-913e-082dfc28c9b4"
+        "id": "2e464a64-7a6b-5e98-b880-2ca908bc596a"
       }
     },
     {
-      "fullUrl": "urn:uuid:2a248176-3165-5f6d-adec-23510a33768f",
+      "fullUrl": "urn:uuid:feca48fd-be30-579e-9f22-7a22e01034fe",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1479,7 +1479,7 @@
           "text": "Prednisolona oral (3 dias)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectivePeriod": {
           "start": "2026-07-15",
@@ -1495,11 +1495,11 @@
             "text": "Exacerbação em onda de calor."
           }
         ],
-        "id": "2a248176-3165-5f6d-adec-23510a33768f"
+        "id": "feca48fd-be30-579e-9f22-7a22e01034fe"
       }
     },
     {
-      "fullUrl": "urn:uuid:7a329ed0-a5cc-515a-891e-77c691744d6c",
+      "fullUrl": "urn:uuid:c7034232-06f8-50ed-aabd-e38c82ab9b38",
       "resource": {
         "resourceType": "MedicationStatement",
         "meta": {
@@ -1519,7 +1519,7 @@
           "text": "Amoxicilina (7 dias)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectivePeriod": {
           "start": "2026-07-15",
@@ -1535,11 +1535,11 @@
             "text": "Prescrita «por precaução»; sem foco bacteriano documentado (RX sem condensação)."
           }
         ],
-        "id": "7a329ed0-a5cc-515a-891e-77c691744d6c"
+        "id": "c7034232-06f8-50ed-aabd-e38c82ab9b38"
       }
     },
     {
-      "fullUrl": "urn:uuid:8fabd7e2-91d2-5412-be2d-4afc31cb579a",
+      "fullUrl": "urn:uuid:b9523adb-f358-51cb-9911-14ca5d7f5ccb",
       "resource": {
         "resourceType": "Immunization",
         "meta": {
@@ -1552,14 +1552,14 @@
           "text": "Vacinas dos 2 meses (PNV)"
         },
         "patient": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "occurrenceDateTime": "2020-05-12",
-        "id": "8fabd7e2-91d2-5412-be2d-4afc31cb579a"
+        "id": "b9523adb-f358-51cb-9911-14ca5d7f5ccb"
       }
     },
     {
-      "fullUrl": "urn:uuid:a9aa9994-97f1-5a6a-b611-4dcab6243af1",
+      "fullUrl": "urn:uuid:8531542f-fc1f-566b-be09-18532bb78fed",
       "resource": {
         "resourceType": "Immunization",
         "meta": {
@@ -1572,14 +1572,14 @@
           "text": "Vacinas dos 12 meses (PNV)"
         },
         "patient": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "occurrenceDateTime": "2021-03-15",
-        "id": "a9aa9994-97f1-5a6a-b611-4dcab6243af1"
+        "id": "8531542f-fc1f-566b-be09-18532bb78fed"
       }
     },
     {
-      "fullUrl": "urn:uuid:ca1294ee-2ddd-584d-93c1-12a7d9143e2a",
+      "fullUrl": "urn:uuid:a4b3987a-0a98-5781-8d50-6110450575ab",
       "resource": {
         "resourceType": "Immunization",
         "meta": {
@@ -1592,14 +1592,14 @@
           "text": "DTPaVIP — reforço dos 5 anos (PNV)"
         },
         "patient": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "occurrenceDateTime": "2025-03-18",
-        "id": "ca1294ee-2ddd-584d-93c1-12a7d9143e2a"
+        "id": "a4b3987a-0a98-5781-8d50-6110450575ab"
       }
     },
     {
-      "fullUrl": "urn:uuid:71b190e4-d1ec-5ff9-bab8-a944bcddbdd9",
+      "fullUrl": "urn:uuid:78c19a77-e801-50fc-936d-fd20c1406d08",
       "resource": {
         "resourceType": "Immunization",
         "meta": {
@@ -1612,14 +1612,14 @@
           "text": "Gripe sazonal"
         },
         "patient": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "occurrenceDateTime": "2025-10-20",
-        "id": "71b190e4-d1ec-5ff9-bab8-a944bcddbdd9"
+        "id": "78c19a77-e801-50fc-936d-fd20c1406d08"
       }
     },
     {
-      "fullUrl": "urn:uuid:78b0f956-c54b-5e31-9b8f-66e342d1dee4",
+      "fullUrl": "urn:uuid:b8ffa7d2-9563-5b51-8e2c-3f2d24b5fecf",
       "resource": {
         "resourceType": "DiagnosticReport",
         "meta": {
@@ -1637,7 +1637,7 @@
           "text": "Espirometria (pedida pela MF)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2025-04-08",
         "conclusion": "FEV1 84% do previsto; prova de broncodilatação positiva (+14%).",
@@ -1653,11 +1653,11 @@
             "text": "Alterado"
           }
         ],
-        "id": "78b0f956-c54b-5e31-9b8f-66e342d1dee4"
+        "id": "b8ffa7d2-9563-5b51-8e2c-3f2d24b5fecf"
       }
     },
     {
-      "fullUrl": "urn:uuid:d4e5d55a-7494-513b-b29c-0f8a6f34759a",
+      "fullUrl": "urn:uuid:f67d1118-c42b-53f2-b7bf-6f69072929b5",
       "resource": {
         "resourceType": "DiagnosticReport",
         "meta": {
@@ -1675,15 +1675,15 @@
           "text": "Radiografia do tórax"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2026-07-15",
         "conclusion": "Sem condensação.",
-        "id": "d4e5d55a-7494-513b-b29c-0f8a6f34759a"
+        "id": "f67d1118-c42b-53f2-b7bf-6f69072929b5"
       }
     },
     {
-      "fullUrl": "urn:uuid:e54dadc1-909f-5360-98e2-b3936d874e47",
+      "fullUrl": "urn:uuid:4a63a012-f1ef-5d51-a23f-bb2208aaecdf",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -1714,7 +1714,7 @@
           "text": "Eosinófilos"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2023-05-10",
         "valueQuantity": {
@@ -1736,7 +1736,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+            "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
           }
         ],
         "referenceRange": [
@@ -1749,11 +1749,11 @@
             }
           }
         ],
-        "id": "e54dadc1-909f-5360-98e2-b3936d874e47"
+        "id": "4a63a012-f1ef-5d51-a23f-bb2208aaecdf"
       }
     },
     {
-      "fullUrl": "urn:uuid:17b04e0d-4606-5810-8b38-85a96efcd183",
+      "fullUrl": "urn:uuid:08ee9c23-cef7-5a9d-bb80-0aa11d551072",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -1784,7 +1784,7 @@
           "text": "Eosinófilos"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2025-04-08",
         "valueQuantity": {
@@ -1806,7 +1806,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+            "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
           }
         ],
         "referenceRange": [
@@ -1819,11 +1819,11 @@
             }
           }
         ],
-        "id": "17b04e0d-4606-5810-8b38-85a96efcd183"
+        "id": "08ee9c23-cef7-5a9d-bb80-0aa11d551072"
       }
     },
     {
-      "fullUrl": "urn:uuid:47f34401-2e18-5d5a-b903-cb9b6d371c51",
+      "fullUrl": "urn:uuid:342c2e47-b04b-5295-abba-7572e55e2f96",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -1854,7 +1854,7 @@
           "text": "Eosinófilos"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2026-07-15",
         "valueQuantity": {
@@ -1876,7 +1876,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+            "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
           }
         ],
         "referenceRange": [
@@ -1889,11 +1889,11 @@
             }
           }
         ],
-        "id": "47f34401-2e18-5d5a-b903-cb9b6d371c51"
+        "id": "342c2e47-b04b-5295-abba-7572e55e2f96"
       }
     },
     {
-      "fullUrl": "urn:uuid:00c773f4-91b2-55e8-9d18-17fb7c5dbda7",
+      "fullUrl": "urn:uuid:ea701045-f571-5731-b1a7-8655173c505c",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -1924,7 +1924,7 @@
           "text": "IgE total"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2023-05-10",
         "valueQuantity": {
@@ -1946,7 +1946,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+            "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
           }
         ],
         "referenceRange": [
@@ -1959,11 +1959,11 @@
             }
           }
         ],
-        "id": "00c773f4-91b2-55e8-9d18-17fb7c5dbda7"
+        "id": "ea701045-f571-5731-b1a7-8655173c505c"
       }
     },
     {
-      "fullUrl": "urn:uuid:887720be-a37e-5c3f-8d57-8c929a14ad8b",
+      "fullUrl": "urn:uuid:ce7f5236-343d-5536-8b3d-85b857b5bf56",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -1994,7 +1994,7 @@
           "text": "IgE total"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2025-04-08",
         "valueQuantity": {
@@ -2016,7 +2016,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+            "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
           }
         ],
         "referenceRange": [
@@ -2034,11 +2034,11 @@
             "text": "Referência dependente da idade; IgE específica para ácaros positiva em 2023."
           }
         ],
-        "id": "887720be-a37e-5c3f-8d57-8c929a14ad8b"
+        "id": "ce7f5236-343d-5536-8b3d-85b857b5bf56"
       }
     },
     {
-      "fullUrl": "urn:uuid:38e35a01-a8d5-5179-ba2d-96badf56453f",
+      "fullUrl": "urn:uuid:a0a6f90d-18c9-5f01-8e5e-fe36db306d3b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2069,7 +2069,7 @@
           "text": "Leucócitos"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2026-07-15",
         "valueQuantity": {
@@ -2091,7 +2091,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+            "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
           }
         ],
         "referenceRange": [
@@ -2110,11 +2110,11 @@
             }
           }
         ],
-        "id": "38e35a01-a8d5-5179-ba2d-96badf56453f"
+        "id": "a0a6f90d-18c9-5f01-8e5e-fe36db306d3b"
       }
     },
     {
-      "fullUrl": "urn:uuid:245689e0-5910-5771-9281-ed138af6eec7",
+      "fullUrl": "urn:uuid:062c05bd-46a5-5b2c-80bb-158f83ea1430",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2145,7 +2145,7 @@
           "text": "Proteína C reativa"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2026-07-15",
         "valueQuantity": {
@@ -2167,7 +2167,7 @@
         ],
         "performer": [
           {
-            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+            "reference": "urn:uuid:eef42031-5362-5e09-8abd-029fb56e2b09"
           }
         ],
         "referenceRange": [
@@ -2180,11 +2180,11 @@
             }
           }
         ],
-        "id": "245689e0-5910-5771-9281-ed138af6eec7"
+        "id": "062c05bd-46a5-5b2c-80bb-158f83ea1430"
       }
     },
     {
-      "fullUrl": "urn:uuid:d5d87479-7281-5b38-9627-2b48427eabcf",
+      "fullUrl": "urn:uuid:b844bf31-63ea-5205-8542-a7ecf3f5636c",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2214,7 +2214,7 @@
           "text": "SpO2 na admissão"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 95,
@@ -2239,11 +2239,11 @@
             }
           }
         ],
-        "id": "d5d87479-7281-5b38-9627-2b48427eabcf"
+        "id": "b844bf31-63ea-5205-8542-a7ecf3f5636c"
       }
     },
     {
-      "fullUrl": "urn:uuid:f7683ff1-64fa-542f-b796-7b98bbeaa7b2",
+      "fullUrl": "urn:uuid:f8165514-640a-5e36-a7e0-a7c414d382dd",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2273,7 +2273,7 @@
           "text": "SpO2 na admissão"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 96,
@@ -2298,11 +2298,11 @@
             }
           }
         ],
-        "id": "f7683ff1-64fa-542f-b796-7b98bbeaa7b2"
+        "id": "f8165514-640a-5e36-a7e0-a7c414d382dd"
       }
     },
     {
-      "fullUrl": "urn:uuid:4fe19e1f-1c2a-5f7a-8ef4-99432ec2c053",
+      "fullUrl": "urn:uuid:d2dcc2a3-8b1b-51fe-bef8-01eef548777f",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2332,7 +2332,7 @@
           "text": "SpO2 na admissão"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 95,
@@ -2357,11 +2357,11 @@
             }
           }
         ],
-        "id": "4fe19e1f-1c2a-5f7a-8ef4-99432ec2c053"
+        "id": "d2dcc2a3-8b1b-51fe-bef8-01eef548777f"
       }
     },
     {
-      "fullUrl": "urn:uuid:c9423916-df27-5a50-934c-b41e068fb197",
+      "fullUrl": "urn:uuid:d6e43248-de3f-5678-b84d-220428a0e057",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2391,7 +2391,7 @@
           "text": "SpO2 na admissão"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 93,
@@ -2416,11 +2416,11 @@
             }
           }
         ],
-        "id": "c9423916-df27-5a50-934c-b41e068fb197"
+        "id": "d6e43248-de3f-5678-b84d-220428a0e057"
       }
     },
     {
-      "fullUrl": "urn:uuid:1a9ea46a-f920-5964-b4ad-2cf3bbd5fada",
+      "fullUrl": "urn:uuid:a0e77d41-8b6c-59c8-ac2d-b9ddbd68002a",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2450,7 +2450,7 @@
           "text": "SpO2 na admissão"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 94,
@@ -2480,11 +2480,11 @@
             "text": "Medida apenas nos episódios agudos (urgência)."
           }
         ],
-        "id": "1a9ea46a-f920-5964-b4ad-2cf3bbd5fada"
+        "id": "a0e77d41-8b6c-59c8-ac2d-b9ddbd68002a"
       }
     },
     {
-      "fullUrl": "urn:uuid:22efc3d7-fbab-5705-bcbb-7941fb7319d0",
+      "fullUrl": "urn:uuid:1d768957-df63-55a6-a5a6-b611dba29feb",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2506,7 +2506,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "c-act",
               "display": "C-ACT (controlo da asma)"
             }
@@ -2514,7 +2514,7 @@
           "text": "C-ACT (controlo da asma)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 22,
@@ -2539,11 +2539,11 @@
             }
           }
         ],
-        "id": "22efc3d7-fbab-5705-bcbb-7941fb7319d0"
+        "id": "1d768957-df63-55a6-a5a6-b611dba29feb"
       }
     },
     {
-      "fullUrl": "urn:uuid:3b09184b-35a9-53d7-8889-9106089efdd7",
+      "fullUrl": "urn:uuid:5810d0dc-e52b-59d7-97d7-af2f4d9fd385",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2565,7 +2565,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "c-act",
               "display": "C-ACT (controlo da asma)"
             }
@@ -2573,7 +2573,7 @@
           "text": "C-ACT (controlo da asma)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 19,
@@ -2598,11 +2598,11 @@
             }
           }
         ],
-        "id": "3b09184b-35a9-53d7-8889-9106089efdd7"
+        "id": "5810d0dc-e52b-59d7-97d7-af2f4d9fd385"
       }
     },
     {
-      "fullUrl": "urn:uuid:0f049022-0bd3-50cf-9e78-5e0b9bc81a4e",
+      "fullUrl": "urn:uuid:628d844b-7f1c-5df8-a4e8-5a09e66fa8de",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2624,7 +2624,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "c-act",
               "display": "C-ACT (controlo da asma)"
             }
@@ -2632,7 +2632,7 @@
           "text": "C-ACT (controlo da asma)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 18,
@@ -2657,11 +2657,11 @@
             }
           }
         ],
-        "id": "0f049022-0bd3-50cf-9e78-5e0b9bc81a4e"
+        "id": "628d844b-7f1c-5df8-a4e8-5a09e66fa8de"
       }
     },
     {
-      "fullUrl": "urn:uuid:e0c7d7b1-aa7c-55b0-a3ed-93be0ae914a8",
+      "fullUrl": "urn:uuid:ebfb391b-7d79-5ffc-b056-6909e77e2f35",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2683,7 +2683,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "c-act",
               "display": "C-ACT (controlo da asma)"
             }
@@ -2691,7 +2691,7 @@
           "text": "C-ACT (controlo da asma)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 21,
@@ -2716,11 +2716,11 @@
             }
           }
         ],
-        "id": "e0c7d7b1-aa7c-55b0-a3ed-93be0ae914a8"
+        "id": "ebfb391b-7d79-5ffc-b056-6909e77e2f35"
       }
     },
     {
-      "fullUrl": "urn:uuid:0e597f2c-12b8-57b2-b9c5-cdc12feb835a",
+      "fullUrl": "urn:uuid:c6c4f09e-d877-5f04-bd57-269dc8fe1727",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2742,7 +2742,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "c-act",
               "display": "C-ACT (controlo da asma)"
             }
@@ -2750,7 +2750,7 @@
           "text": "C-ACT (controlo da asma)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 22,
@@ -2775,11 +2775,11 @@
             }
           }
         ],
-        "id": "0e597f2c-12b8-57b2-b9c5-cdc12feb835a"
+        "id": "c6c4f09e-d877-5f04-bd57-269dc8fe1727"
       }
     },
     {
-      "fullUrl": "urn:uuid:cb335a28-76e6-5762-bdf8-2f875db3499f",
+      "fullUrl": "urn:uuid:21952d49-6f25-5858-bb9f-08adc4c86cbc",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2801,7 +2801,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "c-act",
               "display": "C-ACT (controlo da asma)"
             }
@@ -2809,7 +2809,7 @@
           "text": "C-ACT (controlo da asma)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 17,
@@ -2839,11 +2839,11 @@
             "text": "Childhood Asthma Control Test: 20 ou mais = asma controlada."
           }
         ],
-        "id": "cb335a28-76e6-5762-bdf8-2f875db3499f"
+        "id": "21952d49-6f25-5858-bb9f-08adc4c86cbc"
       }
     },
     {
-      "fullUrl": "urn:uuid:d88ddc6a-a5b4-599a-9c8d-1904c574420c",
+      "fullUrl": "urn:uuid:4e3414a3-8ae3-56ce-a4db-e64c79b8adb7",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2865,7 +2865,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "fev1-pct-pred",
               "display": "FEV1 (% do previsto)"
             }
@@ -2873,7 +2873,7 @@
           "text": "FEV1 (% do previsto)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 84,
@@ -2892,11 +2892,11 @@
             }
           }
         ],
-        "id": "d88ddc6a-a5b4-599a-9c8d-1904c574420c"
+        "id": "4e3414a3-8ae3-56ce-a4db-e64c79b8adb7"
       }
     },
     {
-      "fullUrl": "urn:uuid:d502c742-8388-5cea-9dff-96a88349251d",
+      "fullUrl": "urn:uuid:faaf1176-f036-584b-9e3a-ccb0fe4486ff",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2918,7 +2918,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "fev1-pct-pred",
               "display": "FEV1 (% do previsto)"
             }
@@ -2926,7 +2926,7 @@
           "text": "FEV1 (% do previsto)"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 82,
@@ -2945,11 +2945,11 @@
             }
           }
         ],
-        "id": "d502c742-8388-5cea-9dff-96a88349251d"
+        "id": "faaf1176-f036-584b-9e3a-ccb0fe4486ff"
       }
     },
     {
-      "fullUrl": "urn:uuid:7ab65d5b-8c08-55b5-a766-96d60ba6c9d0",
+      "fullUrl": "urn:uuid:b2ee2ff3-fefa-5db7-a495-842b7b6da580",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -2979,7 +2979,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 3.2,
@@ -2988,11 +2988,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2020-03",
-        "id": "7ab65d5b-8c08-55b5-a766-96d60ba6c9d0"
+        "id": "b2ee2ff3-fefa-5db7-a495-842b7b6da580"
       }
     },
     {
-      "fullUrl": "urn:uuid:684bdff7-17e6-58bd-87ad-72787de72014",
+      "fullUrl": "urn:uuid:9e9ccff4-918b-5813-94ba-7b1cbbf08d99",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3022,7 +3022,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 7.6,
@@ -3031,11 +3031,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2020-09",
-        "id": "684bdff7-17e6-58bd-87ad-72787de72014"
+        "id": "9e9ccff4-918b-5813-94ba-7b1cbbf08d99"
       }
     },
     {
-      "fullUrl": "urn:uuid:dfd26370-c90f-5067-bcce-83adc1512e39",
+      "fullUrl": "urn:uuid:d0390f17-934a-575b-8dca-7bab306fd70b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3065,7 +3065,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 9.6,
@@ -3074,11 +3074,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2021-03",
-        "id": "dfd26370-c90f-5067-bcce-83adc1512e39"
+        "id": "d0390f17-934a-575b-8dca-7bab306fd70b"
       }
     },
     {
-      "fullUrl": "urn:uuid:e60b200d-2626-5667-b1e6-05d60276bc90",
+      "fullUrl": "urn:uuid:4a2255e7-59c3-55b6-8307-3ed14f2811ee",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3108,7 +3108,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 12.3,
@@ -3117,11 +3117,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2022-03",
-        "id": "e60b200d-2626-5667-b1e6-05d60276bc90"
+        "id": "4a2255e7-59c3-55b6-8307-3ed14f2811ee"
       }
     },
     {
-      "fullUrl": "urn:uuid:d749f2b5-3e4d-567b-81c2-3689b76ba145",
+      "fullUrl": "urn:uuid:60783b14-a91d-548f-8d1c-506194ccb895",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3151,7 +3151,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 14.5,
@@ -3160,11 +3160,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2023-03",
-        "id": "d749f2b5-3e4d-567b-81c2-3689b76ba145"
+        "id": "60783b14-a91d-548f-8d1c-506194ccb895"
       }
     },
     {
-      "fullUrl": "urn:uuid:242d5900-eb36-5270-b395-dca2607c152a",
+      "fullUrl": "urn:uuid:dcb0c95f-9c95-5e1b-b664-b441b48a1f5a",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3194,7 +3194,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 16.6,
@@ -3203,11 +3203,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2024-03",
-        "id": "242d5900-eb36-5270-b395-dca2607c152a"
+        "id": "dcb0c95f-9c95-5e1b-b664-b441b48a1f5a"
       }
     },
     {
-      "fullUrl": "urn:uuid:1dd4987b-a5bb-589a-b3d4-5397e93af20a",
+      "fullUrl": "urn:uuid:29de53b6-71ec-5075-a66c-3d46d7241b44",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3237,7 +3237,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 19.1,
@@ -3246,11 +3246,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2025-03",
-        "id": "1dd4987b-a5bb-589a-b3d4-5397e93af20a"
+        "id": "29de53b6-71ec-5075-a66c-3d46d7241b44"
       }
     },
     {
-      "fullUrl": "urn:uuid:c5511c57-7f90-5233-bcbb-526d40d6e87f",
+      "fullUrl": "urn:uuid:5c1769e1-2dec-58fb-a0fd-af051411bf70",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3280,7 +3280,7 @@
           "text": "Peso"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 21.0,
@@ -3289,11 +3289,11 @@
           "code": "kg"
         },
         "effectiveDateTime": "2026-07",
-        "id": "c5511c57-7f90-5233-bcbb-526d40d6e87f"
+        "id": "5c1769e1-2dec-58fb-a0fd-af051411bf70"
       }
     },
     {
-      "fullUrl": "urn:uuid:6aee7c1f-11fd-5f01-8125-1c911237efb5",
+      "fullUrl": "urn:uuid:57f1c24d-be4d-517c-bf2e-839c62b33cce",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3315,7 +3315,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3323,7 +3323,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 92,
@@ -3351,11 +3351,11 @@
             }
           }
         ],
-        "id": "6aee7c1f-11fd-5f01-8125-1c911237efb5"
+        "id": "57f1c24d-be4d-517c-bf2e-839c62b33cce"
       }
     },
     {
-      "fullUrl": "urn:uuid:8683c712-b50b-5d64-8dd1-6ba47c7a3032",
+      "fullUrl": "urn:uuid:2bfd3120-98d3-5d21-be61-16196e8f072d",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3377,7 +3377,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3385,7 +3385,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 90,
@@ -3413,11 +3413,11 @@
             }
           }
         ],
-        "id": "8683c712-b50b-5d64-8dd1-6ba47c7a3032"
+        "id": "2bfd3120-98d3-5d21-be61-16196e8f072d"
       }
     },
     {
-      "fullUrl": "urn:uuid:06b13844-089f-5777-918e-7b35e3761614",
+      "fullUrl": "urn:uuid:61f1e02c-ea41-5c98-b952-86abff1f187d",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3439,7 +3439,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3447,7 +3447,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 88,
@@ -3475,11 +3475,11 @@
             }
           }
         ],
-        "id": "06b13844-089f-5777-918e-7b35e3761614"
+        "id": "61f1e02c-ea41-5c98-b952-86abff1f187d"
       }
     },
     {
-      "fullUrl": "urn:uuid:fb715b4f-90ad-51d7-89cb-744812bb89b0",
+      "fullUrl": "urn:uuid:e2e561ec-9e11-509b-922e-4c7150378a51",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3501,7 +3501,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3509,7 +3509,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 91,
@@ -3537,11 +3537,11 @@
             }
           }
         ],
-        "id": "fb715b4f-90ad-51d7-89cb-744812bb89b0"
+        "id": "e2e561ec-9e11-509b-922e-4c7150378a51"
       }
     },
     {
-      "fullUrl": "urn:uuid:302371c5-71ad-5493-b902-bfbc9ac62df7",
+      "fullUrl": "urn:uuid:de90e17c-06c3-5de6-af04-93c06e093b06",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3563,7 +3563,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3571,7 +3571,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 89,
@@ -3599,11 +3599,11 @@
             }
           }
         ],
-        "id": "302371c5-71ad-5493-b902-bfbc9ac62df7"
+        "id": "de90e17c-06c3-5de6-af04-93c06e093b06"
       }
     },
     {
-      "fullUrl": "urn:uuid:5c4548c8-05f1-5442-80c1-5c4f350e4cc7",
+      "fullUrl": "urn:uuid:a63991df-cc63-5435-a0ac-344a2a615af3",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3625,7 +3625,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3633,7 +3633,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 93,
@@ -3661,11 +3661,11 @@
             }
           }
         ],
-        "id": "5c4548c8-05f1-5442-80c1-5c4f350e4cc7"
+        "id": "a63991df-cc63-5435-a0ac-344a2a615af3"
       }
     },
     {
-      "fullUrl": "urn:uuid:c20e3f46-afbf-5d50-a83c-0c36180d5ebb",
+      "fullUrl": "urn:uuid:3502d86c-1c51-55e4-b060-c0d2835fdeb8",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3687,7 +3687,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3695,7 +3695,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 86,
@@ -3723,11 +3723,11 @@
             }
           }
         ],
-        "id": "c20e3f46-afbf-5d50-a83c-0c36180d5ebb"
+        "id": "3502d86c-1c51-55e4-b060-c0d2835fdeb8"
       }
     },
     {
-      "fullUrl": "urn:uuid:0bcbaad5-83da-53cf-a858-15a2318cdf66",
+      "fullUrl": "urn:uuid:e5ab98bc-015f-51a5-942d-0bddb18be8a0",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3749,7 +3749,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3757,7 +3757,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 78,
@@ -3785,11 +3785,11 @@
             }
           }
         ],
-        "id": "0bcbaad5-83da-53cf-a858-15a2318cdf66"
+        "id": "e5ab98bc-015f-51a5-942d-0bddb18be8a0"
       }
     },
     {
-      "fullUrl": "urn:uuid:aa4656ac-0480-5a52-a114-3f9364c9fee8",
+      "fullUrl": "urn:uuid:59e72a73-ab3b-5f24-abf5-ac823e62757d",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3811,7 +3811,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3819,7 +3819,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 55,
@@ -3847,11 +3847,11 @@
             }
           }
         ],
-        "id": "aa4656ac-0480-5a52-a114-3f9364c9fee8"
+        "id": "59e72a73-ab3b-5f24-abf5-ac823e62757d"
       }
     },
     {
-      "fullUrl": "urn:uuid:1ce881f3-20c7-5d1f-b17b-b6c56e8f61ce",
+      "fullUrl": "urn:uuid:ce2a7971-b86e-5226-a449-b1a210092ca9",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3873,7 +3873,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3881,7 +3881,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 38,
@@ -3909,11 +3909,11 @@
             }
           }
         ],
-        "id": "1ce881f3-20c7-5d1f-b17b-b6c56e8f61ce"
+        "id": "ce2a7971-b86e-5226-a449-b1a210092ca9"
       }
     },
     {
-      "fullUrl": "urn:uuid:601719c0-2e6a-5fd9-97e4-36265d0598e2",
+      "fullUrl": "urn:uuid:af0717af-b51d-5d3d-a188-e33bbb12c9a0",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3935,7 +3935,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -3943,7 +3943,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 41,
@@ -3971,11 +3971,11 @@
             }
           }
         ],
-        "id": "601719c0-2e6a-5fd9-97e4-36265d0598e2"
+        "id": "af0717af-b51d-5d3d-a188-e33bbb12c9a0"
       }
     },
     {
-      "fullUrl": "urn:uuid:03b57af0-a80e-55f9-8f8d-b28de2c522fa",
+      "fullUrl": "urn:uuid:f0dbba0f-051e-5298-b475-4eb0a9d8e8d0",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -3997,7 +3997,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -4005,7 +4005,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 62,
@@ -4033,11 +4033,11 @@
             }
           }
         ],
-        "id": "03b57af0-a80e-55f9-8f8d-b28de2c522fa"
+        "id": "f0dbba0f-051e-5298-b475-4eb0a9d8e8d0"
       }
     },
     {
-      "fullUrl": "urn:uuid:cb370a4c-bea5-5c54-af3a-a382a44d332c",
+      "fullUrl": "urn:uuid:5d26cdfb-18cf-5b7a-931f-f6cfed68c314",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4059,7 +4059,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "inhaler-adherence",
               "display": "Toma do corticoide inalado"
             }
@@ -4067,7 +4067,7 @@
           "text": "Toma do corticoide inalado"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 74,
@@ -4100,11 +4100,11 @@
             "text": "Dados ilustrativos de um contador de tomas ligado à app dos pais. Começou em outubro de 2025."
           }
         ],
-        "id": "cb370a4c-bea5-5c54-af3a-a382a44d332c"
+        "id": "5d26cdfb-18cf-5b7a-931f-f6cfed68c314"
       }
     },
     {
-      "fullUrl": "urn:uuid:67705433-5c4c-5de2-9484-0568fd3a3526",
+      "fullUrl": "urn:uuid:ca356393-e224-5ee8-852e-1aff325efdf9",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4126,7 +4126,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4134,7 +4134,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 1,
@@ -4149,11 +4149,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "67705433-5c4c-5de2-9484-0568fd3a3526"
+        "id": "ca356393-e224-5ee8-852e-1aff325efdf9"
       }
     },
     {
-      "fullUrl": "urn:uuid:e641d9f6-9c20-514a-9d3d-9e29c58d8d47",
+      "fullUrl": "urn:uuid:be405931-aca8-565f-b23c-fc26a89313d4",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4175,7 +4175,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4183,7 +4183,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 2,
@@ -4198,11 +4198,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "e641d9f6-9c20-514a-9d3d-9e29c58d8d47"
+        "id": "be405931-aca8-565f-b23c-fc26a89313d4"
       }
     },
     {
-      "fullUrl": "urn:uuid:878d2266-b64f-53d8-92a5-88b2fa4d72ee",
+      "fullUrl": "urn:uuid:cbfd8e13-4b6d-51ff-9f45-24590a46b38a",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4224,7 +4224,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4232,7 +4232,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 3,
@@ -4247,11 +4247,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "878d2266-b64f-53d8-92a5-88b2fa4d72ee"
+        "id": "cbfd8e13-4b6d-51ff-9f45-24590a46b38a"
       }
     },
     {
-      "fullUrl": "urn:uuid:6d907f07-fa30-5108-bbf2-a2484b1bac7e",
+      "fullUrl": "urn:uuid:0f06d191-50bc-57a4-b04a-d0e6469239cc",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4273,7 +4273,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4281,7 +4281,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 2,
@@ -4296,11 +4296,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "6d907f07-fa30-5108-bbf2-a2484b1bac7e"
+        "id": "0f06d191-50bc-57a4-b04a-d0e6469239cc"
       }
     },
     {
-      "fullUrl": "urn:uuid:3fdf6c89-11c4-578c-be29-b92e2b4495f5",
+      "fullUrl": "urn:uuid:2350538a-566d-5650-9329-a55ac9d00da8",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4322,7 +4322,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4330,7 +4330,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 2,
@@ -4345,11 +4345,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "3fdf6c89-11c4-578c-be29-b92e2b4495f5"
+        "id": "2350538a-566d-5650-9329-a55ac9d00da8"
       }
     },
     {
-      "fullUrl": "urn:uuid:9ce46b18-ff98-5974-8756-815264f5da09",
+      "fullUrl": "urn:uuid:64cfab33-a2f3-58b1-9e11-f86f2e237c47",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4371,7 +4371,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4379,7 +4379,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 1,
@@ -4394,11 +4394,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "9ce46b18-ff98-5974-8756-815264f5da09"
+        "id": "64cfab33-a2f3-58b1-9e11-f86f2e237c47"
       }
     },
     {
-      "fullUrl": "urn:uuid:04ad61a9-64b6-5825-afa2-67d920ffb4de",
+      "fullUrl": "urn:uuid:73e21db9-b409-5eb5-877c-86086964ee24",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4420,7 +4420,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4428,7 +4428,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 1,
@@ -4443,11 +4443,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "04ad61a9-64b6-5825-afa2-67d920ffb4de"
+        "id": "73e21db9-b409-5eb5-877c-86086964ee24"
       }
     },
     {
-      "fullUrl": "urn:uuid:28ad0ccb-99cd-5761-8b04-e817fca28ab7",
+      "fullUrl": "urn:uuid:6f3b3fa4-0c4c-5584-b9b7-ad15b3bf3b7b",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4469,7 +4469,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4477,7 +4477,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 2,
@@ -4492,11 +4492,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "28ad0ccb-99cd-5761-8b04-e817fca28ab7"
+        "id": "6f3b3fa4-0c4c-5584-b9b7-ad15b3bf3b7b"
       }
     },
     {
-      "fullUrl": "urn:uuid:cc173d13-cc2a-5113-9998-3d86e0c04573",
+      "fullUrl": "urn:uuid:17d02aeb-c9fe-5550-aa1b-7cee39145bbd",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4518,7 +4518,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4526,7 +4526,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 4,
@@ -4541,11 +4541,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "cc173d13-cc2a-5113-9998-3d86e0c04573"
+        "id": "17d02aeb-c9fe-5550-aa1b-7cee39145bbd"
       }
     },
     {
-      "fullUrl": "urn:uuid:70183059-1240-5c97-af36-9b31582951a1",
+      "fullUrl": "urn:uuid:bcc549b6-7b2a-5712-9779-35894de63199",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4567,7 +4567,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4575,7 +4575,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 9,
@@ -4590,11 +4590,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "70183059-1240-5c97-af36-9b31582951a1"
+        "id": "bcc549b6-7b2a-5712-9779-35894de63199"
       }
     },
     {
-      "fullUrl": "urn:uuid:b6ba8eba-c671-5404-9853-b2a04e245ee7",
+      "fullUrl": "urn:uuid:d79b473a-8a31-5e99-a248-3f04fa5f6ebf",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4616,7 +4616,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4624,7 +4624,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 6,
@@ -4639,11 +4639,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "b6ba8eba-c671-5404-9853-b2a04e245ee7"
+        "id": "d79b473a-8a31-5e99-a248-3f04fa5f6ebf"
       }
     },
     {
-      "fullUrl": "urn:uuid:1d022397-f0de-584d-92bc-0d312accb051",
+      "fullUrl": "urn:uuid:f72511a8-db04-5cad-837a-3b4dcdc7b6e4",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4665,7 +4665,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4673,7 +4673,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 5,
@@ -4688,11 +4688,11 @@
         "device": {
           "display": "Diário dos pais na app"
         },
-        "id": "1d022397-f0de-584d-92bc-0d312accb051"
+        "id": "f72511a8-db04-5cad-837a-3b4dcdc7b6e4"
       }
     },
     {
-      "fullUrl": "urn:uuid:0f16d1df-6506-554c-b11a-e9c9e62c61de",
+      "fullUrl": "urn:uuid:5ac9c444-5629-5c61-a169-dc8995bca371",
       "resource": {
         "resourceType": "Observation",
         "meta": {
@@ -4714,7 +4714,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "cough-nights",
               "display": "Noites com tosse"
             }
@@ -4722,7 +4722,7 @@
           "text": "Noites com tosse"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "valueQuantity": {
           "value": 3,
@@ -4742,11 +4742,11 @@
             "text": "Registo dos pais na app. Valores ilustrativos."
           }
         ],
-        "id": "0f16d1df-6506-554c-b11a-e9c9e62c61de"
+        "id": "5ac9c444-5629-5c61-a169-dc8995bca371"
       }
     },
     {
-      "fullUrl": "urn:uuid:d03e40f0-b883-5448-bf3b-4253941d4dbb",
+      "fullUrl": "urn:uuid:fbad4c93-b866-5c3f-a0a2-11931763ab9a",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -4768,7 +4768,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "life-period",
               "display": "Período de vida"
             }
@@ -4776,7 +4776,7 @@
           "text": "Período de vida"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectivePeriod": {
           "start": "2025-06-28",
@@ -4788,11 +4788,11 @@
             "text": "Coincide com a urgência de 1 de julho de 2025."
           }
         ],
-        "id": "d03e40f0-b883-5448-bf3b-4253941d4dbb"
+        "id": "fbad4c93-b866-5c3f-a0a2-11931763ab9a"
       }
     },
     {
-      "fullUrl": "urn:uuid:78048f27-2476-5a97-9082-fd56f885557d",
+      "fullUrl": "urn:uuid:ca9df7d2-551e-5e8d-a704-f0653b93f166",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -4814,7 +4814,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "life-period",
               "display": "Período de vida"
             }
@@ -4822,7 +4822,7 @@
           "text": "Período de vida"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectivePeriod": {
           "start": "2026-07-12",
@@ -4834,11 +4834,11 @@
             "text": "Coincide com a urgência de 15 de julho de 2026."
           }
         ],
-        "id": "78048f27-2476-5a97-9082-fd56f885557d"
+        "id": "ca9df7d2-551e-5e8d-a704-f0653b93f166"
       }
     },
     {
-      "fullUrl": "urn:uuid:062a3169-5028-5499-b244-c6d931e28273",
+      "fullUrl": "urn:uuid:772e1850-697d-59ab-a5bb-23e891b41f7c",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -4860,7 +4860,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "life-event",
               "display": "Acontecimento de vida"
             }
@@ -4868,7 +4868,7 @@
           "text": "Acontecimento de vida"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2023-09-12",
         "valueString": "Entrada no jardim de infância",
@@ -4877,11 +4877,11 @@
             "text": "Mais infeções virais no primeiro inverno."
           }
         ],
-        "id": "062a3169-5028-5499-b244-c6d931e28273"
+        "id": "772e1850-697d-59ab-a5bb-23e891b41f7c"
       }
     },
     {
-      "fullUrl": "urn:uuid:8379ca09-b2cc-5107-bcdf-8f677043b033",
+      "fullUrl": "urn:uuid:2e2c6092-052e-5414-a79d-48b92ef12190",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -4903,7 +4903,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "life-event",
               "display": "Acontecimento de vida"
             }
@@ -4911,7 +4911,7 @@
           "text": "Acontecimento de vida"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2024-05-20",
         "valueString": "Nascimento do irmão",
@@ -4920,11 +4920,11 @@
             "text": "Sem alteração visível no controlo da asma."
           }
         ],
-        "id": "8379ca09-b2cc-5107-bcdf-8f677043b033"
+        "id": "2e2c6092-052e-5414-a79d-48b92ef12190"
       }
     },
     {
-      "fullUrl": "urn:uuid:b09ee667-b57a-5f80-a06b-933afa2f794c",
+      "fullUrl": "urn:uuid:8dc18409-1faa-588a-a16d-78da5f74cf94",
       "resource": {
         "resourceType": "Observation",
         "status": "final",
@@ -4946,7 +4946,7 @@
         "code": {
           "coding": [
             {
-              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "system": "https://ciencia-letras.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
               "code": "life-event",
               "display": "Acontecimento de vida"
             }
@@ -4954,7 +4954,7 @@
           "text": "Acontecimento de vida"
         },
         "subject": {
-          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+          "reference": "urn:uuid:ffbba8c7-007c-5629-856f-b984c78ae9aa"
         },
         "effectiveDateTime": "2026-09-14",
         "valueString": "Início do 1.º ano",
@@ -4963,7 +4963,7 @@
             "text": "Escola nova, perto de uma via com muito trânsito."
           }
         ],
-        "id": "b09ee667-b57a-5f80-a06b-933afa2f794c"
+        "id": "8dc18409-1faa-588a-a16d-78da5f74cf94"
       }
     }
   ]

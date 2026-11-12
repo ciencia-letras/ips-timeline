@@ -1,4 +1,5 @@
 cff-version: 1.2.0
+# Copyright (c) 2026 Ciência e Letras — Formação Especializada, Lda.
 message: "If you use this tool, please cite it as below. Se usar esta ferramenta, cite-a como indicado abaixo."
 type: software
 title: "Virtual patients: from IPS to an interactive health timeline"
@@ -13,8 +14,8 @@ authors:
     affiliation: "Ciência e Letras — Formação Especializada, Lda."
 version: 1.0.0
 date-released: 2026-11-12
-url: "https://ricardojccorreia.github.io/ips-timeline/"
-repository-code: "https://github.com/ricardojccorreia/ips-timeline"
+url: "https://ciencia-letras.github.io/ips-timeline/"
+repository-code: "https://github.com/ciencia-letras/ips-timeline"
 license:
   - MIT
   - CC-BY-4.0

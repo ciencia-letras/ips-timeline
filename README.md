@@ -2,7 +2,7 @@
 
 **[English](#english)** · **[Português](#português)**
 
-Live: **https://ricardojccorreia.github.io/ips-timeline/**
+Live: **https://ciencia-letras.github.io/ips-timeline/**
 
 ---
 
@@ -45,9 +45,11 @@ python3 -m http.server 8000
 
 ### Use and citation
 
+© 2026 Ciência e Letras — Formação Especializada, Lda. · Author: Ricardo Correia.
+
 Any institution may use, adapt and share this tool, including in teaching and training, **as long as it cites it**. Code: MIT ([LICENSE](LICENSE)). Content and fictitious patient data: CC BY 4.0 ([LICENSE-CONTENT](LICENSE-CONTENT)).
 
-> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://ricardojccorreia.github.io/ips-timeline/
+> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://ciencia-letras.github.io/ips-timeline/
 
 GitHub's “Cite this repository” button (from [CITATION.cff](CITATION.cff)) gives APA and BibTeX. A Zenodo DOI will be added with the first release.
 
@@ -98,9 +100,11 @@ Para acrescentar um paciente, copiar um ficheiro de `tools/patients/`, editá-lo
 
 ### Utilização e citação
 
+© 2026 Ciência e Letras — Formação Especializada, Lda. · Autor: Ricardo Correia.
+
 Qualquer instituição pode usar, adaptar e partilhar esta ferramenta, incluindo em ensino e formação, **desde que a cite**. Código: MIT ([LICENSE](LICENSE)). Conteúdos e dados fictícios: CC BY 4.0 ([LICENSE-CONTENT](LICENSE-CONTENT)).
 
-> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://ricardojccorreia.github.io/ips-timeline/
+> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://ciencia-letras.github.io/ips-timeline/
 
 O cabeçalho e o painel de citação podem ser reutilizados noutras ferramentas: copiar `assets/cel/` e editar `assets/cel/tool.js`. O DOI do Zenodo será acrescentado com a primeira versão publicada.
 

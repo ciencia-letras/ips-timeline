@@ -9,10 +9,11 @@ window.CEL_TOOL = {
   year: 2026,
   released: "2026-11-12",
   authors: [{ given: "Ricardo", family: "Correia", affiliation: "Ciência e Letras — Formação Especializada, Lda." }],
+  copyright: "Ciência e Letras — Formação Especializada, Lda.",   // rights holder · titular dos direitos
   publisher: "Ciência e Letras",
   place: "Porto",
-  url: "https://ricardojccorreia.github.io/ips-timeline/",
-  repo: "https://github.com/ricardojccorreia/ips-timeline",
+  url: "https://ciencia-letras.github.io/ips-timeline/",
+  repo: "https://github.com/ciencia-letras/ips-timeline",
   doi: null,                    // e.g. "10.5281/zenodo.1234567"
   lab: { en: "https://ciencia-letras.github.io/#resources", pt: "https://ciencia-letras.github.io/pt/#resources" },
   course: { en: "Advanced GenAI for Health Professionals", pt: "GenAI para Profissionais de Saúde — Avançado" },

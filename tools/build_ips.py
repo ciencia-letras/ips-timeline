@@ -22,7 +22,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PDIR = os.path.join(ROOT, "tools", "patients")
 OUT = os.path.join(ROOT, "patients")
 
-BASE = "https://ricardojccorreia.github.io/ips-timeline"
+BASE = "https://ciencia-letras.github.io/ips-timeline"
 SYS = {
     "loinc": "http://loinc.org",
     "sct": "http://snomed.info/sct",
