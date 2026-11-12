@@ -70,10 +70,10 @@
   function apply() {
     document.documentElement.lang = lang === "pt" ? "pt-PT" : "en";
     document.querySelectorAll("[data-t]").forEach(n => { const k = n.dataset.t; if (T[lang][k] != null) n.textContent = T[lang][k]; });
-    document.querySelectorAll(".lang button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
+    document.querySelectorAll(".lang button[data-lang], .cel-lang button[data-lang]").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
   }
   function setLang(l) { lang = l; try { localStorage.setItem("ipsLang", l); } catch (e) {} apply(); document.dispatchEvent(new CustomEvent("langchange")); }
-  document.addEventListener("click", e => { const b = e.target.closest(".lang button"); if (b) setLang(b.dataset.lang); });
+  document.addEventListener("click", e => { const b = e.target.closest(".lang button[data-lang], .cel-lang button[data-lang]"); if (b) setLang(b.dataset.lang); });
 
   g.APP = { t: k => T[lang][k] || k, lang: () => lang, apply, esc, I };
   document.addEventListener("DOMContentLoaded", apply);

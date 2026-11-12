@@ -20,4 +20,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Patient data in patients/ and tools/patients/ are fictitious and licensed under CC BY 4.0.
+---
+This licence covers the source code. The content (texts, interface copy, patient definitions in
+tools/patients/ and the generated IPS bundles in patients/) is licensed under Creative Commons
+Attribution 4.0 International (CC BY 4.0), see LICENSE-CONTENT. The Ciência e Letras logos in
+assets/cel/ are trademarks of Ciência e Letras and are not covered by either licence.
+
+How to cite: see CITATION.cff, or the "Use and citation" panel on every page of the tool.

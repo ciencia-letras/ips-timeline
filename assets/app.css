@@ -121,3 +121,9 @@ pre.json .k { color: #8FC3E8; } pre.json .s { color: #B9DD9A; } pre.json .n { co
 .how li { margin: 4px 0; }
 .how code { font: 13px ui-monospace, SFMono-Regular, Menlo, monospace; background: var(--bg); border: 1px solid var(--grid); border-radius: 4px; padding: 0 4px; }
 .maptbl td:first-child { white-space: nowrap; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; }
+
+/* inside the CeL layout */
+.backlink { display: inline-flex; align-items: center; gap: 4px; margin-top: 14px; font-size: 14.5px; font-weight: 600; color: var(--ink2); text-decoration: none; }
+.backlink:hover { color: var(--ink); }
+.cel-main #tl-frame { height: calc(100vh - 64px - 132px); }
+.cel-main .wrap { max-width: 1180px; }

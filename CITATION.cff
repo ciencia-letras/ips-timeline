@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this tool, please cite it as below. Se usar esta ferramenta, cite-a como indicado abaixo."
+type: software
+title: "Virtual patients: from IPS to an interactive health timeline"
+abstract: >-
+  Five fictitious patients stored as HL7 FHIR R4 International Patient Summaries (IPS), with a
+  human-readable IPS view and a rules-based converter that turns any IPS into an interactive
+  health timeline. Teaching resource of the course Advanced GenAI for Health Professionals
+  (Ciência e Letras).
+authors:
+  - given-names: Ricardo
+    family-names: Correia
+    affiliation: "Ciência e Letras — Formação Especializada, Lda."
+version: 1.0.0
+date-released: 2026-11-12
+url: "https://ricardojccorreia.github.io/ips-timeline/"
+repository-code: "https://github.com/ricardojccorreia/ips-timeline"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - HL7 FHIR
+  - International Patient Summary
+  - IPS
+  - synthetic data
+  - health timeline
+  - generative AI
+  - medical education

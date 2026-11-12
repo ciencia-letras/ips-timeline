@@ -6,15 +6,14 @@
 <title>Virtual patients · IPS → timeline</title>
 <meta name="description" content="Virtual patients stored as HL7 FHIR International Patient Summaries, shown as human-readable summaries and interactive health timelines. A resource of the Advanced GenAI course for health professionals.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Open+Sans:wght@400;600;700&family=Roboto+Condensed:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/app.css">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2314304A'/%3E%3Cpath d='M5 16h22M10 11v10M16 8v16M22 12v8' stroke='white' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/cel/cel-chrome.css">
+<link rel="icon" href="assets/cel/cel-logo-cores-icon.svg" type="image/svg+xml">
 </head>
 <body>
-<div class="top"><div class="wrap top-in">
-  <a class="brand" href="./"><span class="dot">IPS</span><span class="t" data-t="brand">Virtual patients · IPS → timeline</span></a>
-  <div class="lang" role="group" aria-label="Language"><button data-lang="en" aria-pressed="true">EN</button><button data-lang="pt" aria-pressed="false">PT</button></div>
-</div></div>
+<header id="cel-header"></header>
+<div class="cel-layout"><div class="cel-main">
 
 <main class="wrap">
   <section class="hero">
@@ -41,11 +40,15 @@
 
   <footer class="site">
     <p data-t="foot1"></p>
-    <p><span data-t="foot2"></span> · <a href="https://github.com/ricardojccorreia/ips-timeline">GitHub</a> · <a href="https://ciencia-letras.github.io">Ciência e Letras</a></p>
+    <p><span data-t="foot2"></span> · <a href="https://github.com/ricardojccorreia/ips-timeline">GitHub</a> · <a href="https://ciencia-letras.github.io">Ciência e Letras · Research &amp; Innovation</a></p>
   </footer>
 </main>
 
+</div><aside id="cel-aside"></aside></div>
+
+<script src="assets/cel/tool.js"></script>
 <script src="assets/app.js"></script>
+<script src="assets/cel/cel-chrome.js"></script>
 <script>
 (function () {
   const { t, esc, I, lang } = APP;

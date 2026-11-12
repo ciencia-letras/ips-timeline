@@ -1,0 +1,16 @@
+{
+  "title": "Virtual patients: from IPS to an interactive health timeline",
+  "upload_type": "software",
+  "description": "<p>Five fictitious patients stored as HL7 FHIR R4 International Patient Summaries (IPS), with a human-readable IPS view and a rules-based converter that turns any IPS into an interactive health timeline. Teaching resource of the course <em>Advanced GenAI for Health Professionals</em> (Ciência e Letras).</p><p>Live tool: <a href=\"https://ricardojccorreia.github.io/ips-timeline/\">https://ricardojccorreia.github.io/ips-timeline/</a></p><p>Code under the MIT licence; content and fictitious patient data under CC BY 4.0. Any institution may use, adapt and share it, as long as it cites the tool. All data are fictitious and not for clinical use.</p>",
+  "creators": [
+    {"name": "Correia, Ricardo", "affiliation": "Ciência e Letras — Formação Especializada, Lda."}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["HL7 FHIR", "International Patient Summary", "IPS", "synthetic data", "health timeline", "generative AI", "medical education"],
+  "related_identifiers": [
+    {"identifier": "https://ricardojccorreia.github.io/ips-timeline/", "relation": "isDocumentedBy", "resource_type": "other"},
+    {"identifier": "https://ciencia-letras.github.io/", "relation": "isPartOf", "resource_type": "other"}
+  ]
+}

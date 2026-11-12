@@ -43,11 +43,29 @@ python3 tools/build_ips.py
 python3 -m http.server 8000
 ```
 
+### Use and citation
+
+Any institution may use, adapt and share this tool, including in teaching and training, **as long as it cites it**. Code: MIT ([LICENSE](LICENSE)). Content and fictitious patient data: CC BY 4.0 ([LICENSE-CONTENT](LICENSE-CONTENT)).
+
+> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://ricardojccorreia.github.io/ips-timeline/
+
+GitHub's “Cite this repository” button (from [CITATION.cff](CITATION.cff)) gives APA and BibTeX. A Zenodo DOI will be added with the first release.
+
+### Reusing the header and the citation panel in another tool
+
+Copy `assets/cel/`, edit `assets/cel/tool.js` (title, authors, URLs, DOI) and add to each page:
+
+```html
+<link rel="stylesheet" href="assets/cel/cel-chrome.css">
+<header id="cel-header"></header>
+<div class="cel-layout"><div class="cel-main"> … page content … </div><aside id="cel-aside"></aside></div>
+<script src="assets/cel/tool.js"></script>
+<script src="assets/cel/cel-chrome.js"></script>
+```
+
 ### Limits
 
 All data are fictitious. The bundles follow the IPS structure but were **not** checked with the official IPS validator; some measures use a local code system where no standard code was certain. The timeline text is in Portuguese, like the patients. Not for clinical use.
-
-Code: MIT. Patient data: CC BY 4.0.
 
 ---
 
@@ -78,8 +96,14 @@ Cinco pacientes fictícios, cada um guardado como um **International Patient Sum
 
 Para acrescentar um paciente, copiar um ficheiro de `tools/patients/`, editá-lo e correr `python3 tools/build_ips.py`.
 
+### Utilização e citação
+
+Qualquer instituição pode usar, adaptar e partilhar esta ferramenta, incluindo em ensino e formação, **desde que a cite**. Código: MIT ([LICENSE](LICENSE)). Conteúdos e dados fictícios: CC BY 4.0 ([LICENSE-CONTENT](LICENSE-CONTENT)).
+
+> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://ricardojccorreia.github.io/ips-timeline/
+
+O cabeçalho e o painel de citação podem ser reutilizados noutras ferramentas: copiar `assets/cel/` e editar `assets/cel/tool.js`. O DOI do Zenodo será acrescentado com a primeira versão publicada.
+
 ### Limites
 
 Todos os dados são fictícios. Os bundles seguem a estrutura do IPS mas **não** foram verificados com o validador oficial; algumas medições usam um sistema de códigos local quando não havia um código normalizado seguro. Não usar em contexto clínico.
-
-Código: MIT. Dados dos pacientes: CC BY 4.0.

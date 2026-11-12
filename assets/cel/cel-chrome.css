@@ -1,0 +1,87 @@
+/* Ciência e Letras chrome for lab tools: header (same line as ciencia-letras.github.io) + copyright/citation sidebar.
+ * Drop-in: needs <header id="cel-header"></header> and <div class="cel-layout"><div class="cel-main">…</div><aside id="cel-aside"></aside></div>. */
+:root {
+  --cel-navy: #2F4E5E; --cel-navy-dark: #22404f; --cel-orange: #F79135; --cel-orange-dark: #e07b1f; --cel-peach: #FFE5CE;
+  --cel-text: #4e4e4e; --cel-line: #e2e2e2; --cel-bg-alt: #f4f4f4; --cel-aside-w: 300px;
+  --cel-title: 'Roboto Condensed', 'Segoe UI', Arial, sans-serif; --cel-body: 'Open Sans', Calibri, Arial, sans-serif;
+}
+.cel-chrome svg { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; flex-shrink: 0; }
+.cel-chrome svg.fill { fill: currentColor; stroke: none; }
+.cel-chrome a { text-decoration: none; }
+.cel-chrome :focus-visible { outline: 3px solid var(--cel-orange); outline-offset: 2px; border-radius: 4px; }
+
+/* top bar */
+.cel-topbar { background: var(--cel-navy); color: #fff; font: 400 13px/1 var(--cel-body); }
+.cel-topbar .cel-wrap { display: flex; align-items: center; gap: 18px; min-height: 36px; }
+.cel-topbar a { color: #fff; display: inline-flex; align-items: center; gap: 7px; min-width: 0; }
+.cel-topbar a:hover span { text-decoration: underline; }
+.cel-topbar svg { color: var(--cel-orange); }
+.cel-topbar .cel-gh { margin-left: auto; }
+.cel-topbar .cel-gh svg { color: #fff; width: 18px; height: 18px; }
+.cel-wrap { width: 100%; max-width: 1440px; margin: 0 auto; padding: 0 16px; }
+@media (min-width: 720px) { .cel-wrap { padding: 0 24px; } }
+
+/* header */
+#cel-header { display: contents; }
+.cel-header { position: sticky; top: 0; z-index: 50; background: #fff; box-shadow: 0 2px 14px rgba(0, 0, 0, .06); font-family: var(--cel-body); }
+.cel-header .cel-wrap { display: flex; align-items: center; gap: 18px; min-height: 64px; }
+.cel-brand { display: inline-flex; align-items: center; gap: 14px; min-width: 0; color: #111; }
+.cel-brand img { display: block; height: 38px; width: auto; }
+.cel-brand .cel-sep { width: 1px; height: 30px; background: var(--cel-line); flex-shrink: 0; }
+.cel-brand .cel-tool { font: 700 17px/1.15 var(--cel-title); color: #111; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cel-brand .cel-tool small { display: block; font: 600 11.5px/1.3 var(--cel-body); color: #74808D; letter-spacing: .04em; text-transform: uppercase; }
+.cel-nav { margin-left: auto; display: flex; align-items: center; gap: 14px; }
+.cel-back { display: inline-flex; align-items: center; gap: 7px; background: var(--cel-orange); color: #fff; font: 700 13.5px/1 var(--cel-body);
+  padding: 10px 16px; border-radius: 999px; white-space: nowrap; transition: background .15s; }
+.cel-back:hover { background: var(--cel-orange-dark); }
+.cel-lang { display: inline-flex; border: 1px solid var(--cel-line); border-radius: 999px; padding: 3px; }
+.cel-lang button { font: 700 12px/1 var(--cel-body); letter-spacing: .5px; color: var(--cel-navy); background: transparent; border: 0; padding: 7px 11px; border-radius: 999px; cursor: pointer; }
+.cel-lang button:hover { background: var(--cel-bg-alt); }
+.cel-lang button[aria-pressed="true"] { background: var(--cel-navy); color: #fff; }
+@media (max-width: 900px) { .cel-brand img.cel-logo-h { display: none; } .cel-brand img.cel-logo-i { display: block !important; height: 34px; } }
+@media (max-width: 640px) { .cel-back span { display: none; } .cel-back { padding: 9px 11px; } .cel-brand .cel-tool small { display: none; } .cel-topbar .cel-hide-sm { display: none; } }
+
+/* layout with right sidebar */
+.cel-layout { display: grid; grid-template-columns: minmax(0, 1fr) var(--cel-aside-w); align-items: start; }
+.cel-layout.cel-collapsed { grid-template-columns: minmax(0, 1fr) 46px; }
+.cel-main { min-width: 0; }
+.cel-aside { position: sticky; top: 64px; height: calc(100vh - 64px); overflow-y: auto; background: #fff; border-left: 1px solid var(--cel-line);
+  font: 400 13.5px/1.55 var(--cel-body); color: var(--cel-text); }
+.cel-aside-in { padding: 16px 18px 28px; }
+.cel-aside h2 { font: 700 15px/1.2 var(--cel-title); color: #111; margin: 18px 0 6px; text-transform: none; }
+.cel-aside h2:first-of-type { margin-top: 4px; }
+.cel-aside p { margin: 0 0 8px; }
+.cel-aside a { color: var(--cel-orange-dark); }
+.cel-aside a:hover { text-decoration: underline; }
+.cel-aside-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 12px 12px 0 18px; }
+.cel-aside-head span { font: 700 11.5px/1 var(--cel-body); letter-spacing: .08em; text-transform: uppercase; color: #74808D; }
+.cel-toggle { border: 1px solid var(--cel-line); background: #fff; border-radius: 8px; width: 30px; height: 30px; display: grid; place-items: center; cursor: pointer; color: var(--cel-navy); padding: 0; }
+.cel-toggle:hover { background: var(--cel-bg-alt); }
+.cel-collapsed .cel-aside-in, .cel-collapsed .cel-aside-head span { display: none; }
+.cel-collapsed .cel-aside-head { flex-direction: column; padding: 10px 7px; }
+.cel-rail { display: none; writing-mode: vertical-rl; transform: rotate(180deg); font: 700 12px/1 var(--cel-body); letter-spacing: .08em; text-transform: uppercase; color: var(--cel-navy);
+  margin: 14px auto 0; background: none; border: 0; cursor: pointer; padding: 0; }
+.cel-collapsed .cel-rail { display: block; }
+.cel-pill { display: inline-block; font: 700 11.5px/1.5 var(--cel-body); border-radius: 999px; padding: 1px 9px; margin: 0 4px 4px 0; background: var(--cel-peach); color: var(--cel-navy-dark); }
+.cel-cite { background: var(--cel-bg-alt); border: 1px solid var(--cel-line); border-radius: 10px; padding: 10px 12px; font-size: 13px; word-break: break-word; white-space: pre-wrap; margin: 6px 0 8px; }
+.cel-cite.mono { font: 12px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; }
+.cel-fmt { display: inline-flex; border: 1px solid var(--cel-line); border-radius: 999px; padding: 2px; }
+.cel-fmt button { font: 700 11.5px/1 var(--cel-body); border: 0; background: transparent; padding: 6px 9px; border-radius: 999px; color: var(--cel-navy); cursor: pointer; }
+.cel-fmt button[aria-pressed="true"] { background: var(--cel-navy); color: #fff; }
+.cel-copy { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--cel-line); background: #fff; color: var(--cel-navy); border-radius: 999px; font: 700 12px/1 var(--cel-body); padding: 7px 12px; cursor: pointer; }
+.cel-copy:hover { background: var(--cel-bg-alt); }
+.cel-links { list-style: none; padding: 0; margin: 4px 0 0; }
+.cel-links li { margin: 3px 0; }
+.cel-links a { display: inline-flex; align-items: center; gap: 7px; }
+.cel-doi { display: inline-flex; border-radius: 5px; overflow: hidden; font: 700 11.5px/1.7 var(--cel-body); }
+.cel-doi b { background: #555; color: #fff; padding: 0 7px; } .cel-doi span { background: #0a7bbc; color: #fff; padding: 0 7px; }
+.cel-note { font-size: 12.5px; color: #74808D; border-top: 1px solid var(--cel-line); padding-top: 10px; margin-top: 16px; }
+@media (max-width: 1100px) {
+  .cel-layout, .cel-layout.cel-collapsed { grid-template-columns: minmax(0, 1fr); }
+  .cel-aside { position: static; height: auto; border-left: 0; border-top: 1px solid var(--cel-line); }
+  .cel-aside-in { max-width: 760px; }
+  .cel-toggle, .cel-rail { display: none !important; }
+  .cel-collapsed .cel-aside-in, .cel-collapsed .cel-aside-head span { display: block; }
+  .cel-collapsed .cel-aside-head { flex-direction: row; padding: 12px 12px 0 18px; }
+}
+@media print { .cel-topbar, .cel-header, .cel-toggle { display: none; } .cel-layout { display: block; } .cel-aside { position: static; height: auto; } }
