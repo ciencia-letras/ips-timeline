@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Virtual patient · IPS → timeline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2314304A'/%3E%3Cpath d='M5 16h22M10 11v10M16 8v16M22 12v8' stroke='white' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
+</head>
+<body>
+<div class="top"><div class="wrap top-in">
+  <a class="brand" href="./" id="backLink"><span class="dot">IPS</span><span class="t" data-t="back">All patients</span></a>
+  <div class="lang" role="group" aria-label="Language"><button data-lang="en" aria-pressed="true">EN</button><button data-lang="pt" aria-pressed="false">PT</button></div>
+</div></div>
+
+<div class="wrap">
+  <div class="phead">
+    <h1 id="pname">…</h1>
+    <span class="meta" id="pmeta"></span>
+    <span class="fict-note" data-t="fict">Fictitious data</span>
+    <div class="tools"><a class="btn" id="dl" download>Download IPS</a></div>
+  </div>
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tab-timeline" aria-controls="timeline" data-tab="timeline" data-t="tTimeline">Timeline</button>
+    <button role="tab" id="tab-summary" aria-controls="summary" data-tab="summary" data-t="tSummary">Patient summary (IPS)</button>
+    <button role="tab" id="tab-json" aria-controls="json" data-tab="json" data-t="tJson">FHIR JSON</button>
+    <button role="tab" id="tab-how" aria-controls="how" data-tab="how" data-t="tHow">How it is built</button>
+  </div>
+</div>
+<div style="border-top:1px solid var(--grid)"></div>
+
+<section class="panel" id="timeline" role="tabpanel" aria-labelledby="tab-timeline"><iframe id="tl-frame" title="Timeline"></iframe></section>
+<section class="panel wrap" id="summary" role="tabpanel" aria-labelledby="tab-summary" hidden><div class="ips" id="ipsView"></div></section>
+<section class="panel wrap" id="json" role="tabpanel" aria-labelledby="tab-json" hidden>
+  <div class="jsonbar">
+    <div class="lang" role="group" style="margin-left:0" id="jsonSwitch"><button data-j="ips" aria-pressed="true" data-t="showIps">IPS</button><button data-j="tl" aria-pressed="false" data-t="showTl">Timeline</button></div>
+    <button id="copyJson"></button>
+    <span class="muted small" data-t="jsonNote"></span>
+  </div>
+  <pre class="json" id="jsonView"></pre>
+</section>
+<section class="panel wrap" id="how" role="tabpanel" aria-labelledby="tab-how" hidden><div class="how" id="howView"></div></section>
+
+<script src="assets/app.js"></script>
+<script src="assets/ips2timeline.js"></script>
+<script src="assets/ips-viewer.js"></script>
+<script>
+(async function () {
+  const { t, esc, I, lang } = APP;
+  const id = new URLSearchParams(location.search).get("id") || "matilde-sa";
+  const index = await fetch("patients/index.json").then(r => r.json()).catch(() => []);
+  const P = index.find(p => p.id === id);
+  if (!P) { document.getElementById("pname").textContent = t("err"); return; }
+  let ips, tl, jsonMode = "ips";
+  try { ips = await fetch(P.ips).then(r => r.json()); } catch (e) { document.getElementById("pname").textContent = t("err"); return; }
+  tl = ips2timeline(ips);
+
+  const dl = document.getElementById("dl");
+  dl.href = P.ips; dl.setAttribute("download", P.id + "-ips.json");
+
+  function header() {
+    document.getElementById("pname").textContent = P.name;
+    document.getElementById("pmeta").textContent = `${P.age} ${t("years")} · ${t(P.gender)}`;
+    document.title = `${P.name} · ${t("brand")}`;
+    dl.innerHTML = I.dl + esc(t("download"));
+    document.getElementById("copyJson").innerHTML = I.copy + esc(t("copy"));
+  }
+
+  // Timeline: the engine is a standalone page; inject the converted data and load it in an iframe.
+  const engine = await fetch("assets/timeline-engine.html").then(r => r.text());
+  const payload = JSON.stringify(tl).replace(/<\//g, "<\\/");
+  const html = engine.replace("/*DATA_START*/null/*DATA_END*/", () => "/*DATA_START*/" + payload + "/*DATA_END*/");
+  document.getElementById("tl-frame").srcdoc = html;
+
+  const renderSummary = () => (document.getElementById("ipsView").innerHTML = renderIPS(ips, lang()));
+  function renderJson() {
+    const src = JSON.stringify(jsonMode === "ips" ? ips : tl, null, 2);
+    const hl = esc(src).replace(/(&quot;(?:[^&]|&(?!quot;))*?&quot;)(\s*:)?|\b(-?\d+(?:\.\d+)?)\b|\b(true|false|null)\b/g,
+      (m, s, colon, n, b) => s ? `<span class="${colon ? "k" : "s"}">${s}</span>${colon || ""}` : n ? `<span class="n">${n}</span>` : `<span class="b">${b}</span>`);
+    document.getElementById("jsonView").innerHTML = hl;
+    document.querySelectorAll("#jsonSwitch button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.j === jsonMode)));
+  }
+  document.getElementById("jsonSwitch").addEventListener("click", e => { const b = e.target.closest("button"); if (b) { e.stopPropagation(); jsonMode = b.dataset.j; renderJson(); } });
+  document.getElementById("copyJson").addEventListener("click", async e => {
+    try { await navigator.clipboard.writeText(JSON.stringify(jsonMode === "ips" ? ips : tl, null, 2)); e.currentTarget.innerHTML = I.copy + esc(t("copied")); } catch (_) {}
+  });
+
+  function renderHow() {
+    const counts = {};
+    ips.entry.forEach(e => (counts[e.resource.resourceType] = (counts[e.resource.resourceType] || 0) + 1));
+    const groups = tl.groups.map(g => `${g.name} (${g.rows.length})`).join(" · ");
+    const pt = lang() === "pt";
+    document.getElementById("howView").innerHTML = pt ? `
+      <div class="sect"><h2>1. O IPS</h2><p class="muted">Um Bundle FHIR do tipo <code>document</code> com ${ips.entry.length} recursos:
+        ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(", ")}. O primeiro recurso é a <code>Composition</code>, que organiza as secções do IPS (problemas, alergias, medicação, resultados…).</p></div>
+      <div class="sect"><h2>2. O conversor</h2><p class="muted"><a href="assets/ips2timeline.js">ips2timeline.js</a> (cerca de 300 linhas) corre no browser e aplica regras explícitas:</p>
+        <table class="tbl maptbl"><tbody>
+          <tr><td>Encounter</td><td>evento: AMB consulta, EMER urgência, IMP internamento, VR contacto à distância; <code>status=planned</code> → tracejado</td></tr>
+          <tr><td>Procedure · DiagnosticReport</td><td>evento cirurgia / exame; <code>conclusionCode</code> “Abnormal” → destaque</td></tr>
+          <tr><td>Observation laboratory</td><td>colheitas e séries por analito; <code>referenceRange</code> por colheita (ex.: gravidez)</td></tr>
+          <tr><td>Observation outras</td><td>séries; com <code>effectivePeriod</code> → barras por período</td></tr>
+          <tr><td>Observation social-history</td><td>períodos de vida e marcos</td></tr>
+          <tr><td>MedicationStatement</td><td>barras de medicação</td></tr>
+          <tr><td>Condition ativa</td><td>chips de problemas; o código SNOMED CT escolhe a área</td></tr>
+          <tr><td>LOINC</td><td>escolhe a área de cada série (HbA1c → metabolismo, NT-proBNP → cardiovascular…)</td></tr>
+          <tr><td>AST + ALT + plaquetas</td><td>FIB-4 calculado automaticamente</td></tr>
+        </tbody></table></div>
+      <div class="sect"><h2>3. A timeline</h2><p class="muted">O resultado (separador JSON → “Dados da timeline”) alimenta o mesmo motor gráfico da timeline de saúde do autor. Áreas criadas para ${esc(P.name)}: ${esc(groups)}.</p></div>
+      <div class="sect"><h2>Exercícios para o curso</h2><ul class="muted">
+        <li>Pedir a um assistente de IA um novo paciente virtual em IPS, a partir de um cenário clínico em linguagem natural.</li>
+        <li>Acrescentar ao conversor uma regra nova (por exemplo, a secção de dispositivos médicos).</li>
+        <li>Comparar a timeline com o resumo legível: o que ganha e o que perde cada formato?</li>
+        <li>Discutir riscos: códigos errados, coincidências apresentadas como causa, dados sintéticos tomados por reais.</li></ul></div>` : `
+      <div class="sect"><h2>1. The IPS</h2><p class="muted">A FHIR <code>document</code> Bundle with ${ips.entry.length} resources:
+        ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(", ")}. The first resource is the <code>Composition</code>, which organises the IPS sections (problems, allergies, medication, results…).</p></div>
+      <div class="sect"><h2>2. The converter</h2><p class="muted"><a href="assets/ips2timeline.js">ips2timeline.js</a> (about 300 lines) runs in the browser and applies explicit rules:</p>
+        <table class="tbl maptbl"><tbody>
+          <tr><td>Encounter</td><td>event: AMB outpatient visit, EMER emergency, IMP admission, VR remote contact; <code>status=planned</code> → dashed</td></tr>
+          <tr><td>Procedure · DiagnosticReport</td><td>surgery / exam event; <code>conclusionCode</code> “Abnormal” → highlighted</td></tr>
+          <tr><td>Observation laboratory</td><td>collections and one series per analyte; per-collection <code>referenceRange</code> (e.g. pregnancy)</td></tr>
+          <tr><td>Other Observation</td><td>series; with <code>effectivePeriod</code> → bars per period</td></tr>
+          <tr><td>Observation social-history</td><td>life periods and milestones</td></tr>
+          <tr><td>MedicationStatement</td><td>medication bars</td></tr>
+          <tr><td>Active Condition</td><td>problem chips; the SNOMED CT code picks the area</td></tr>
+          <tr><td>LOINC</td><td>picks the area for each series (HbA1c → metabolism, NT-proBNP → cardiovascular…)</td></tr>
+          <tr><td>AST + ALT + platelets</td><td>FIB-4 computed automatically</td></tr>
+        </tbody></table></div>
+      <div class="sect"><h2>3. The timeline</h2><p class="muted">The output (JSON tab → “Timeline data”) feeds the same engine as the author's own health timeline. The timeline text is in Portuguese, like the patients. Areas created for ${esc(P.name)}: ${esc(groups)}.</p></div>
+      <div class="sect"><h2>Exercises for the course</h2><ul class="muted">
+        <li>Ask an AI assistant for a new virtual patient as an IPS, starting from a clinical scenario in plain language.</li>
+        <li>Add a new rule to the converter (for example, the medical devices section).</li>
+        <li>Compare the timeline with the readable summary: what does each format gain and lose?</li>
+        <li>Discuss risks: wrong codes, coincidences presented as causes, synthetic data mistaken for real data.</li></ul></div>`;
+  }
+
+  const rendered = {};
+  function show(tab) {
+    if (!["timeline", "summary", "json", "how"].includes(tab)) tab = "timeline";
+    document.querySelectorAll("[data-tab]").forEach(b => b.setAttribute("aria-selected", String(b.dataset.tab === tab)));
+    document.querySelectorAll(".panel").forEach(p => (p.hidden = p.id !== tab));
+    if (!rendered[tab]) { ({ summary: renderSummary, json: renderJson, how: renderHow }[tab] || (() => {}))(); rendered[tab] = true; }
+    if (location.hash !== "#" + tab) history.replaceState(null, "", "#" + tab);
+  }
+  document.querySelector(".tabs").addEventListener("click", e => { const b = e.target.closest("[data-tab]"); if (b) show(b.dataset.tab); });
+  document.addEventListener("langchange", () => { header(); if (rendered.summary) renderSummary(); if (rendered.how) renderHow(); });
+  header(); APP.apply();
+  show(location.hash.slice(1));
+})();
+</script>
+</body>
+</html>

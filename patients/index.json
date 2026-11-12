@@ -1,0 +1,137 @@
+[
+  {
+    "id": "matilde-sa",
+    "name": "Matilde Sá",
+    "gender": "female",
+    "age": 6,
+    "order": 1,
+    "accent": "teal",
+    "card": {
+      "en": {
+        "summary": "6-year-old girl with asthma. Exacerbations during heat waves; home data from a connected inhaler and a parents' diary app.",
+        "tags": [
+          "Paediatrics",
+          "Asthma",
+          "Connected inhaler"
+        ]
+      },
+      "pt": {
+        "summary": "Menina de 6 anos com asma. Exacerbações em ondas de calor; dados recolhidos em casa por inalador conectado e diário dos pais.",
+        "tags": [
+          "Pediatria",
+          "Asma",
+          "Inalador conectado"
+        ]
+      }
+    },
+    "ips": "patients/matilde-sa/ips.json"
+  },
+  {
+    "id": "ana-lopes",
+    "name": "Ana Lopes",
+    "gender": "female",
+    "age": 58,
+    "order": 2,
+    "accent": "ochre",
+    "card": {
+      "en": {
+        "summary": "58-year-old woman with type 2 diabetes, hypertension and dyslipidaemia, followed in primary care. Walking programme since retirement, tracked by a smartwatch.",
+        "tags": [
+          "Primary care",
+          "Type 2 diabetes",
+          "Smartwatch"
+        ]
+      },
+      "pt": {
+        "summary": "Mulher de 58 anos com diabetes tipo 2, hipertensão e dislipidemia, seguida em medicina geral e familiar. Caminhada desde a reforma, registada num relógio.",
+        "tags": [
+          "MGF",
+          "Diabetes tipo 2",
+          "Relógio inteligente"
+        ]
+      }
+    },
+    "ips": "patients/ana-lopes/ips.json"
+  },
+  {
+    "id": "joaquim-ferreira",
+    "name": "Joaquim Ferreira",
+    "gender": "male",
+    "age": 79,
+    "order": 3,
+    "accent": "red",
+    "card": {
+      "en": {
+        "summary": "79-year-old man with heart failure with reduced ejection fraction, atrial fibrillation and chronic kidney disease. Three admissions; home telemonitoring (scale and watch) since 2025.",
+        "tags": [
+          "Cardiology",
+          "Polypharmacy",
+          "Telemonitoring"
+        ]
+      },
+      "pt": {
+        "summary": "Homem de 79 anos com insuficiência cardíaca com fração de ejeção reduzida, fibrilhação auricular e doença renal crónica. Três internamentos; telemonitorização (balança e relógio) desde 2025.",
+        "tags": [
+          "Cardiologia",
+          "Polimedicação",
+          "Telemonitorização"
+        ]
+      }
+    },
+    "ips": "patients/joaquim-ferreira/ips.json"
+  },
+  {
+    "id": "sofia-martins",
+    "name": "Sofia Martins",
+    "gender": "female",
+    "age": 34,
+    "order": 4,
+    "accent": "plum",
+    "card": {
+      "en": {
+        "summary": "34-year-old woman with hypothyroidism. First pregnancy with gestational diabetes and iron-deficiency anaemia; caesarean section in March 2026; postpartum thyroid dose adjustment.",
+        "tags": [
+          "Pregnancy",
+          "Endocrinology",
+          "Phone & watch"
+        ]
+      },
+      "pt": {
+        "summary": "Mulher de 34 anos com hipotiroidismo. Primeira gravidez com diabetes gestacional e anemia ferropénica; cesariana em março de 2026; ajuste da levotiroxina no pós-parto.",
+        "tags": [
+          "Gravidez",
+          "Endocrinologia",
+          "Telemóvel e relógio"
+        ]
+      }
+    },
+    "ips": "patients/sofia-martins/ips.json"
+  },
+  {
+    "id": "rui-carvalho",
+    "name": "Rui Carvalho",
+    "gender": "male",
+    "age": 47,
+    "order": 5,
+    "accent": "rust",
+    "card": {
+      "en": {
+        "summary": "47-year-old man with obesity, fatty liver disease (MASLD), prediabetes and sleep apnoea. Lost 16 kg with semaglutide and exercise; FIB-4 computed from the IPS; connected CPAP and smartwatch.",
+        "tags": [
+          "Hepatology",
+          "Obesity",
+          "CPAP & wearables"
+        ]
+      },
+      "pt": {
+        "summary": "Homem de 47 anos com obesidade, esteatose hepática (MASLD), pré-diabetes e apneia do sono. Perdeu 16 kg com semaglutido e exercício; FIB-4 calculado a partir do IPS; CPAP e relógio conectados.",
+        "tags": [
+          "Hepatologia",
+          "Obesidade",
+          "CPAP e wearables"
+        ]
+      }
+    },
+    "ips": "patients/rui-carvalho/ips.json"
+  }
+]

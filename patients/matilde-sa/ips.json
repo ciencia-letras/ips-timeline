@@ -1,0 +1,4970 @@
+{
+  "resourceType": "Bundle",
+  "id": "matilde-sa",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/uv/ips/StructureDefinition/Bundle-uv-ips"
+    ],
+    "tag": [
+      {
+        "system": "http://terminology.hl7.org/CodeSystem/v3-ActReason",
+        "code": "HTEST",
+        "display": "test health data"
+      }
+    ]
+  },
+  "identifier": {
+    "system": "https://ricardojccorreia.github.io/ips-timeline/NamingSystem/ips-bundle",
+    "value": "matilde-sa-2026-11-05"
+  },
+  "type": "document",
+  "timestamp": "2026-11-05T09:00:00+00:00",
+  "entry": [
+    {
+      "fullUrl": "urn:uuid:dd8ed325-4017-5bf7-be0b-e6c085ac68f7",
+      "resource": {
+        "resourceType": "Composition",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Composition-uv-ips"
+          ]
+        },
+        "status": "final",
+        "type": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "60591-5",
+              "display": "Patient summary Document"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "date": "2026-11-05T09:00:00+00:00",
+        "author": [
+          {
+            "reference": "urn:uuid:ccbd49cc-aa8e-5cc7-ae25-fb451892eea0"
+          }
+        ],
+        "custodian": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "title": "Resumo do paciente (IPS) — Matilde Sá",
+        "confidentiality": "N",
+        "section": [
+          {
+            "title": "Problemas ativos",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "11450-4",
+                  "display": "Problem list - Reported"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Problema</th><th>Início</th><th></th><th>Nota</th></tr></thead><tbody><tr><td>Asma</td><td>2023-05-10</td><td></td><td>Sibilância recorrente desde os 10 meses. C-ACT 17 em setembro de 2026 (não controlada).</td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:433b631c-6431-55ff-8aa5-01d399bab3e0"
+              }
+            ]
+          },
+          {
+            "title": "Alergias e intolerâncias",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "48765-2",
+                  "display": "Allergies and adverse reactions Document"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Agente</th><th>Início</th><th>Reação</th><th>Criticidade</th></tr></thead><tbody><tr><td>Ácaros do pó doméstico</td><td>2023-05-10</td><td>Sensibilização (IgE específica positiva); rinite e sibilância</td><td>low</td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:e9452cb9-376a-5428-95f7-c6fa42fed370"
+              }
+            ]
+          },
+          {
+            "title": "Medicação",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "10160-0",
+                  "display": "History of Medication use Narrative"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Medicamento</th><th>Posologia</th><th>Início</th><th>Fim</th><th>Nota</th></tr></thead><tbody><tr><td>Salbutamol inalado (SOS)</td><td>2 inalações com câmara expansora, se pieira</td><td>2022-02-08</td><td>em curso</td><td>Com câmara expansora.</td></tr><tr><td>Budesonida inalada (corticoide inalado diário)</td><td>200 µg 2×/dia com câmara expansora</td><td>2023-05-10</td><td>em curso</td><td>Prescrito pela médica de família; adesão irregular nos verões de 2024 e 2026.</td></tr><tr><td>Prednisolona oral (3 dias)</td><td>1 mg/kg/dia</td><td>2022-02-08</td><td>2022-02-11</td><td>Episódio de sibilância viral.</td></tr><tr><td>Prednisolona oral (3 dias)</td><td>1 mg/kg/dia</td><td>2025-07-01</td><td>2025-07-04</td><td>Exacerbação em onda de calor.</td></tr><tr><td>Prednisolona oral (3 dias)</td><td>1 mg/kg/dia</td><td>2026-07-15</td><td>2026-07-18</td><td>Exacerbação em onda de calor.</td></tr><tr><td>Amoxicilina (7 dias)</td><td>50 mg/kg/dia</td><td>2026-07-15</td><td>2026-07-22</td><td>Prescrita «por precaução»; sem foco bacteriano documentado (RX sem condensação).</td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:b9140f99-e97b-52fa-8890-f79bdb621f40"
+              },
+              {
+                "reference": "urn:uuid:38194a17-33d2-5d38-9603-949f6a433bd6"
+              },
+              {
+                "reference": "urn:uuid:9acd9f33-762f-58ab-9897-46546402fcae"
+              },
+              {
+                "reference": "urn:uuid:806a594e-c63d-5f82-913e-082dfc28c9b4"
+              },
+              {
+                "reference": "urn:uuid:2a248176-3165-5f6d-adec-23510a33768f"
+              },
+              {
+                "reference": "urn:uuid:7a329ed0-a5cc-515a-891e-77c691744d6c"
+              }
+            ]
+          },
+          {
+            "title": "Vacinação",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "11369-6",
+                  "display": "History of Immunization Narrative"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Data</th><th>Vacina</th></tr></thead><tbody><tr><td>2020-05-12</td><td>Vacinas dos 2 meses (PNV)</td></tr><tr><td>2021-03-15</td><td>Vacinas dos 12 meses (PNV)</td></tr><tr><td>2025-03-18</td><td>DTPaVIP — reforço dos 5 anos (PNV)</td></tr><tr><td>2025-10-20</td><td>Gripe sazonal</td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:8fabd7e2-91d2-5412-be2d-4afc31cb579a"
+              },
+              {
+                "reference": "urn:uuid:a9aa9994-97f1-5a6a-b611-4dcab6243af1"
+              },
+              {
+                "reference": "urn:uuid:ca1294ee-2ddd-584d-93c1-12a7d9143e2a"
+              },
+              {
+                "reference": "urn:uuid:71b190e4-d1ec-5ff9-bab8-a944bcddbdd9"
+              }
+            ]
+          },
+          {
+            "title": "Doenças anteriores",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "11348-0",
+                  "display": "History of Past illness Narrative"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Doença</th><th>Início</th><th>Resolução</th><th>Nota</th></tr></thead><tbody><tr><td>Bronquiolite aguda</td><td>2021-01-20</td><td>2021-02-05</td><td></td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:338fe8bc-f6a7-5e03-9931-e6e3a9ba7e84"
+              }
+            ]
+          },
+          {
+            "title": "Resultados",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "30954-2",
+                  "display": "Relevant diagnostic tests/laboratory data Narrative"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Data</th><th>Exame</th><th>Valor</th><th>Referência</th></tr></thead><tbody><tr><td>2025-04-08</td><td>Espirometria (pedida pela MF)</td><td>FEV1 84% do previsto; prova de broncodilatação positiva (+14%).</td></tr><tr><td>2026-07-15</td><td>Radiografia do tórax</td><td>Sem condensação.</td></tr><tr><td>2023-05-10</td><td>Eosinófilos</td><td>620 /µL</td><td>–500 ▲</td></tr><tr><td>2025-04-08</td><td>Eosinófilos</td><td>480 /µL</td><td>–500</td></tr><tr><td>2026-07-15</td><td>Eosinófilos</td><td>410 /µL</td><td>–500</td></tr><tr><td>2023-05-10</td><td>IgE total</td><td>410 kU/L</td><td>–100 ▲</td></tr><tr><td>2025-04-08</td><td>IgE total</td><td>520 kU/L</td><td>–100 ▲</td></tr><tr><td>2026-07-15</td><td>Leucócitos</td><td>11800 /µL</td><td>5000–15000</td></tr><tr><td>2026-07-15</td><td>Proteína C reativa</td><td>9 mg/L</td><td>–5 ▲</td></tr><tr><td>2024-02-20</td><td>C-ACT (controlo da asma)</td><td>22 pontos (0–27)</td><td></td></tr><tr><td>2024-10-15</td><td>C-ACT (controlo da asma)</td><td>19 pontos (0–27)</td><td></td></tr><tr><td>2025-04-08</td><td>C-ACT (controlo da asma)</td><td>18 pontos (0–27)</td><td></td></tr><tr><td>2025-10-14</td><td>C-ACT (controlo da asma)</td><td>21 pontos (0–27)</td><td></td></tr><tr><td>2026-03-10</td><td>C-ACT (controlo da asma)</td><td>22 pontos (0–27)</td><td></td></tr><tr><td>2026-09-22</td><td>C-ACT (controlo da asma)</td><td>17 pontos (0–27)</td><td></td></tr><tr><td>2025-04-08</td><td>FEV1 (% do previsto)</td><td>84 %</td><td></td></tr><tr><td>2026-09-22</td><td>FEV1 (% do previsto)</td><td>82 %</td><td></td></tr><tr><td>2025-10</td><td>Toma do corticoide inalado</td><td>92 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2025-11</td><td>Toma do corticoide inalado</td><td>90 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2025-12</td><td>Toma do corticoide inalado</td><td>88 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-01</td><td>Toma do corticoide inalado</td><td>91 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-02</td><td>Toma do corticoide inalado</td><td>89 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-03</td><td>Toma do corticoide inalado</td><td>93 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-04</td><td>Toma do corticoide inalado</td><td>86 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-05</td><td>Toma do corticoide inalado</td><td>78 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-06</td><td>Toma do corticoide inalado</td><td>55 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-07</td><td>Toma do corticoide inalado</td><td>38 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-08</td><td>Toma do corticoide inalado</td><td>41 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-09</td><td>Toma do corticoide inalado</td><td>62 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2026-10</td><td>Toma do corticoide inalado</td><td>74 % de dias com toma</td><td>Contador de tomas conectado (app dos pais)</td></tr><tr><td>2025-10</td><td>Noites com tosse</td><td>1 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2025-11</td><td>Noites com tosse</td><td>2 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2025-12</td><td>Noites com tosse</td><td>3 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-01</td><td>Noites com tosse</td><td>2 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-02</td><td>Noites com tosse</td><td>2 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-03</td><td>Noites com tosse</td><td>1 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-04</td><td>Noites com tosse</td><td>1 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-05</td><td>Noites com tosse</td><td>2 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-06</td><td>Noites com tosse</td><td>4 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-07</td><td>Noites com tosse</td><td>9 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-08</td><td>Noites com tosse</td><td>6 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-09</td><td>Noites com tosse</td><td>5 noites por mês</td><td>Diário dos pais na app</td></tr><tr><td>2026-10</td><td>Noites com tosse</td><td>3 noites por mês</td><td>Diário dos pais na app</td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:78b0f956-c54b-5e31-9b8f-66e342d1dee4"
+              },
+              {
+                "reference": "urn:uuid:d4e5d55a-7494-513b-b29c-0f8a6f34759a"
+              },
+              {
+                "reference": "urn:uuid:e54dadc1-909f-5360-98e2-b3936d874e47"
+              },
+              {
+                "reference": "urn:uuid:17b04e0d-4606-5810-8b38-85a96efcd183"
+              },
+              {
+                "reference": "urn:uuid:47f34401-2e18-5d5a-b903-cb9b6d371c51"
+              },
+              {
+                "reference": "urn:uuid:00c773f4-91b2-55e8-9d18-17fb7c5dbda7"
+              },
+              {
+                "reference": "urn:uuid:887720be-a37e-5c3f-8d57-8c929a14ad8b"
+              },
+              {
+                "reference": "urn:uuid:38e35a01-a8d5-5179-ba2d-96badf56453f"
+              },
+              {
+                "reference": "urn:uuid:245689e0-5910-5771-9281-ed138af6eec7"
+              },
+              {
+                "reference": "urn:uuid:22efc3d7-fbab-5705-bcbb-7941fb7319d0"
+              },
+              {
+                "reference": "urn:uuid:3b09184b-35a9-53d7-8889-9106089efdd7"
+              },
+              {
+                "reference": "urn:uuid:0f049022-0bd3-50cf-9e78-5e0b9bc81a4e"
+              },
+              {
+                "reference": "urn:uuid:e0c7d7b1-aa7c-55b0-a3ed-93be0ae914a8"
+              },
+              {
+                "reference": "urn:uuid:0e597f2c-12b8-57b2-b9c5-cdc12feb835a"
+              },
+              {
+                "reference": "urn:uuid:cb335a28-76e6-5762-bdf8-2f875db3499f"
+              },
+              {
+                "reference": "urn:uuid:d88ddc6a-a5b4-599a-9c8d-1904c574420c"
+              },
+              {
+                "reference": "urn:uuid:d502c742-8388-5cea-9dff-96a88349251d"
+              },
+              {
+                "reference": "urn:uuid:6aee7c1f-11fd-5f01-8125-1c911237efb5"
+              },
+              {
+                "reference": "urn:uuid:8683c712-b50b-5d64-8dd1-6ba47c7a3032"
+              },
+              {
+                "reference": "urn:uuid:06b13844-089f-5777-918e-7b35e3761614"
+              },
+              {
+                "reference": "urn:uuid:fb715b4f-90ad-51d7-89cb-744812bb89b0"
+              },
+              {
+                "reference": "urn:uuid:302371c5-71ad-5493-b902-bfbc9ac62df7"
+              },
+              {
+                "reference": "urn:uuid:5c4548c8-05f1-5442-80c1-5c4f350e4cc7"
+              },
+              {
+                "reference": "urn:uuid:c20e3f46-afbf-5d50-a83c-0c36180d5ebb"
+              },
+              {
+                "reference": "urn:uuid:0bcbaad5-83da-53cf-a858-15a2318cdf66"
+              },
+              {
+                "reference": "urn:uuid:aa4656ac-0480-5a52-a114-3f9364c9fee8"
+              },
+              {
+                "reference": "urn:uuid:1ce881f3-20c7-5d1f-b17b-b6c56e8f61ce"
+              },
+              {
+                "reference": "urn:uuid:601719c0-2e6a-5fd9-97e4-36265d0598e2"
+              },
+              {
+                "reference": "urn:uuid:03b57af0-a80e-55f9-8f8d-b28de2c522fa"
+              },
+              {
+                "reference": "urn:uuid:cb370a4c-bea5-5c54-af3a-a382a44d332c"
+              },
+              {
+                "reference": "urn:uuid:67705433-5c4c-5de2-9484-0568fd3a3526"
+              },
+              {
+                "reference": "urn:uuid:e641d9f6-9c20-514a-9d3d-9e29c58d8d47"
+              },
+              {
+                "reference": "urn:uuid:878d2266-b64f-53d8-92a5-88b2fa4d72ee"
+              },
+              {
+                "reference": "urn:uuid:6d907f07-fa30-5108-bbf2-a2484b1bac7e"
+              },
+              {
+                "reference": "urn:uuid:3fdf6c89-11c4-578c-be29-b92e2b4495f5"
+              },
+              {
+                "reference": "urn:uuid:9ce46b18-ff98-5974-8756-815264f5da09"
+              },
+              {
+                "reference": "urn:uuid:04ad61a9-64b6-5825-afa2-67d920ffb4de"
+              },
+              {
+                "reference": "urn:uuid:28ad0ccb-99cd-5761-8b04-e817fca28ab7"
+              },
+              {
+                "reference": "urn:uuid:cc173d13-cc2a-5113-9998-3d86e0c04573"
+              },
+              {
+                "reference": "urn:uuid:70183059-1240-5c97-af36-9b31582951a1"
+              },
+              {
+                "reference": "urn:uuid:b6ba8eba-c671-5404-9853-b2a04e245ee7"
+              },
+              {
+                "reference": "urn:uuid:1d022397-f0de-584d-92bc-0d312accb051"
+              },
+              {
+                "reference": "urn:uuid:0f16d1df-6506-554c-b11a-e9c9e62c61de"
+              }
+            ]
+          },
+          {
+            "title": "Sinais vitais",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "8716-3",
+                  "display": "Vital signs"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Data</th><th>Medição</th><th>Valor</th><th>Dispositivo</th></tr></thead><tbody><tr><td>2021-01-20</td><td>SpO2 na admissão</td><td>95 %</td><td></td></tr><tr><td>2022-02-08</td><td>SpO2 na admissão</td><td>96 %</td><td></td></tr><tr><td>2022-11-15</td><td>SpO2 na admissão</td><td>95 %</td><td></td></tr><tr><td>2025-07-01</td><td>SpO2 na admissão</td><td>93 %</td><td></td></tr><tr><td>2026-07-15</td><td>SpO2 na admissão</td><td>94 %</td><td></td></tr><tr><td>2020-03</td><td>Peso</td><td>3.2 kg</td><td></td></tr><tr><td>2020-09</td><td>Peso</td><td>7.6 kg</td><td></td></tr><tr><td>2021-03</td><td>Peso</td><td>9.6 kg</td><td></td></tr><tr><td>2022-03</td><td>Peso</td><td>12.3 kg</td><td></td></tr><tr><td>2023-03</td><td>Peso</td><td>14.5 kg</td><td></td></tr><tr><td>2024-03</td><td>Peso</td><td>16.6 kg</td><td></td></tr><tr><td>2025-03</td><td>Peso</td><td>19.1 kg</td><td></td></tr><tr><td>2026-07</td><td>Peso</td><td>21.0 kg</td><td></td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:d5d87479-7281-5b38-9627-2b48427eabcf"
+              },
+              {
+                "reference": "urn:uuid:f7683ff1-64fa-542f-b796-7b98bbeaa7b2"
+              },
+              {
+                "reference": "urn:uuid:4fe19e1f-1c2a-5f7a-8ef4-99432ec2c053"
+              },
+              {
+                "reference": "urn:uuid:c9423916-df27-5a50-934c-b41e068fb197"
+              },
+              {
+                "reference": "urn:uuid:1a9ea46a-f920-5964-b4ad-2cf3bbd5fada"
+              },
+              {
+                "reference": "urn:uuid:7ab65d5b-8c08-55b5-a766-96d60ba6c9d0"
+              },
+              {
+                "reference": "urn:uuid:684bdff7-17e6-58bd-87ad-72787de72014"
+              },
+              {
+                "reference": "urn:uuid:dfd26370-c90f-5067-bcce-83adc1512e39"
+              },
+              {
+                "reference": "urn:uuid:e60b200d-2626-5667-b1e6-05d60276bc90"
+              },
+              {
+                "reference": "urn:uuid:d749f2b5-3e4d-567b-81c2-3689b76ba145"
+              },
+              {
+                "reference": "urn:uuid:242d5900-eb36-5270-b395-dca2607c152a"
+              },
+              {
+                "reference": "urn:uuid:1dd4987b-a5bb-589a-b3d4-5397e93af20a"
+              },
+              {
+                "reference": "urn:uuid:c5511c57-7f90-5233-bcbb-526d40d6e87f"
+              }
+            ]
+          },
+          {
+            "title": "Hábitos e contexto de vida",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "29762-2",
+                  "display": "Social history Narrative"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Data</th><th>Registo</th><th>Valor / nota</th><th></th></tr></thead><tbody><tr><td>2025-06-28 → 2025-07-03</td><td>Onda de calor com aviso de ozono</td><td>Coincide com a urgência de 1 de julho de 2025.</td></tr><tr><td>2026-07-12 → 2026-07-17</td><td>Onda de calor com aviso de ozono</td><td>Coincide com a urgência de 15 de julho de 2026.</td></tr><tr><td>2023-09-12</td><td>Entrada no jardim de infância</td><td>Mais infeções virais no primeiro inverno.</td></tr><tr><td>2024-05-20</td><td>Nascimento do irmão</td><td>Sem alteração visível no controlo da asma.</td></tr><tr><td>2026-09-14</td><td>Início do 1.º ano</td><td>Escola nova, perto de uma via com muito trânsito.</td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:d03e40f0-b883-5448-bf3b-4253941d4dbb"
+              },
+              {
+                "reference": "urn:uuid:78048f27-2476-5a97-9082-fd56f885557d"
+              },
+              {
+                "reference": "urn:uuid:062a3169-5028-5499-b244-c6d931e28273"
+              },
+              {
+                "reference": "urn:uuid:8379ca09-b2cc-5107-bcdf-8f677043b033"
+              },
+              {
+                "reference": "urn:uuid:b09ee667-b57a-5f80-a06b-933afa2f794c"
+              }
+            ]
+          },
+          {
+            "title": "Episódios de cuidados",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "46240-8",
+                  "display": "History of Hospitalizations+Outpatient visits Narrative"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Data</th><th>Tipo</th><th>Episódio</th><th>Motivo</th></tr></thead><tbody><tr><td>2020-03-20</td><td>Consulta</td><td>1.ª consulta de saúde infantil (USF)</td><td>Médica de família. Teste do pezinho normal. PNV em dia.</td></tr><tr><td>2021-01-20</td><td>Urgência</td><td>Urgência: bronquiolite</td><td>10 meses. SpO2 95%. Alta com medidas gerais. Revista na USF 3 dias depois.</td></tr><tr><td>2022-02-08</td><td>Urgência</td><td>Urgência: sibilância viral</td><td>Salbutamol inalado e corticoide oral 3 dias.</td></tr><tr><td>2022-11-15</td><td>Urgência</td><td>Urgência: 3.º episódio de sibilância</td><td>Nota de alta pede reavaliação pela médica de família.</td></tr><tr><td>2023-05-10</td><td>Consulta</td><td>Consulta MF: diagnóstico de asma</td><td>Sibilância recorrente, eosinófilos 620/µL, IgE para ácaros positiva. Início de corticoide inalado e plano de ação escrito. Codificado R96 (ICPC-2).</td></tr><tr><td>2024-02-20</td><td>Consulta</td><td>Consulta MF: asma controlada</td><td>C-ACT 22.</td></tr><tr><td>2024-10-15</td><td>Consulta</td><td>Consulta MF: controlo parcial</td><td>C-ACT 19. Pais referem falhas no corticoide inalado durante o verão.</td></tr><tr><td>2025-03-18</td><td>Consulta</td><td>Saúde infantil 5 anos + PNV</td><td>Vacinas dos 5 anos (DTPaVIP). Peso 19,1 kg, desenvolvimento adequado.</td></tr><tr><td>2025-07-01</td><td>Urgência</td><td>Urgência: exacerbação em onda de calor</td><td>SpO2 93%. Salbutamol e corticoide oral 3 dias. Sem antibiótico.</td></tr><tr><td>2025-10-14</td><td>Consulta</td><td>Consulta MF: reforço do plano de ação</td><td>C-ACT 21. Revista a técnica inalatória. Proposto inalador conectado (contador de tomas).</td></tr><tr><td>2026-03-10</td><td>Consulta</td><td>Saúde infantil 6 anos + asma</td><td>C-ACT 22. Exame global de saúde antes da escola.</td></tr><tr><td>2026-07-14</td><td>Contacto à distância</td><td>Contacto SNS 24</td><td>Tosse e pieira há 2 dias, 3.º dia de calor. Encaminhada para a urgência.</td></tr><tr><td>2026-07-15</td><td>Urgência</td><td>Urgência: exacerbação (3.º dia de calor)</td><td>SpO2 94%, 37,9 °C. Leucócitos 11 800/µL, PCR 9 mg/L. RX de tórax sem condensação. Alta com broncodilatador, corticoide oral e amoxicilina «por precaução».</td></tr><tr><td>2026-07-20</td><td>Consulta</td><td>Consulta aberta USF (pós-urgência)</td><td>Melhorada. Toma do inalador nas últimas 4 semanas: 38% dos dias (inalador conectado).</td></tr><tr><td>2026-09-22</td><td>Consulta</td><td>Consulta MF: asma não controlada</td><td>C-ACT 17, FEV1 82%. A mãe traz respostas do ChatGPT sobre o corticoide inalado.</td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:2ca82936-dfa9-561b-bb16-4ce0be8b920c"
+              },
+              {
+                "reference": "urn:uuid:946c8872-4c43-5265-8714-e7026042a8f1"
+              },
+              {
+                "reference": "urn:uuid:dcb4c767-aac5-5961-9d42-bd7118188a6b"
+              },
+              {
+                "reference": "urn:uuid:dcb6ffc6-007b-5a96-8a2f-78f353bd5a39"
+              },
+              {
+                "reference": "urn:uuid:bace7f26-fa10-5564-9af4-a42a14dc9686"
+              },
+              {
+                "reference": "urn:uuid:73d9fd6b-a8b0-5ed7-8cd0-b76af5f64755"
+              },
+              {
+                "reference": "urn:uuid:362f6fdc-1057-5d4c-9d90-83e8069bd55b"
+              },
+              {
+                "reference": "urn:uuid:0f0c212d-0f8f-5352-bb58-0d5ee7512c8f"
+              },
+              {
+                "reference": "urn:uuid:e317e0ac-b904-51f0-9705-ec25e5c59784"
+              },
+              {
+                "reference": "urn:uuid:cad3bc67-7a37-50aa-b74d-0b4d08ece7af"
+              },
+              {
+                "reference": "urn:uuid:0d64188b-4aa0-5d31-850c-f6889b62af2a"
+              },
+              {
+                "reference": "urn:uuid:0150a1d9-a8e3-5abd-b77e-e902ac93b99f"
+              },
+              {
+                "reference": "urn:uuid:74b7252f-a56e-5c3e-a562-6f189d06e807"
+              },
+              {
+                "reference": "urn:uuid:e012b5fd-49ef-5afa-ab0d-bfd24217806a"
+              },
+              {
+                "reference": "urn:uuid:3a56c4b3-6a38-56f6-9b1d-e6466ac69d92"
+              }
+            ]
+          },
+          {
+            "title": "Plano de cuidados",
+            "code": {
+              "coding": [
+                {
+                  "system": "http://loinc.org",
+                  "code": "18776-5",
+                  "display": "Plan of care note"
+                }
+              ]
+            },
+            "text": {
+              "status": "generated",
+              "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><table><thead><tr><th>Data</th><th>Tipo</th><th>Planeado</th><th>Motivo</th></tr></thead><tbody><tr><td>2026-11-17</td><td>Consulta</td><td>Consulta de vigilância da asma (marcada)</td><td>Rever adesão, técnica inalatória e plano de ação para o verão.</td></tr><tr><td>2027-04</td><td>Consulta</td><td>Espirometria anual (pedida)</td><td>Por marcar.</td></tr></tbody></table></div>"
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:9276f894-2b50-51b6-bf67-259b47fbcf68"
+              },
+              {
+                "reference": "urn:uuid:c6aab605-4fb7-5fd1-9c67-d2743afd1169"
+              }
+            ]
+          }
+        ],
+        "id": "dd8ed325-4017-5bf7-be0b-e6c085ac68f7"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e",
+      "resource": {
+        "resourceType": "Patient",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Patient-uv-ips"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://ricardojccorreia.github.io/ips-timeline/NamingSystem/virtual-patient",
+            "value": "matilde-sa"
+          }
+        ],
+        "name": [
+          {
+            "family": "Sá",
+            "given": [
+              "Matilde"
+            ],
+            "text": "Matilde Sá"
+          }
+        ],
+        "gender": "female",
+        "birthDate": "2020-03-12",
+        "address": [
+          {
+            "city": "Guimarães",
+            "country": "PT"
+          }
+        ],
+        "communication": [
+          {
+            "language": {
+              "text": "Português"
+            },
+            "preferred": true
+          }
+        ],
+        "id": "4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2",
+      "resource": {
+        "resourceType": "Organization",
+        "name": "USF Virtual do Minho (fictícia)",
+        "id": "3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ccbd49cc-aa8e-5cc7-ae25-fb451892eea0",
+      "resource": {
+        "resourceType": "Practitioner",
+        "name": [
+          {
+            "text": "Dra. Inês Barros (médica de família, fictícia)"
+          }
+        ],
+        "id": "ccbd49cc-aa8e-5cc7-ae25-fb451892eea0"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2ca82936-dfa9-561b-bb16-4ce0be8b920c",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "1.ª consulta de saúde infantil (USF)"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2020-03-20"
+        },
+        "reasonCode": [
+          {
+            "text": "Médica de família. Teste do pezinho normal. PNV em dia."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "2ca82936-dfa9-561b-bb16-4ce0be8b920c"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:946c8872-4c43-5265-8714-e7026042a8f1",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "EMER",
+          "display": "emergency"
+        },
+        "type": [
+          {
+            "text": "Urgência: bronquiolite"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2021-01-20"
+        },
+        "reasonCode": [
+          {
+            "text": "10 meses. SpO2 95%. Alta com medidas gerais. Revista na USF 3 dias depois."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "946c8872-4c43-5265-8714-e7026042a8f1"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:dcb4c767-aac5-5961-9d42-bd7118188a6b",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "EMER",
+          "display": "emergency"
+        },
+        "type": [
+          {
+            "text": "Urgência: sibilância viral"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2022-02-08"
+        },
+        "reasonCode": [
+          {
+            "text": "Salbutamol inalado e corticoide oral 3 dias."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "dcb4c767-aac5-5961-9d42-bd7118188a6b"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:dcb6ffc6-007b-5a96-8a2f-78f353bd5a39",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "EMER",
+          "display": "emergency"
+        },
+        "type": [
+          {
+            "text": "Urgência: 3.º episódio de sibilância"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2022-11-15"
+        },
+        "reasonCode": [
+          {
+            "text": "Nota de alta pede reavaliação pela médica de família."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "dcb6ffc6-007b-5a96-8a2f-78f353bd5a39"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:bace7f26-fa10-5564-9af4-a42a14dc9686",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Consulta MF: diagnóstico de asma"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2023-05-10"
+        },
+        "reasonCode": [
+          {
+            "text": "Sibilância recorrente, eosinófilos 620/µL, IgE para ácaros positiva. Início de corticoide inalado e plano de ação escrito. Codificado R96 (ICPC-2)."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "bace7f26-fa10-5564-9af4-a42a14dc9686"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:73d9fd6b-a8b0-5ed7-8cd0-b76af5f64755",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Consulta MF: asma controlada"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2024-02-20"
+        },
+        "reasonCode": [
+          {
+            "text": "C-ACT 22."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "73d9fd6b-a8b0-5ed7-8cd0-b76af5f64755"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:362f6fdc-1057-5d4c-9d90-83e8069bd55b",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Consulta MF: controlo parcial"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2024-10-15"
+        },
+        "reasonCode": [
+          {
+            "text": "C-ACT 19. Pais referem falhas no corticoide inalado durante o verão."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "362f6fdc-1057-5d4c-9d90-83e8069bd55b"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0f0c212d-0f8f-5352-bb58-0d5ee7512c8f",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Saúde infantil 5 anos + PNV"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2025-03-18"
+        },
+        "reasonCode": [
+          {
+            "text": "Vacinas dos 5 anos (DTPaVIP). Peso 19,1 kg, desenvolvimento adequado."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "0f0c212d-0f8f-5352-bb58-0d5ee7512c8f"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e317e0ac-b904-51f0-9705-ec25e5c59784",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "EMER",
+          "display": "emergency"
+        },
+        "type": [
+          {
+            "text": "Urgência: exacerbação em onda de calor"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2025-07-01"
+        },
+        "reasonCode": [
+          {
+            "text": "SpO2 93%. Salbutamol e corticoide oral 3 dias. Sem antibiótico."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "e317e0ac-b904-51f0-9705-ec25e5c59784"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cad3bc67-7a37-50aa-b74d-0b4d08ece7af",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Consulta MF: reforço do plano de ação"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2025-10-14"
+        },
+        "reasonCode": [
+          {
+            "text": "C-ACT 21. Revista a técnica inalatória. Proposto inalador conectado (contador de tomas)."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "cad3bc67-7a37-50aa-b74d-0b4d08ece7af"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0d64188b-4aa0-5d31-850c-f6889b62af2a",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Saúde infantil 6 anos + asma"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2026-03-10"
+        },
+        "reasonCode": [
+          {
+            "text": "C-ACT 22. Exame global de saúde antes da escola."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "0d64188b-4aa0-5d31-850c-f6889b62af2a"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0150a1d9-a8e3-5abd-b77e-e902ac93b99f",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "VR",
+          "display": "virtual"
+        },
+        "type": [
+          {
+            "text": "Contacto SNS 24"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2026-07-14"
+        },
+        "reasonCode": [
+          {
+            "text": "Tosse e pieira há 2 dias, 3.º dia de calor. Encaminhada para a urgência."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "0150a1d9-a8e3-5abd-b77e-e902ac93b99f"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:74b7252f-a56e-5c3e-a562-6f189d06e807",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "EMER",
+          "display": "emergency"
+        },
+        "type": [
+          {
+            "text": "Urgência: exacerbação (3.º dia de calor)"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2026-07-15"
+        },
+        "reasonCode": [
+          {
+            "text": "SpO2 94%, 37,9 °C. Leucócitos 11 800/µL, PCR 9 mg/L. RX de tórax sem condensação. Alta com broncodilatador, corticoide oral e amoxicilina «por precaução»."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "74b7252f-a56e-5c3e-a562-6f189d06e807"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e012b5fd-49ef-5afa-ab0d-bfd24217806a",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Consulta aberta USF (pós-urgência)"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2026-07-20"
+        },
+        "reasonCode": [
+          {
+            "text": "Melhorada. Toma do inalador nas últimas 4 semanas: 38% dos dias (inalador conectado)."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "e012b5fd-49ef-5afa-ab0d-bfd24217806a"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3a56c4b3-6a38-56f6-9b1d-e6466ac69d92",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "finished",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Consulta MF: asma não controlada"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2026-09-22"
+        },
+        "reasonCode": [
+          {
+            "text": "C-ACT 17, FEV1 82%. A mãe traz respostas do ChatGPT sobre o corticoide inalado."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "priority": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v3-ActPriority",
+              "code": "UR",
+              "display": "urgent"
+            }
+          ],
+          "text": "Requires clinical attention"
+        },
+        "id": "3a56c4b3-6a38-56f6-9b1d-e6466ac69d92"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9276f894-2b50-51b6-bf67-259b47fbcf68",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "planned",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Consulta de vigilância da asma (marcada)"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2026-11-17"
+        },
+        "reasonCode": [
+          {
+            "text": "Rever adesão, técnica inalatória e plano de ação para o verão."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "9276f894-2b50-51b6-bf67-259b47fbcf68"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c6aab605-4fb7-5fd1-9c67-d2743afd1169",
+      "resource": {
+        "resourceType": "Encounter",
+        "status": "planned",
+        "class": {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+          "code": "AMB",
+          "display": "ambulatory"
+        },
+        "type": [
+          {
+            "text": "Espirometria anual (pedida)"
+          }
+        ],
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "period": {
+          "start": "2027-04"
+        },
+        "reasonCode": [
+          {
+            "text": "Por marcar."
+          }
+        ],
+        "serviceProvider": {
+          "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+        },
+        "id": "c6aab605-4fb7-5fd1-9c67-d2743afd1169"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:433b631c-6431-55ff-8aa5-01d399bab3e0",
+      "resource": {
+        "resourceType": "Condition",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Condition-uv-ips"
+          ]
+        },
+        "clinicalStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+              "code": "active"
+            }
+          ]
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+              "code": "confirmed"
+            }
+          ]
+        },
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/condition-category",
+                "code": "problem-list-item"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "195967001",
+              "display": "Asthma"
+            },
+            {
+              "system": "http://hl7.org/fhir/sid/icpc-2",
+              "code": "R96",
+              "display": "Asma"
+            }
+          ],
+          "text": "Asma"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "onsetDateTime": "2023-05-10",
+        "encounter": {
+          "reference": "urn:uuid:bace7f26-fa10-5564-9af4-a42a14dc9686"
+        },
+        "note": [
+          {
+            "text": "Sibilância recorrente desde os 10 meses. C-ACT 17 em setembro de 2026 (não controlada)."
+          }
+        ],
+        "id": "433b631c-6431-55ff-8aa5-01d399bab3e0"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:338fe8bc-f6a7-5e03-9931-e6e3a9ba7e84",
+      "resource": {
+        "resourceType": "Condition",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Condition-uv-ips"
+          ]
+        },
+        "clinicalStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+              "code": "resolved"
+            }
+          ]
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+              "code": "confirmed"
+            }
+          ]
+        },
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/condition-category",
+                "code": "problem-list-item"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "4120002",
+              "display": "Bronchiolitis"
+            }
+          ],
+          "text": "Bronquiolite aguda"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "onsetDateTime": "2021-01-20",
+        "abatementDateTime": "2021-02-05",
+        "id": "338fe8bc-f6a7-5e03-9931-e6e3a9ba7e84"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e9452cb9-376a-5428-95f7-c6fa42fed370",
+      "resource": {
+        "resourceType": "AllergyIntolerance",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/AllergyIntolerance-uv-ips"
+          ]
+        },
+        "clinicalStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical",
+              "code": "active"
+            }
+          ]
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-verification",
+              "code": "confirmed"
+            }
+          ]
+        },
+        "type": "allergy",
+        "category": [
+          "environment"
+        ],
+        "criticality": "low",
+        "code": {
+          "text": "Ácaros do pó doméstico"
+        },
+        "patient": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "onsetDateTime": "2023-05-10",
+        "reaction": [
+          {
+            "manifestation": [
+              {
+                "text": "Sensibilização (IgE específica positiva); rinite e sibilância"
+              }
+            ]
+          }
+        ],
+        "note": [
+          {
+            "text": "IgE específica para ácaros positiva em 2023."
+          }
+        ],
+        "id": "e9452cb9-376a-5428-95f7-c6fa42fed370"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b9140f99-e97b-52fa-8890-f79bdb621f40",
+      "resource": {
+        "resourceType": "MedicationStatement",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/MedicationStatement-uv-ips"
+          ]
+        },
+        "status": "active",
+        "medicationCodeableConcept": {
+          "coding": [
+            {
+              "system": "http://www.whocc.no/atc",
+              "code": "R03AC02",
+              "display": "salbutamol"
+            }
+          ],
+          "text": "Salbutamol inalado (SOS)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectivePeriod": {
+          "start": "2022-02-08"
+        },
+        "dosage": [
+          {
+            "text": "2 inalações com câmara expansora, se pieira"
+          }
+        ],
+        "note": [
+          {
+            "text": "Com câmara expansora."
+          }
+        ],
+        "id": "b9140f99-e97b-52fa-8890-f79bdb621f40"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:38194a17-33d2-5d38-9603-949f6a433bd6",
+      "resource": {
+        "resourceType": "MedicationStatement",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/MedicationStatement-uv-ips"
+          ]
+        },
+        "status": "active",
+        "medicationCodeableConcept": {
+          "coding": [
+            {
+              "system": "http://www.whocc.no/atc",
+              "code": "R03BA02",
+              "display": "budesonide"
+            }
+          ],
+          "text": "Budesonida inalada (corticoide inalado diário)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectivePeriod": {
+          "start": "2023-05-10"
+        },
+        "dosage": [
+          {
+            "text": "200 µg 2×/dia com câmara expansora"
+          }
+        ],
+        "note": [
+          {
+            "text": "Prescrito pela médica de família; adesão irregular nos verões de 2024 e 2026."
+          }
+        ],
+        "id": "38194a17-33d2-5d38-9603-949f6a433bd6"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9acd9f33-762f-58ab-9897-46546402fcae",
+      "resource": {
+        "resourceType": "MedicationStatement",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/MedicationStatement-uv-ips"
+          ]
+        },
+        "status": "completed",
+        "medicationCodeableConcept": {
+          "coding": [
+            {
+              "system": "http://www.whocc.no/atc",
+              "code": "H02AB06",
+              "display": "prednisolone"
+            }
+          ],
+          "text": "Prednisolona oral (3 dias)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectivePeriod": {
+          "start": "2022-02-08",
+          "end": "2022-02-11"
+        },
+        "dosage": [
+          {
+            "text": "1 mg/kg/dia"
+          }
+        ],
+        "note": [
+          {
+            "text": "Episódio de sibilância viral."
+          }
+        ],
+        "id": "9acd9f33-762f-58ab-9897-46546402fcae"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:806a594e-c63d-5f82-913e-082dfc28c9b4",
+      "resource": {
+        "resourceType": "MedicationStatement",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/MedicationStatement-uv-ips"
+          ]
+        },
+        "status": "completed",
+        "medicationCodeableConcept": {
+          "coding": [
+            {
+              "system": "http://www.whocc.no/atc",
+              "code": "H02AB06",
+              "display": "prednisolone"
+            }
+          ],
+          "text": "Prednisolona oral (3 dias)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectivePeriod": {
+          "start": "2025-07-01",
+          "end": "2025-07-04"
+        },
+        "dosage": [
+          {
+            "text": "1 mg/kg/dia"
+          }
+        ],
+        "note": [
+          {
+            "text": "Exacerbação em onda de calor."
+          }
+        ],
+        "id": "806a594e-c63d-5f82-913e-082dfc28c9b4"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2a248176-3165-5f6d-adec-23510a33768f",
+      "resource": {
+        "resourceType": "MedicationStatement",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/MedicationStatement-uv-ips"
+          ]
+        },
+        "status": "completed",
+        "medicationCodeableConcept": {
+          "coding": [
+            {
+              "system": "http://www.whocc.no/atc",
+              "code": "H02AB06",
+              "display": "prednisolone"
+            }
+          ],
+          "text": "Prednisolona oral (3 dias)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectivePeriod": {
+          "start": "2026-07-15",
+          "end": "2026-07-18"
+        },
+        "dosage": [
+          {
+            "text": "1 mg/kg/dia"
+          }
+        ],
+        "note": [
+          {
+            "text": "Exacerbação em onda de calor."
+          }
+        ],
+        "id": "2a248176-3165-5f6d-adec-23510a33768f"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7a329ed0-a5cc-515a-891e-77c691744d6c",
+      "resource": {
+        "resourceType": "MedicationStatement",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/MedicationStatement-uv-ips"
+          ]
+        },
+        "status": "completed",
+        "medicationCodeableConcept": {
+          "coding": [
+            {
+              "system": "http://www.whocc.no/atc",
+              "code": "J01CA04",
+              "display": "amoxicillin"
+            }
+          ],
+          "text": "Amoxicilina (7 dias)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectivePeriod": {
+          "start": "2026-07-15",
+          "end": "2026-07-22"
+        },
+        "dosage": [
+          {
+            "text": "50 mg/kg/dia"
+          }
+        ],
+        "note": [
+          {
+            "text": "Prescrita «por precaução»; sem foco bacteriano documentado (RX sem condensação)."
+          }
+        ],
+        "id": "7a329ed0-a5cc-515a-891e-77c691744d6c"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:8fabd7e2-91d2-5412-be2d-4afc31cb579a",
+      "resource": {
+        "resourceType": "Immunization",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Immunization-uv-ips"
+          ]
+        },
+        "status": "completed",
+        "vaccineCode": {
+          "text": "Vacinas dos 2 meses (PNV)"
+        },
+        "patient": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "occurrenceDateTime": "2020-05-12",
+        "id": "8fabd7e2-91d2-5412-be2d-4afc31cb579a"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a9aa9994-97f1-5a6a-b611-4dcab6243af1",
+      "resource": {
+        "resourceType": "Immunization",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Immunization-uv-ips"
+          ]
+        },
+        "status": "completed",
+        "vaccineCode": {
+          "text": "Vacinas dos 12 meses (PNV)"
+        },
+        "patient": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "occurrenceDateTime": "2021-03-15",
+        "id": "a9aa9994-97f1-5a6a-b611-4dcab6243af1"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ca1294ee-2ddd-584d-93c1-12a7d9143e2a",
+      "resource": {
+        "resourceType": "Immunization",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Immunization-uv-ips"
+          ]
+        },
+        "status": "completed",
+        "vaccineCode": {
+          "text": "DTPaVIP — reforço dos 5 anos (PNV)"
+        },
+        "patient": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "occurrenceDateTime": "2025-03-18",
+        "id": "ca1294ee-2ddd-584d-93c1-12a7d9143e2a"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:71b190e4-d1ec-5ff9-bab8-a944bcddbdd9",
+      "resource": {
+        "resourceType": "Immunization",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Immunization-uv-ips"
+          ]
+        },
+        "status": "completed",
+        "vaccineCode": {
+          "text": "Gripe sazonal"
+        },
+        "patient": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "occurrenceDateTime": "2025-10-20",
+        "id": "71b190e4-d1ec-5ff9-bab8-a944bcddbdd9"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:78b0f956-c54b-5e31-9b8f-66e342d1dee4",
+      "resource": {
+        "resourceType": "DiagnosticReport",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/DiagnosticReport-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "text": "Função respiratória"
+          }
+        ],
+        "code": {
+          "text": "Espirometria (pedida pela MF)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2025-04-08",
+        "conclusion": "FEV1 84% do previsto; prova de broncodilatação positiva (+14%).",
+        "conclusionCode": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "263654008",
+                "display": "Abnormal"
+              }
+            ],
+            "text": "Alterado"
+          }
+        ],
+        "id": "78b0f956-c54b-5e31-9b8f-66e342d1dee4"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d4e5d55a-7494-513b-b29c-0f8a6f34759a",
+      "resource": {
+        "resourceType": "DiagnosticReport",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/DiagnosticReport-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "text": "Imagem"
+          }
+        ],
+        "code": {
+          "text": "Radiografia do tórax"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2026-07-15",
+        "conclusion": "Sem condensação.",
+        "id": "d4e5d55a-7494-513b-b29c-0f8a6f34759a"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e54dadc1-909f-5360-98e2-b3936d874e47",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-laboratory-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "711-2",
+              "display": "Eosinófilos"
+            }
+          ],
+          "text": "Eosinófilos"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2023-05-10",
+        "valueQuantity": {
+          "value": 620,
+          "unit": "/µL",
+          "system": "http://unitsofmeasure.org",
+          "code": "/uL"
+        },
+        "interpretation": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+                "code": "H",
+                "display": "High"
+              }
+            ]
+          }
+        ],
+        "performer": [
+          {
+            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          }
+        ],
+        "referenceRange": [
+          {
+            "high": {
+              "value": 500,
+              "unit": "/µL",
+              "system": "http://unitsofmeasure.org",
+              "code": "/uL"
+            }
+          }
+        ],
+        "id": "e54dadc1-909f-5360-98e2-b3936d874e47"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:17b04e0d-4606-5810-8b38-85a96efcd183",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-laboratory-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "711-2",
+              "display": "Eosinófilos"
+            }
+          ],
+          "text": "Eosinófilos"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2025-04-08",
+        "valueQuantity": {
+          "value": 480,
+          "unit": "/µL",
+          "system": "http://unitsofmeasure.org",
+          "code": "/uL"
+        },
+        "interpretation": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+                "code": "N",
+                "display": "Normal"
+              }
+            ]
+          }
+        ],
+        "performer": [
+          {
+            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          }
+        ],
+        "referenceRange": [
+          {
+            "high": {
+              "value": 500,
+              "unit": "/µL",
+              "system": "http://unitsofmeasure.org",
+              "code": "/uL"
+            }
+          }
+        ],
+        "id": "17b04e0d-4606-5810-8b38-85a96efcd183"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:47f34401-2e18-5d5a-b903-cb9b6d371c51",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-laboratory-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "711-2",
+              "display": "Eosinófilos"
+            }
+          ],
+          "text": "Eosinófilos"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2026-07-15",
+        "valueQuantity": {
+          "value": 410,
+          "unit": "/µL",
+          "system": "http://unitsofmeasure.org",
+          "code": "/uL"
+        },
+        "interpretation": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+                "code": "N",
+                "display": "Normal"
+              }
+            ]
+          }
+        ],
+        "performer": [
+          {
+            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          }
+        ],
+        "referenceRange": [
+          {
+            "high": {
+              "value": 500,
+              "unit": "/µL",
+              "system": "http://unitsofmeasure.org",
+              "code": "/uL"
+            }
+          }
+        ],
+        "id": "47f34401-2e18-5d5a-b903-cb9b6d371c51"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:00c773f4-91b2-55e8-9d18-17fb7c5dbda7",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-laboratory-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "19113-0",
+              "display": "IgE total"
+            }
+          ],
+          "text": "IgE total"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2023-05-10",
+        "valueQuantity": {
+          "value": 410,
+          "unit": "kU/L",
+          "system": "http://unitsofmeasure.org",
+          "code": "k[IU]/L"
+        },
+        "interpretation": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+                "code": "H",
+                "display": "High"
+              }
+            ]
+          }
+        ],
+        "performer": [
+          {
+            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          }
+        ],
+        "referenceRange": [
+          {
+            "high": {
+              "value": 100,
+              "unit": "kU/L",
+              "system": "http://unitsofmeasure.org",
+              "code": "k[IU]/L"
+            }
+          }
+        ],
+        "id": "00c773f4-91b2-55e8-9d18-17fb7c5dbda7"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:887720be-a37e-5c3f-8d57-8c929a14ad8b",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-laboratory-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "19113-0",
+              "display": "IgE total"
+            }
+          ],
+          "text": "IgE total"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2025-04-08",
+        "valueQuantity": {
+          "value": 520,
+          "unit": "kU/L",
+          "system": "http://unitsofmeasure.org",
+          "code": "k[IU]/L"
+        },
+        "interpretation": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+                "code": "H",
+                "display": "High"
+              }
+            ]
+          }
+        ],
+        "performer": [
+          {
+            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          }
+        ],
+        "referenceRange": [
+          {
+            "high": {
+              "value": 100,
+              "unit": "kU/L",
+              "system": "http://unitsofmeasure.org",
+              "code": "k[IU]/L"
+            }
+          }
+        ],
+        "note": [
+          {
+            "text": "Referência dependente da idade; IgE específica para ácaros positiva em 2023."
+          }
+        ],
+        "id": "887720be-a37e-5c3f-8d57-8c929a14ad8b"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:38e35a01-a8d5-5179-ba2d-96badf56453f",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-laboratory-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "6690-2",
+              "display": "Leucócitos"
+            }
+          ],
+          "text": "Leucócitos"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2026-07-15",
+        "valueQuantity": {
+          "value": 11800,
+          "unit": "/µL",
+          "system": "http://unitsofmeasure.org",
+          "code": "/uL"
+        },
+        "interpretation": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+                "code": "N",
+                "display": "Normal"
+              }
+            ]
+          }
+        ],
+        "performer": [
+          {
+            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          }
+        ],
+        "referenceRange": [
+          {
+            "low": {
+              "value": 5000,
+              "unit": "/µL",
+              "system": "http://unitsofmeasure.org",
+              "code": "/uL"
+            },
+            "high": {
+              "value": 15000,
+              "unit": "/µL",
+              "system": "http://unitsofmeasure.org",
+              "code": "/uL"
+            }
+          }
+        ],
+        "id": "38e35a01-a8d5-5179-ba2d-96badf56453f"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:245689e0-5910-5771-9281-ed138af6eec7",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-laboratory-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "laboratory",
+                "display": "Laboratory"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "1988-5",
+              "display": "Proteína C reativa"
+            }
+          ],
+          "text": "Proteína C reativa"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2026-07-15",
+        "valueQuantity": {
+          "value": 9,
+          "unit": "mg/L",
+          "system": "http://unitsofmeasure.org",
+          "code": "mg/L"
+        },
+        "interpretation": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+                "code": "H",
+                "display": "High"
+              }
+            ]
+          }
+        ],
+        "performer": [
+          {
+            "reference": "urn:uuid:3dbd1523-85f9-5014-bc89-850ff6bc14b2"
+          }
+        ],
+        "referenceRange": [
+          {
+            "high": {
+              "value": 5,
+              "unit": "mg/L",
+              "system": "http://unitsofmeasure.org",
+              "code": "mg/L"
+            }
+          }
+        ],
+        "id": "245689e0-5910-5771-9281-ed138af6eec7"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d5d87479-7281-5b38-9627-2b48427eabcf",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "59408-5",
+              "display": "SpO2 na admissão"
+            }
+          ],
+          "text": "SpO2 na admissão"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 95,
+          "unit": "%",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2021-01-20",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 95,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "d5d87479-7281-5b38-9627-2b48427eabcf"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f7683ff1-64fa-542f-b796-7b98bbeaa7b2",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "59408-5",
+              "display": "SpO2 na admissão"
+            }
+          ],
+          "text": "SpO2 na admissão"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 96,
+          "unit": "%",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2022-02-08",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 95,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "f7683ff1-64fa-542f-b796-7b98bbeaa7b2"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4fe19e1f-1c2a-5f7a-8ef4-99432ec2c053",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "59408-5",
+              "display": "SpO2 na admissão"
+            }
+          ],
+          "text": "SpO2 na admissão"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 95,
+          "unit": "%",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2022-11-15",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 95,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "4fe19e1f-1c2a-5f7a-8ef4-99432ec2c053"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c9423916-df27-5a50-934c-b41e068fb197",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "59408-5",
+              "display": "SpO2 na admissão"
+            }
+          ],
+          "text": "SpO2 na admissão"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 93,
+          "unit": "%",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2025-07-01",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 95,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "c9423916-df27-5a50-934c-b41e068fb197"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1a9ea46a-f920-5964-b4ad-2cf3bbd5fada",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "59408-5",
+              "display": "SpO2 na admissão"
+            }
+          ],
+          "text": "SpO2 na admissão"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 94,
+          "unit": "%",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-07-15",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 95,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "note": [
+          {
+            "text": "Medida apenas nos episódios agudos (urgência)."
+          }
+        ],
+        "id": "1a9ea46a-f920-5964-b4ad-2cf3bbd5fada"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:22efc3d7-fbab-5705-bcbb-7941fb7319d0",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "c-act",
+              "display": "C-ACT (controlo da asma)"
+            }
+          ],
+          "text": "C-ACT (controlo da asma)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 22,
+          "unit": "pontos (0–27)",
+          "system": "http://unitsofmeasure.org",
+          "code": "{score}"
+        },
+        "effectiveDateTime": "2024-02-20",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 20,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            },
+            "high": {
+              "value": 27,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            }
+          }
+        ],
+        "id": "22efc3d7-fbab-5705-bcbb-7941fb7319d0"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3b09184b-35a9-53d7-8889-9106089efdd7",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "c-act",
+              "display": "C-ACT (controlo da asma)"
+            }
+          ],
+          "text": "C-ACT (controlo da asma)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 19,
+          "unit": "pontos (0–27)",
+          "system": "http://unitsofmeasure.org",
+          "code": "{score}"
+        },
+        "effectiveDateTime": "2024-10-15",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 20,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            },
+            "high": {
+              "value": 27,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            }
+          }
+        ],
+        "id": "3b09184b-35a9-53d7-8889-9106089efdd7"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0f049022-0bd3-50cf-9e78-5e0b9bc81a4e",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "c-act",
+              "display": "C-ACT (controlo da asma)"
+            }
+          ],
+          "text": "C-ACT (controlo da asma)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 18,
+          "unit": "pontos (0–27)",
+          "system": "http://unitsofmeasure.org",
+          "code": "{score}"
+        },
+        "effectiveDateTime": "2025-04-08",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 20,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            },
+            "high": {
+              "value": 27,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            }
+          }
+        ],
+        "id": "0f049022-0bd3-50cf-9e78-5e0b9bc81a4e"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e0c7d7b1-aa7c-55b0-a3ed-93be0ae914a8",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "c-act",
+              "display": "C-ACT (controlo da asma)"
+            }
+          ],
+          "text": "C-ACT (controlo da asma)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 21,
+          "unit": "pontos (0–27)",
+          "system": "http://unitsofmeasure.org",
+          "code": "{score}"
+        },
+        "effectiveDateTime": "2025-10-14",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 20,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            },
+            "high": {
+              "value": 27,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            }
+          }
+        ],
+        "id": "e0c7d7b1-aa7c-55b0-a3ed-93be0ae914a8"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0e597f2c-12b8-57b2-b9c5-cdc12feb835a",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "c-act",
+              "display": "C-ACT (controlo da asma)"
+            }
+          ],
+          "text": "C-ACT (controlo da asma)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 22,
+          "unit": "pontos (0–27)",
+          "system": "http://unitsofmeasure.org",
+          "code": "{score}"
+        },
+        "effectiveDateTime": "2026-03-10",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 20,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            },
+            "high": {
+              "value": 27,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            }
+          }
+        ],
+        "id": "0e597f2c-12b8-57b2-b9c5-cdc12feb835a"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cb335a28-76e6-5762-bdf8-2f875db3499f",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "c-act",
+              "display": "C-ACT (controlo da asma)"
+            }
+          ],
+          "text": "C-ACT (controlo da asma)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 17,
+          "unit": "pontos (0–27)",
+          "system": "http://unitsofmeasure.org",
+          "code": "{score}"
+        },
+        "effectiveDateTime": "2026-09-22",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 20,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            },
+            "high": {
+              "value": 27,
+              "unit": "pontos (0–27)",
+              "system": "http://unitsofmeasure.org",
+              "code": "{score}"
+            }
+          }
+        ],
+        "note": [
+          {
+            "text": "Childhood Asthma Control Test: 20 ou mais = asma controlada."
+          }
+        ],
+        "id": "cb335a28-76e6-5762-bdf8-2f875db3499f"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d88ddc6a-a5b4-599a-9c8d-1904c574420c",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "exam"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "fev1-pct-pred",
+              "display": "FEV1 (% do previsto)"
+            }
+          ],
+          "text": "FEV1 (% do previsto)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 84,
+          "unit": "%",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2025-04-08",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "d88ddc6a-a5b4-599a-9c8d-1904c574420c"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d502c742-8388-5cea-9dff-96a88349251d",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "exam"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "fev1-pct-pred",
+              "display": "FEV1 (% do previsto)"
+            }
+          ],
+          "text": "FEV1 (% do previsto)"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 82,
+          "unit": "%",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-09-22",
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "%",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "d502c742-8388-5cea-9dff-96a88349251d"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7ab65d5b-8c08-55b5-a766-96d60ba6c9d0",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "29463-7",
+              "display": "Peso"
+            }
+          ],
+          "text": "Peso"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 3.2,
+          "unit": "kg",
+          "system": "http://unitsofmeasure.org",
+          "code": "kg"
+        },
+        "effectiveDateTime": "2020-03",
+        "id": "7ab65d5b-8c08-55b5-a766-96d60ba6c9d0"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:684bdff7-17e6-58bd-87ad-72787de72014",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "29463-7",
+              "display": "Peso"
+            }
+          ],
+          "text": "Peso"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 7.6,
+          "unit": "kg",
+          "system": "http://unitsofmeasure.org",
+          "code": "kg"
+        },
+        "effectiveDateTime": "2020-09",
+        "id": "684bdff7-17e6-58bd-87ad-72787de72014"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:dfd26370-c90f-5067-bcce-83adc1512e39",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "29463-7",
+              "display": "Peso"
+            }
+          ],
+          "text": "Peso"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 9.6,
+          "unit": "kg",
+          "system": "http://unitsofmeasure.org",
+          "code": "kg"
+        },
+        "effectiveDateTime": "2021-03",
+        "id": "dfd26370-c90f-5067-bcce-83adc1512e39"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e60b200d-2626-5667-b1e6-05d60276bc90",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "29463-7",
+              "display": "Peso"
+            }
+          ],
+          "text": "Peso"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 12.3,
+          "unit": "kg",
+          "system": "http://unitsofmeasure.org",
+          "code": "kg"
+        },
+        "effectiveDateTime": "2022-03",
+        "id": "e60b200d-2626-5667-b1e6-05d60276bc90"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d749f2b5-3e4d-567b-81c2-3689b76ba145",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "29463-7",
+              "display": "Peso"
+            }
+          ],
+          "text": "Peso"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 14.5,
+          "unit": "kg",
+          "system": "http://unitsofmeasure.org",
+          "code": "kg"
+        },
+        "effectiveDateTime": "2023-03",
+        "id": "d749f2b5-3e4d-567b-81c2-3689b76ba145"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:242d5900-eb36-5270-b395-dca2607c152a",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "29463-7",
+              "display": "Peso"
+            }
+          ],
+          "text": "Peso"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 16.6,
+          "unit": "kg",
+          "system": "http://unitsofmeasure.org",
+          "code": "kg"
+        },
+        "effectiveDateTime": "2024-03",
+        "id": "242d5900-eb36-5270-b395-dca2607c152a"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1dd4987b-a5bb-589a-b3d4-5397e93af20a",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "29463-7",
+              "display": "Peso"
+            }
+          ],
+          "text": "Peso"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 19.1,
+          "unit": "kg",
+          "system": "http://unitsofmeasure.org",
+          "code": "kg"
+        },
+        "effectiveDateTime": "2025-03",
+        "id": "1dd4987b-a5bb-589a-b3d4-5397e93af20a"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c5511c57-7f90-5233-bcbb-526d40d6e87f",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-vital-signs-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "vital-signs"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "29463-7",
+              "display": "Peso"
+            }
+          ],
+          "text": "Peso"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 21.0,
+          "unit": "kg",
+          "system": "http://unitsofmeasure.org",
+          "code": "kg"
+        },
+        "effectiveDateTime": "2026-07",
+        "id": "c5511c57-7f90-5233-bcbb-526d40d6e87f"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6aee7c1f-11fd-5f01-8125-1c911237efb5",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 92,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2025-10",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "6aee7c1f-11fd-5f01-8125-1c911237efb5"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:8683c712-b50b-5d64-8dd1-6ba47c7a3032",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 90,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2025-11",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "8683c712-b50b-5d64-8dd1-6ba47c7a3032"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:06b13844-089f-5777-918e-7b35e3761614",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 88,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2025-12",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "06b13844-089f-5777-918e-7b35e3761614"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fb715b4f-90ad-51d7-89cb-744812bb89b0",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 91,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-01",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "fb715b4f-90ad-51d7-89cb-744812bb89b0"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:302371c5-71ad-5493-b902-bfbc9ac62df7",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 89,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-02",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "302371c5-71ad-5493-b902-bfbc9ac62df7"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:5c4548c8-05f1-5442-80c1-5c4f350e4cc7",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 93,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-03",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "5c4548c8-05f1-5442-80c1-5c4f350e4cc7"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c20e3f46-afbf-5d50-a83c-0c36180d5ebb",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 86,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-04",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "c20e3f46-afbf-5d50-a83c-0c36180d5ebb"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0bcbaad5-83da-53cf-a858-15a2318cdf66",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 78,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-05",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "0bcbaad5-83da-53cf-a858-15a2318cdf66"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:aa4656ac-0480-5a52-a114-3f9364c9fee8",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 55,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-06",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "aa4656ac-0480-5a52-a114-3f9364c9fee8"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1ce881f3-20c7-5d1f-b17b-b6c56e8f61ce",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 38,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-07",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "1ce881f3-20c7-5d1f-b17b-b6c56e8f61ce"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:601719c0-2e6a-5fd9-97e4-36265d0598e2",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 41,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-08",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "601719c0-2e6a-5fd9-97e4-36265d0598e2"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:03b57af0-a80e-55f9-8f8d-b28de2c522fa",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 62,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-09",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "id": "03b57af0-a80e-55f9-8f8d-b28de2c522fa"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cb370a4c-bea5-5c54-af3a-a382a44d332c",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "inhaler-adherence",
+              "display": "Toma do corticoide inalado"
+            }
+          ],
+          "text": "Toma do corticoide inalado"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 74,
+          "unit": "% de dias com toma",
+          "system": "http://unitsofmeasure.org",
+          "code": "%"
+        },
+        "effectiveDateTime": "2026-10",
+        "device": {
+          "display": "Contador de tomas conectado (app dos pais)"
+        },
+        "referenceRange": [
+          {
+            "low": {
+              "value": 80,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            },
+            "high": {
+              "value": 100,
+              "unit": "% de dias com toma",
+              "system": "http://unitsofmeasure.org",
+              "code": "%"
+            }
+          }
+        ],
+        "note": [
+          {
+            "text": "Dados ilustrativos de um contador de tomas ligado à app dos pais. Começou em outubro de 2025."
+          }
+        ],
+        "id": "cb370a4c-bea5-5c54-af3a-a382a44d332c"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:67705433-5c4c-5de2-9484-0568fd3a3526",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 1,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2025-10",
+          "end": "2025-10-31"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "67705433-5c4c-5de2-9484-0568fd3a3526"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e641d9f6-9c20-514a-9d3d-9e29c58d8d47",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 2,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2025-11",
+          "end": "2025-11-30"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "e641d9f6-9c20-514a-9d3d-9e29c58d8d47"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:878d2266-b64f-53d8-92a5-88b2fa4d72ee",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 3,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2025-12",
+          "end": "2025-12-31"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "878d2266-b64f-53d8-92a5-88b2fa4d72ee"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6d907f07-fa30-5108-bbf2-a2484b1bac7e",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 2,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-01",
+          "end": "2026-01-31"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "6d907f07-fa30-5108-bbf2-a2484b1bac7e"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3fdf6c89-11c4-578c-be29-b92e2b4495f5",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 2,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-02",
+          "end": "2026-02-28"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "3fdf6c89-11c4-578c-be29-b92e2b4495f5"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9ce46b18-ff98-5974-8756-815264f5da09",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 1,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-03",
+          "end": "2026-03-31"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "9ce46b18-ff98-5974-8756-815264f5da09"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:04ad61a9-64b6-5825-afa2-67d920ffb4de",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 1,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-04",
+          "end": "2026-04-30"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "04ad61a9-64b6-5825-afa2-67d920ffb4de"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:28ad0ccb-99cd-5761-8b04-e817fca28ab7",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 2,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-05",
+          "end": "2026-05-31"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "28ad0ccb-99cd-5761-8b04-e817fca28ab7"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cc173d13-cc2a-5113-9998-3d86e0c04573",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 4,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-06",
+          "end": "2026-06-30"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "cc173d13-cc2a-5113-9998-3d86e0c04573"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:70183059-1240-5c97-af36-9b31582951a1",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 9,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-07",
+          "end": "2026-07-31"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "70183059-1240-5c97-af36-9b31582951a1"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b6ba8eba-c671-5404-9853-b2a04e245ee7",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 6,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-08",
+          "end": "2026-08-31"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "b6ba8eba-c671-5404-9853-b2a04e245ee7"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1d022397-f0de-584d-92bc-0d312accb051",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 5,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-09",
+          "end": "2026-09-30"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "id": "1d022397-f0de-584d-92bc-0d312accb051"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0f16d1df-6506-554c-b11a-e9c9e62c61de",
+      "resource": {
+        "resourceType": "Observation",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-uv-ips"
+          ]
+        },
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "survey"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "cough-nights",
+              "display": "Noites com tosse"
+            }
+          ],
+          "text": "Noites com tosse"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "valueQuantity": {
+          "value": 3,
+          "unit": "noites por mês",
+          "system": "http://unitsofmeasure.org",
+          "code": "{nights}/mo"
+        },
+        "effectivePeriod": {
+          "start": "2026-10",
+          "end": "2026-10-31"
+        },
+        "device": {
+          "display": "Diário dos pais na app"
+        },
+        "note": [
+          {
+            "text": "Registo dos pais na app. Valores ilustrativos."
+          }
+        ],
+        "id": "0f16d1df-6506-554c-b11a-e9c9e62c61de"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d03e40f0-b883-5448-bf3b-4253941d4dbb",
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-uv-ips"
+          ]
+        },
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "social-history"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "life-period",
+              "display": "Período de vida"
+            }
+          ],
+          "text": "Período de vida"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectivePeriod": {
+          "start": "2025-06-28",
+          "end": "2025-07-03"
+        },
+        "valueString": "Onda de calor com aviso de ozono",
+        "note": [
+          {
+            "text": "Coincide com a urgência de 1 de julho de 2025."
+          }
+        ],
+        "id": "d03e40f0-b883-5448-bf3b-4253941d4dbb"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:78048f27-2476-5a97-9082-fd56f885557d",
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-uv-ips"
+          ]
+        },
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "social-history"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "life-period",
+              "display": "Período de vida"
+            }
+          ],
+          "text": "Período de vida"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectivePeriod": {
+          "start": "2026-07-12",
+          "end": "2026-07-17"
+        },
+        "valueString": "Onda de calor com aviso de ozono",
+        "note": [
+          {
+            "text": "Coincide com a urgência de 15 de julho de 2026."
+          }
+        ],
+        "id": "78048f27-2476-5a97-9082-fd56f885557d"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:062a3169-5028-5499-b244-c6d931e28273",
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-uv-ips"
+          ]
+        },
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "social-history"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "life-event",
+              "display": "Acontecimento de vida"
+            }
+          ],
+          "text": "Acontecimento de vida"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2023-09-12",
+        "valueString": "Entrada no jardim de infância",
+        "note": [
+          {
+            "text": "Mais infeções virais no primeiro inverno."
+          }
+        ],
+        "id": "062a3169-5028-5499-b244-c6d931e28273"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:8379ca09-b2cc-5107-bcdf-8f677043b033",
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-uv-ips"
+          ]
+        },
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "social-history"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "life-event",
+              "display": "Acontecimento de vida"
+            }
+          ],
+          "text": "Acontecimento de vida"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2024-05-20",
+        "valueString": "Nascimento do irmão",
+        "note": [
+          {
+            "text": "Sem alteração visível no controlo da asma."
+          }
+        ],
+        "id": "8379ca09-b2cc-5107-bcdf-8f677043b033"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b09ee667-b57a-5f80-a06b-933afa2f794c",
+      "resource": {
+        "resourceType": "Observation",
+        "status": "final",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-uv-ips"
+          ]
+        },
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "social-history"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "https://ricardojccorreia.github.io/ips-timeline/CodeSystem/virtual-patient-measures",
+              "code": "life-event",
+              "display": "Acontecimento de vida"
+            }
+          ],
+          "text": "Acontecimento de vida"
+        },
+        "subject": {
+          "reference": "urn:uuid:4c53caaf-21e6-584b-babe-a1d8e7d5915e"
+        },
+        "effectiveDateTime": "2026-09-14",
+        "valueString": "Início do 1.º ano",
+        "note": [
+          {
+            "text": "Escola nova, perto de uma via com muito trânsito."
+          }
+        ],
+        "id": "b09ee667-b57a-5f80-a06b-933afa2f794c"
+      }
+    }
+  ]
+}

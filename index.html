@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Virtual patients · IPS → timeline</title>
+<meta name="description" content="Virtual patients stored as HL7 FHIR International Patient Summaries, shown as human-readable summaries and interactive health timelines. A resource of the Advanced GenAI course for health professionals.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2314304A'/%3E%3Cpath d='M5 16h22M10 11v10M16 8v16M22 12v8' stroke='white' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
+</head>
+<body>
+<div class="top"><div class="wrap top-in">
+  <a class="brand" href="./"><span class="dot">IPS</span><span class="t" data-t="brand">Virtual patients · IPS → timeline</span></a>
+  <div class="lang" role="group" aria-label="Language"><button data-lang="en" aria-pressed="true">EN</button><button data-lang="pt" aria-pressed="false">PT</button></div>
+</div></div>
+
+<main class="wrap">
+  <section class="hero">
+    <div class="eyebrow" data-t="eyebrow"></div>
+    <h1 data-t="h1"></h1>
+    <p class="lead" data-t="lead"></p>
+    <div class="pipeline" aria-hidden="true">
+      <div class="step"><b data-t="s1"></b><span data-t="s1d"></span></div><div class="arrow">→</div>
+      <div class="step"><b data-t="s2"></b><span data-t="s2d"></span></div><div class="arrow">→</div>
+      <div class="step"><b data-t="s3"></b><span data-t="s3d"></span></div>
+    </div>
+  </section>
+
+  <h2 class="sec" data-t="choose"></h2>
+  <div class="grid" id="patients"><p class="muted" data-t="loading"></p></div>
+
+  <h2 class="sec" data-t="learnH"></h2>
+  <div class="learn">
+    <div><b data-t="l1"></b><span data-t="l1d"></span></div>
+    <div><b data-t="l2"></b><span data-t="l2d"></span></div>
+    <div><b data-t="l3"></b><span data-t="l3d"></span></div>
+    <div><b data-t="l4"></b><span data-t="l4d"></span></div>
+  </div>
+
+  <footer class="site">
+    <p data-t="foot1"></p>
+    <p><span data-t="foot2"></span> · <a href="https://github.com/ricardojccorreia/ips-timeline">GitHub</a> · <a href="https://ciencia-letras.github.io">Ciência e Letras</a></p>
+  </footer>
+</main>
+
+<script src="assets/app.js"></script>
+<script>
+(function () {
+  const { t, esc, I, lang } = APP;
+  let list = [];
+  function render() {
+    const L = lang();
+    document.getElementById("patients").innerHTML = list.map(p => {
+      const c = p.card[L] || p.card.en;
+      return `<article class="card" style="--acc:var(--c-${esc(p.accent)})">
+        <div><h3>${esc(p.name)}</h3><div class="who">${p.age} ${t("years")} · ${t(p.gender)}</div></div>
+        <p>${esc(c.summary)}</p>
+        <div class="tags">${c.tags.map(x => `<span class="tag">${esc(x)}</span>`).join("")}</div>
+        <div class="actions">
+          <a class="btn primary" href="patient.html?id=${encodeURIComponent(p.id)}#timeline">${I.tl}${t("open")}</a>
+          <a class="btn" href="patient.html?id=${encodeURIComponent(p.id)}#summary">${I.doc}${t("summary")}</a>
+          <a class="btn" href="${esc(p.ips)}" download="${esc(p.id)}-ips.json" aria-label="${t("download")}: ${esc(p.name)}">${I.dl}IPS</a>
+        </div></article>`;
+    }).join("");
+  }
+  fetch("patients/index.json").then(r => r.json()).then(d => { list = d; render(); })
+    .catch(() => { document.getElementById("patients").innerHTML = `<p class="flag">${t("err")}</p>`; });
+  document.addEventListener("langchange", render);
+})();
+</script>
+</body>
+</html>
