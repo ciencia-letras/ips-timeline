@@ -8,7 +8,7 @@ window.CEL_TOOL = {
   version: "1.0.0",
   year: 2026,
   released: "2026-11-12",
-  authors: [{ given: "Ricardo", family: "Correia", affiliation: "Ciência e Letras — Formação Especializada, Lda." }],
+  authors: [{ given: "Ricardo", family: "Correia", affiliation: "Ciência e Letras — Formação Especializada, Lda.", orcid: "0000-0002-3764-5158" }],
   copyright: "Ciência e Letras — Formação Especializada, Lda.",   // rights holder · titular dos direitos
   publisher: "Ciência e Letras",
   place: "Porto",

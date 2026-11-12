@@ -85,7 +85,7 @@
   function aside() {
     const L = lang(), t = T[L], el = document.getElementById("cel-aside");
     if (!el) return;
-    const authors = C.authors.map(a => `${esc(a.given)} ${esc(a.family)}`).join(", ");
+    const authors = C.authors.map(a => `${esc(a.given)} ${esc(a.family)}` + (a.orcid ? ` <a class="cel-orcid" href="https://orcid.org/${esc(a.orcid)}" title="ORCID ${esc(a.orcid)}" aria-label="ORCID ${esc(a.orcid)}">iD</a>` : "")).join(", ");
     el.classList.add("cel-chrome", "cel-aside");
     el.setAttribute("aria-label", t.side);
     el.innerHTML = `<div class="cel-aside-head"><span>${esc(t.side)}</span>

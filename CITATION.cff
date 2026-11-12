@@ -11,6 +11,7 @@ abstract: >-
 authors:
   - given-names: Ricardo
     family-names: Correia
+    orcid: "https://orcid.org/0000-0002-3764-5158"
     affiliation: "Ciência e Letras — Formação Especializada, Lda."
 version: 1.0.0
 date-released: 2026-11-12
