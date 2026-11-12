@@ -15,7 +15,7 @@
       lText: "Any institution may use, adapt and share this tool, including in teaching and training, as long as it cites it as shown below.",
       code: "Code", content: "Content and fictitious data",
       howTitle: "How to cite", copy: "Copy", copied: "Copied",
-      doiTitle: "Persistent identifier", doiPending: "DOI on Zenodo: being prepared. Until then, cite the URL.",
+      doiTitle: "Persistent identifier", doiPending: "DOI on Zenodo: being prepared. Until then, cite the URL.", allVersions: "All versions (Zenodo)",
       linksTitle: "Links", src: "Source code (GitHub)", cff: "Citation file (CITATION.cff)", lic: "Licence", labLink: "All lab resources",
       note: "Made for the course", disclaimer: "Fictitious data, for teaching. Not for clinical use.",
       computer: "Computer software", accessed: "cited", available: "Available from",
@@ -27,7 +27,7 @@
       lText: "Qualquer instituição pode usar, adaptar e partilhar esta ferramenta, incluindo em ensino e formação, desde que a cite como indicado abaixo.",
       code: "Código", content: "Conteúdos e dados fictícios",
       howTitle: "Como citar", copy: "Copiar", copied: "Copiado",
-      doiTitle: "Identificador persistente", doiPending: "DOI no Zenodo: em preparação. Até lá, cite o URL.",
+      doiTitle: "Identificador persistente", doiPending: "DOI no Zenodo: em preparação. Até lá, cite o URL.", allVersions: "Todas as versões (Zenodo)",
       linksTitle: "Ligações", src: "Código-fonte (GitHub)", cff: "Ficheiro de citação (CITATION.cff)", lic: "Licença", labLink: "Todos os recursos do laboratório",
       note: "Criado para o curso", disclaimer: "Dados fictícios, para formação. Não usar em contexto clínico.",
       computer: "Software", accessed: "citado em", available: "Disponível em",
@@ -103,7 +103,7 @@
         <div class="cel-cite${fmt === "bibtex" ? " mono" : ""}" id="cel-cite">${esc(cite(fmt, L))}</div>
         <button class="cel-copy" type="button" data-cel-copy>${IC.copy}<span>${esc(t.copy)}</span></button>
         <h2>${esc(t.doiTitle)}</h2>
-        <p>${C.doi ? `<a class="cel-doi" href="https://doi.org/${esc(C.doi)}"><b>DOI</b><span>${esc(C.doi)}</span></a>` : esc(t.doiPending)}</p>
+        <p>${C.doi ? `<a class="cel-doi" href="https://doi.org/${esc(C.doi)}"><b>DOI</b><span>${esc(C.doi)}</span></a>` : esc(t.doiPending)}</p>${C.conceptDoi ? `<p class="cel-small">${esc(t.allVersions)}: <a href="https://doi.org/${esc(C.conceptDoi)}">${esc(C.conceptDoi)}</a></p>` : ""}
         <h2>${esc(t.linksTitle)}</h2>
         <ul class="cel-links">
           <li><a href="${esc(C.repo)}">${IC.gh}${esc(t.src)}</a></li>

@@ -14,7 +14,8 @@ window.CEL_TOOL = {
   place: "Porto",
   url: "https://ciencia-letras.github.io/ips-timeline/",
   repo: "https://github.com/ciencia-letras/ips-timeline",
-  doi: null,                    // e.g. "10.5281/zenodo.1234567"
+  doi: "10.5281/zenodo.24168811",          // this version (v1.0.0) · esta versão
+  conceptDoi: "10.5281/zenodo.24168810",   // all versions, always the latest · todas as versões
   lab: { en: "https://ciencia-letras.github.io/#resources", pt: "https://ciencia-letras.github.io/pt/#resources" },
   course: { en: "Advanced GenAI for Health Professionals", pt: "GenAI para Profissionais de Saúde — Avançado" },
   licences: { code: "MIT", content: "CC BY 4.0" },

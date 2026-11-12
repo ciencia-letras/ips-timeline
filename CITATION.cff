@@ -15,7 +15,15 @@ authors:
     affiliation: "Ciência e Letras — Formação Especializada, Lda."
 version: 1.0.0
 date-released: 2026-11-12
+doi: 10.5281/zenodo.24168811
 url: "https://ciencia-letras.github.io/ips-timeline/"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24168811
+    description: "This version (v1.0.0)"
+  - type: doi
+    value: 10.5281/zenodo.24168810
+    description: "All versions"
 repository-code: "https://github.com/ciencia-letras/ips-timeline"
 license:
   - MIT

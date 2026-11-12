@@ -1,5 +1,7 @@
 # Virtual patients · IPS → timeline
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24168811.svg)](https://doi.org/10.5281/zenodo.24168811)
+
 **[English](#english)** · **[Português](#português)**
 
 Live: **https://ciencia-letras.github.io/ips-timeline/**
@@ -49,9 +51,9 @@ python3 -m http.server 8000
 
 Any institution may use, adapt and share this tool, including in teaching and training, **as long as it cites it**. Code: MIT ([LICENSE](LICENSE)). Content and fictitious patient data: CC BY 4.0 ([LICENSE-CONTENT](LICENSE-CONTENT)).
 
-> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://ciencia-letras.github.io/ips-timeline/
+> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://doi.org/10.5281/zenodo.24168811
 
-GitHub's “Cite this repository” button (from [CITATION.cff](CITATION.cff)) gives APA and BibTeX. A Zenodo DOI will be added with the first release.
+GitHub's “Cite this repository” button (from [CITATION.cff](CITATION.cff)) gives APA and BibTeX. Archived on Zenodo: version DOI [10.5281/zenodo.24168811](https://doi.org/10.5281/zenodo.24168811), all versions [10.5281/zenodo.24168810](https://doi.org/10.5281/zenodo.24168810), in the [Ciência e Letras community](https://zenodo.org/communities/ciencia-letras).
 
 ### Reusing the header and the citation panel in another tool
 
@@ -104,9 +106,9 @@ Para acrescentar um paciente, copiar um ficheiro de `tools/patients/`, editá-lo
 
 Qualquer instituição pode usar, adaptar e partilhar esta ferramenta, incluindo em ensino e formação, **desde que a cite**. Código: MIT ([LICENSE](LICENSE)). Conteúdos e dados fictícios: CC BY 4.0 ([LICENSE-CONTENT](LICENSE-CONTENT)).
 
-> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://ciencia-letras.github.io/ips-timeline/
+> Correia, R. (2026). *Virtual patients: from IPS to an interactive health timeline* (Version 1.0.0) [Computer software]. Ciência e Letras. https://doi.org/10.5281/zenodo.24168811
 
-O cabeçalho e o painel de citação podem ser reutilizados noutras ferramentas: copiar `assets/cel/` e editar `assets/cel/tool.js`. O DOI do Zenodo será acrescentado com a primeira versão publicada.
+O cabeçalho e o painel de citação podem ser reutilizados noutras ferramentas: copiar `assets/cel/` e editar `assets/cel/tool.js`. Arquivado no Zenodo: DOI desta versão [10.5281/zenodo.24168811](https://doi.org/10.5281/zenodo.24168811), de todas as versões [10.5281/zenodo.24168810](https://doi.org/10.5281/zenodo.24168810), na [comunidade Ciência e Letras](https://zenodo.org/communities/ciencia-letras).
 
 ### Limites
 

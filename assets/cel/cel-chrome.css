@@ -87,3 +87,4 @@
 @media print { .cel-topbar, .cel-header, .cel-toggle { display: none; } .cel-layout { display: block; } .cel-aside { position: static; height: auto; } }
 .cel-aside a.cel-orcid { display: inline-grid; place-items: center; width: 17px; height: 17px; border-radius: 50%; background: #A6CE39; color: #fff; font: 700 9.5px/1 var(--cel-body); vertical-align: 1px; margin-left: 3px; }
 .cel-aside a.cel-orcid:hover { text-decoration: none; filter: brightness(.92); }
+.cel-aside .cel-small { font-size: 12.5px; color: #74808D; }
